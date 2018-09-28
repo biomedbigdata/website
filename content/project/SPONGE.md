@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "SPONGE efficiently infers competitive endogeneous RNA interactions using paired gene and microRNA expression data."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "sponge_logo.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://bioconductor.org/packages/release/bioc/html/SPONGE.html"
 
 # Does the project detail page use math formatting?
 math = false
@@ -23,7 +23,7 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "sponge_overview.png"`.
 [header]
 image = ""
 caption = ""

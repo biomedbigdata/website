@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Markus List"
-  role = "Head of the Research Group"
+  role = "Head of the Research Group Big Data in Biomedicine"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -100,10 +100,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "48.3984274"
+  longitude = "11.72294"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -257,10 +257,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  [[params.social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/cv.pdf"
+  #[[params.social]]
+  # icon = "cv"
+  # icon_pack = "ai"
+  # link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -290,10 +290,15 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+  
+[[menu.main]]
+  name = "Group"
+  url = "#group"
+  weight = 2  
 
 [[menu.main]]
   name = "Contact"
@@ -313,7 +318,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
