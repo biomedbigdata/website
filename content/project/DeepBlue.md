@@ -1,20 +1,20 @@
 +++
-title = "Competing endogenous RNA network inference"
+title = "Large-scale epigenomics data analysis"
 date = 2018-09-28T19:39:58+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["epigenomics", "IHEC", "multi-omics"]
 
 # Project summary to display on homepage.
-summary = "We develop tools that use large-scale paired miRNA and gene expression data to infer microRNA regulation networks driven by the competing endogenous RNA effect. SPONGE is based on partial correlations while JAMI is based on conditional mutual information."
+summary = "The DeepBlue web application server and its accompanying bioconductor R package facilitate user-friendly programmatic access to publicly available big epigenomic data sets."
 
 # Optional image to display on homepage.
-image_preview = "sponge_logo.png"
+image_preview = "deepblueR.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://bioconductor.org/packages/release/bioc/html/SPONGE.html"
+external_link = "https://deepblue.mpi-inf.mpg.de/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "sponge_overview.png"`.
 [header]
-image = ""
-caption = ""
+image = "deepbluer.png"
+caption = "DeepBlue Epigenomic Data Server"
 
 +++

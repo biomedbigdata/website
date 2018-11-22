@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Nucleic Acids Res.*"
-tags = ["epigenomics", "IHEC", "web application"], 
+tags = ["epigenomics", "IHEC", "web application"]
 url_pdf = "http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw211"
 doi = "10.1093/nar/gkw211"
 +++
