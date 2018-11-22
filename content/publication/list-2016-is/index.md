@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Nucleic Acids Res.*"
-tags = ["ListLab;TUM SFB Z02"]
+tags = ["functional genomics", "high-throughput screening", "web application", "biomarker discovery", "de novo network enrichment", "systems biology"]
 url_pdf = "http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw554"
 doi = "10.1093/nar/gkw554"
 +++

@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*F1000Res.*"
-tags = ["ListLab;KeyPathwayMining"]
+tags = ["de novo network enrichment", "systems biomedicine", "multi-omics integration"]
 url_pdf = "http://f1000research.com/articles/5-1531/v1"
 doi = "10.12688/f1000research.9054.1"
 +++

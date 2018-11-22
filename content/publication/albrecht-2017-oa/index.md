@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Bioinformatics*"
-tags = ["ListLab"]
+tags = ["epigenomics", "IHEC", "R", "bioconductor"]
 url_pdf = "https://academic.oup.com/bioinformatics/article/3045024/DeepBlueR:"
 doi = "10.1093/bioinformatics/btx099"
 +++

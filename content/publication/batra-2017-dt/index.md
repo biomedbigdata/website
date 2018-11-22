@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*npj Systems Biology and Applications*"
-tags = ["ListLab;TUM SFB Z02;KeyPathwayMining"]
+tags = ["de novo network enrichment", "evaluation"]
 url_pdf = "http://www.nature.com/articles/s41540-017-0007-2"
 doi = "10.1038/s41540-017-0007-2"
 +++

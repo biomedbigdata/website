@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Sci. Rep.*"
-tags = ["LIMS;NanoCAN;ListLab"]
+tags = ["LIMS", "functional genomics", "web application"]
 url_pdf = "http://www.nature.com/srep/2014/140304/srep04278/full/srep04278.html"
 doi = "10.1038/srep04278"
 +++

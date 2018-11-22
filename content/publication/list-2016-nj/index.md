@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Nucleic Acids Res.*"
-tags = ["ListLab;TUM SFB Z02"]
+tags = ["de novo network enrichment", "web application", "multi-omics integration", "systems biomedicine"]
 url_pdf = "http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkw373"
 doi = "10.1093/nar/gkw373"
 +++

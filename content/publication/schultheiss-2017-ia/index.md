@@ -1,0 +1,13 @@
++++
+title = "The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma"
+date = 2017-10-01
+authors = ["Christina S. Schultheiss", "Stephan Laggai", "Beate Czepukojc"," Usama K. Hussein", "Markus List", "Ahmad Barghash", "Sascha Tierling", "Kevan Hosseini", "Nicole Golob-Schwarz", "Juliane Pokorny", "Nina Hachenthal", "Marcel Schulz", "Volkhard Helms", "Jörn Walter", "Vincent  Zimmer", "Frank Lammert", "Rainer M. Bohle", "Luisa Dandolo"," Johannes Haybaeck", "Alexandra K. Kiemer", "Sonja M. Kessler"]
+publication_types = ["2"]
+abstract = "The long non-coding RNA (lncRNA) H19 represents a maternally expressed and epigenetically regulated imprinted gene product and is discussed to have either tumor-promoting or tumor-suppressive actions. Recently, H19 was shown to be regulated under inflammatory conditions. Therefore, aim of this study was to determine the function of H19 in hepatocellular carcinoma (HCC), an inflammation-associated type of tumor. In four different human HCC patient cohorts H19 was distinctly downregulated in tumor tissue compared to normal or non-tumorous adjacent tissue. We therefore determined the action of H19 in three different human hepatoma cell lines (HepG2, Plc/Prf5, and Huh7). Clonogenicity and proliferation assays showed that H19 overexpression could suppress tumor cell survival and proliferation after treatment with either sorafenib or doxorubicin, suggesting chemosensitizing actions of H19. Since HCC displays a highly chemoresistant tumor entity, cell lines resistant to doxorubicin or sorafenib were established. In all six chemoresistant cell lines H19 expression was significantly downregulated. The promoter methylation of the H19 gene was significantly different in chemoresistant cell lines compared to their sensitive counterparts. Chemoresistant cells were sensitized after H19 overexpression by either increasing the cytotoxic action of doxorubicin or decreasing cell proliferation upon sorafenib treatment. An H19 knockout mouse model (H19Δ3) showed increased tumor development and tumor cell proliferation after treatment with the carcinogen diethylnitrosamine (DEN) independent of the reciprocally imprinted insulin-like growth factor 2 (IGF2). In conclusion, H19 suppresses hepatocarcinogenesis, hepatoma cell growth, and HCC chemoresistance. Thus, mimicking H19 action might be a potential target to overcome chemoresistance in future HCC therapy."
+selected = "false"
+publication = "*Cell Stress*"
+tags = ["cancer", "long non-coding RNA", "chemoresistance"]
+url_pdf = "http://www.cell-stress.com/wp-content/uploads/2017/08/2017A-Schultheiss-Cell-Stress.pdf"
+doi = "10.15698/cst2017.10.105"
++++
+
