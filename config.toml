@@ -181,7 +181,8 @@ enableGitInfo = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book section',  # 6
+    'Preprint' #7
   ]
 
   # Configuration of talk pages.
@@ -297,7 +298,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Group"
-  url = "#group"
+  url = "group"
   weight = 2  
 
 [[menu.main]]
