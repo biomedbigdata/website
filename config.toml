@@ -66,7 +66,7 @@ enableGitInfo = false
   {name = "Technical University of Munich", url = "https://www.tum.de"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "356.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "markus.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "markus.list@wzw.tum.de"
   address = "Maximus-von-Imhof-Forum 3, 85354 Freising"
   office_hours = "Email for appointment"
@@ -207,6 +207,13 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     publication_format = 2
+    
+    # Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
+
 
   # Social/Academic Networking
   #
@@ -280,6 +287,11 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
+  
+[[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -298,7 +310,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Group"
-  url = "group"
+  url = "https://exbio.de/list-lab/"
   weight = 2  
 
 [[menu.main]]
@@ -314,20 +326,20 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+#  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [params.search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+#  [params.search.algolia]
+#    app_id = ""
+#    api_key = ""
+#    index_name = ""
+#    show_logo = false
 
 # Taxonomies.
 [taxonomies]

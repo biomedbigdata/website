@@ -1,17 +1,17 @@
 +++
-  title = "Olga Lazareva"
-  subtitle = "PhD student"
+  title = "Gregor Sturm"
+  subtitle = "MSc student"
   
   date = 2016-04-20T00:00:00
   lastmod = 2018-01-13T00:00:00
   draft = false
   
   # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-  authors = ["Olga Lazareva"]
+  authors = []
   
   share = false
   
-  tags = ["PhD"]
+  tags = ["cell type deconvolution"]
   summary = "Developing efficient heuristics for tackling big biomedical data"
   
   # Projects (optional).
@@ -35,6 +35,7 @@
   
   # Show image only in page previews?
   preview_only = false
+  
 +++
     
-I'm a Ph.D. student in the Chair of Experimental Bioinformatics at TU Munich. In 2015, I received a B.S. in Applied Mathematics in Moscow, and after some time in the industry, I moved to Rome to do an MSc in Data Science at La Sapienza University of Rome. There I participated in many projects related to Machine Learning, Data Mining, Bayesian Statistics and Signal Processing. In the second year of my studies, I became particularly instead in Graph Machine Learning  Techniques and its application to Network Biology. I then moved to Freising to write my Master's thesis on a problem of conjoint clustering of patients, networks and omics data. I then received an offer to stay in the group as a Ph.D. student which I was happy to accept.
+I am a master student in Bioinformatics with a research interest in Epigenetics and Immuno-Oncology. In my master thesis I am collaborating with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski's Lab in Innsbruck to better understand the functional orientation of immune cells in the tumor micro-environment. In a previous project, I co-developed BioQC, a method for assessing gene expression data for tissue heterogeneity.
