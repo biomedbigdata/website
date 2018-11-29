@@ -166,6 +166,8 @@ enableGitInfo = false
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
   custom_js  = []
+  
+  sharing_image = "biomedbigdata_logo_square.png"
 
   # Publication types.
   #   Used to categorize publications.
