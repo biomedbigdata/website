@@ -11,6 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Integration of BioMedical High-throughput Data",
+    "Epigenetic mechanisms and cell type heterogeneity",
+    "Cancer drug target discovery and immunotherapy",
     "(Federated) Machine Learning",
     "Systems and Network Medicine",
     "Computational Models for the Clinics"
@@ -38,4 +40,4 @@ weight = 5
 
 Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan. 
 
-We develop predictive models and software tools that integrate big heterogeneous (OMICS) data. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.
+We develop predictive models and software tools that integrate big heterogeneous (OMICS) data on the network level. Our long term vision is that our research finds application in clinical practice. Towards this goal, we also address challenges in data privacy as well as in explainability and continuity in modelling.
