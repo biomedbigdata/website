@@ -59,3 +59,7 @@ The position is available starting immediately and initially limited for 3 year 
 
 Interested? Send your application including your CV, the most relevant publications and two reference letters to markus.list@wzw.tum.de.
 
+### Data Protection Information
+
+When you apply for a position with the Technical University of Munich (TUM), you are submitting personal information. With regard to personal information, please take note of the Datenschutzhinweise gemäß Art. 13 Datenschutz-Grundverordnung (DSGVO) zur Erhebung und Verarbeitung von personenbezogenen Daten im Rahmen Ihrer Bewerbung. (data protection information on collecting and processing personal data contained in your application in accordance with Art. 13 of the General Data Protection Regulation (GDPR)). By submitting your application, you confirm that you have acknowledged the above data protection information of TUM.
+
