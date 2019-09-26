@@ -1,5 +1,5 @@
 +++
-title = "Infering gene-regulatory networks"
+title = "Sys_CARE: Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases"
 date = 2018-09-28T19:39:58+02:00
 draft = false
 
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "We develop tools that infer gene-regulatory networks. For example, we use large-scale paired miRNA and gene expression data to infer microRNA regulation networks driven by the competing endogenous RNA effect. To this end, we developed two methods. SPONGE is based on partial correlations while JAMI is based on conditional mutual information."
+summary = "Sys_CARE is a collaborative research project between the Technical University of Munich, Greifswald University, and the Saarland University. The overall goal of the project is to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data."
 
 # Optional image to display on homepage.
-image_preview = "sponge_logo.png"
+#image_preview = "sponge_logo.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://bioconductor.org/packages/release/bioc/html/SPONGE.html"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false

@@ -11,7 +11,7 @@ tags = ["federated machine learning", "privacy-preserving machine learning"]
 summary = "The EU H2020 project FeatureCloud aims at developing methods for privacy-preserving, federated machine learning."
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "https://bioconductor.org/packages/release/bioc/html/SPONGE.html"
+external_link = "https://featurecloud.eu"
 
 # Does the project detail page use math formatting?
 math = false

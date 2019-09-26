@@ -14,11 +14,29 @@ subtitle = ""
 weight = 60
 
 +++
+
+## WS 2019 / 2020
+
++ Systems BioMedicine
++ Introduction to Bioinformatik I
++ Journal Club Bioinformatics
+
 ## SS 2018
 
-+ Einführung in die Bioinformatik II / Introduction to Bioinformatics II 
++ Advanced Bioinformatics
++ Introduction to Bioinformatics II 
++ Master practical course
++ Journal Club Bioinformatics
 
 ## WS 2018/2019
 
-+ Einführung in die Bioinformatik I
++ Introduction to Bioinformatik I
 + Journal Club Bioinformatics
+
+## SS 2018
+
++ Introduction to Bioinformatics II
+
+## Further information
+A short description, dates, and rooms for these lectures and courses can be found at https://www.exbio.de/teaching.
+More details are available at https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2017/ (Bachelor) and https://www.in.tum.de/fuer-studierende/master-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2016/ (Master).

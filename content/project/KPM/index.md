@@ -1,5 +1,5 @@
 +++
-title = "De novo network enrichment"
+title = "Disease mechanisms and molecular interaction networks"
 date = 2018-09-28T19:39:58+02:00
 draft = false
 
