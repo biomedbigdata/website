@@ -20,6 +20,9 @@ weight = 60
 + Systems BioMedicine
 + Introduction to Bioinformatik I
 + Journal Club Bioinformatics
++ Basics in Bioinformatics (CRC1371)
++ Computational Systems Medicine (CRC1371)
++ Basic Introduction to R for Bioinformatics (CRC1321)
 
 ## SS 2018
 
