@@ -51,6 +51,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+doi = "https://doi.org/10.1093/bioinformatics/btz363"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -1,5 +1,5 @@
 +++
-title = "Sys_CARE: Systems Medicine Investigation of Alternative Splicing in Cardiac and Renal Diseases"
+title = "Sys_CARE"
 date = 2018-09-28T19:39:58+02:00
 draft = false
 
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Sys_CARE is a collaborative research project between the Technical University of Munich, Greifswald University, and the Saarland University. The overall goal of the project is to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data."
+summary = "Sys_CARE is a BMBF-funded collaborative research project to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data."
 
 # Optional image to display on homepage.
 #image_preview = "sponge_logo.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.sys-med.de/en/alliances/sys-care/"
 
 # Does the project detail page use math formatting?
 math = false
