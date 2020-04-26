@@ -15,6 +15,13 @@ weight = 60
 
 +++
 
+## SS 2020
+
++ Advanced Bioinformatics
++ Introduction to Bioinformatics II 
++ Master practical course
++ Journal Club Bioinformatics
+
 ## WS 2019 / 2020
 
 + Systems BioMedicine
@@ -23,6 +30,7 @@ weight = 60
 + Basics in Bioinformatics (CRC1371)
 + Computational Systems Medicine (CRC1371)
 + Basic Introduction to R for Bioinformatics (CRC1321)
++ Basic Introduction to R for Bioinformatics (CRC1371)
 
 ## SS 2018
 
@@ -39,6 +47,10 @@ weight = 60
 ## SS 2018
 
 + Introduction to Bioinformatics II
+
+## Thesis topics
+
+We have no shortage in exciting and topics for talented Bachelor and Master students that seek a challenge. Contact us and let us know about your interests.
 
 ## Further information
 A short description, dates, and rooms for these lectures and courses can be found at https://www.exbio.de/teaching.
