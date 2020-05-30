@@ -1,5 +1,5 @@
 echo "Skipping update references"
-#wget -O references.bib "https://scholar.googleusercontent.com/citations?view_op=export_citations&user=jUC0gLMAAAAJ&citsig=AMD79ooAAAAAXqPbcG_rBc35L2aabL9k1KXNgiL4TYn5&hl=en"
+#wget -O references.bib "https://scholar.googleusercontent.com/citations?view_op=export_citations&user=jUC0gLMAAAAJ&citsig=AMD79ooAAAAAXtPOqJBJWe4s2jnP7rXwKCyJV6YrcZKB&hl=en"
 #iconv -f ISO-8859-1 -t UTF-8 references.bib > references_utf8.bib
 #academic import --bibtex $PWD/references_utf8.bib
 
