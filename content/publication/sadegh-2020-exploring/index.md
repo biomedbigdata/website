@@ -13,7 +13,7 @@ abstract = "Coronavirus Disease-2019 (COVID-19) is an infectious disease caused 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
