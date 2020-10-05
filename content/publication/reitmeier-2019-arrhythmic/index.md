@@ -1,16 +1,13 @@
 +++
-title = "Arrhythmic gut microbiome signatures for risk profiling of Type-2 Diabetes"
-date = 2019-01-01
+title = "Arrhythmic Gut Microbiome Signatures Predict Risk of Type 2 Diabetes"
+date = 2020-08-12
 authors = ["Sandra Reitmeier", "Silke Kiessling", "Thomas Clavel", "Markus List", "Eduardo L Almeida", "Tarini G Ghosh", "Klaus Neuhaus", "Martina Troll", "Harald Grallert", "Wolfgang Rathmann", " others"]
-publication_types = ["7"]
-abstract = ""
-selected = false
-publication = "*bioRxiv*"
-doi = "10.1101/2019.12.27.889865"
-+++
+publication_types = ["2"]
+publication = "*Cell Host & Microbe*"
+doi = "10.1016/j.chom.2020.06.004"
 
 # Abstract and optional shortened version.
-abstract = "To combat the epidemic increase in Type-2-Diabetes (T2D), risk factors need to be identified. Diet, lifestyle and the gut microbiome are among the most important factors affecting metabolic health. We demonstrate in 1,976 subjects of a prospective population cohort that specific gut microbiota members show diurnal oscillations in their relative abundance and we identified 13 taxa with disrupted rhythmicity in T2D. Prediction models based on this signature classified T2D with an area under the curve of 73%. BMI as microbiota-independent risk marker further improved diagnostic classification of T2D. The validity of this arrhythmic risk signature to predict T2D was confirmed in 699 KORA subjects five years after initial sampling. Shotgun metagenomic analysis linked 26 pathways associated with xenobiotic, amino acid, fatty acid, and taurine metabolism to the diurnal oscillation of gut bacteria. In summary, we determined a cohort-specific risk pattern of arrhythmic taxa which significantly contributes to the classification and prediction of T2D, highlighting the importance of circadian rhythmicity of the microbiome in targeting metabolic human diseases."
+abstract = "Lifestyle, obesity, and the gut microbiome are important risk factors for metabolic disorders. We demonstrate in 1,976 subjects of a German population cohort (KORA) that specific microbiota members show 24-h oscillations in their relative abundance and identified 13 taxa with disrupted rhythmicity in type 2 diabetes (T2D). Cross-validated prediction models based on this signature similarly classified T2D. In an independent cohort (FoCus), disruption of microbial oscillation and the model for T2D classification was confirmed in 1,363 subjects. This arrhythmic risk signature was able to predict T2D in 699 KORA subjects 5 years after initial sampling, being most effective in combination with BMI. Shotgun metagenomic analysis functionally linked 26 metabolic pathways to the diurnal oscillation of gut bacteria. Thus, a cohort-specific risk pattern of arrhythmic taxa enables classification and prediction of T2D, suggesting a functional link between circadian rhythms and the microbiome in metabolic diseases."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -30,8 +27,8 @@ projects = []
 tags = ["microbiome", "16S rRNA amplicon sequencing", "circadian rhythm", "machine learning", "diabetes"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2019.12.27.889865v1.full.pdf"
-url_preprint = "https://www.biorxiv.org/content/10.1101/2019.12.27.889865v1"
+url_pdf = ""
+url_preprint = ""
 url_code = ""
 url_dataset = "https://www.helmholtz-muenchen.de/kora/index.html"
 url_project = ""
@@ -39,7 +36,6 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1101/2019.12.27.889865"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -50,3 +46,4 @@ math = false
 
 # Does this page require source code highlighting? (true/false)
 highlight = true
++++

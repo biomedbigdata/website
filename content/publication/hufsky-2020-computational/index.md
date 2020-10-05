@@ -2,7 +2,7 @@
 title = "Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research"
 date = 2020-05-23
 authors = ["Franziska Hufsky", "Kevin Lamkiewicz", "Alexandre Almeida", "Abdel Aouacheria", "Cecilia Arighi", "Alex Bateman", "Jan Baumbach", "Niko Beerenwinkel", "Christian Brandt", "Marco Cacciabue", " others"]
-publication_types = ["7"]
+publication_types = ["3"]
 publication = "preprints.org"
 
 # Abstract and optional shortened version.

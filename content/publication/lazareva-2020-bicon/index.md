@@ -2,7 +2,7 @@
 title = "BiCoN: Network-constrained biclustering of patients and omics data"
 date = 2020-01-01
 authors = ["Olga Lazareva", "Hoan Van Do", "Stefan Canzar", "Kevin Yuan", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski", "Markus List"]
-publication_types = ["7"]
+publication_types = ["3"]
 publication = "*bioRxiv*"
 
 # Abstract and optional shortened version.
@@ -52,6 +52,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "bicon.png"
-caption = "The algorithmic framework of BiCoN. (1) Gene expression data is converted to a bipartite graph and PPI interactions are added as edges between genes. (2) ACO is employed for feature selection (relevant edges) and subsequently patients (3) and genes (4) are clustered. Multiple possible solutions are computed in parallel and then evaluated and reinforced. As a result (5), BiCoN stratifies patients based only on subnetworks representing disease mechanisms."
+caption = "The algorithmic framework of BiCoN. (1) Gene expression data is converted to a bipartite graph and PPI interactions are added as edges between genes. (2) ACO is employed for feature selection (relevant edges) and subsequently patients (3) and genes (4) are clustered. Multiple possible solutions are computed in parallel and then evaluated and reinforced. As a result (5), BiCoN stratifies patients based only on subnetworks representing disease mechanisms. "
 
 +++

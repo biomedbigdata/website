@@ -1,6 +1,6 @@
 +++
 # Toolss widget.
-widget = "tools"
+widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -8,7 +8,7 @@ title = "Software Tools"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 7
 
 # Content.
 # Display content from the following folder.
