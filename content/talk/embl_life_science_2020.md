@@ -5,20 +5,20 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-10-27
-time_end = 2019-09-28
+time_start = 2020-10-27T13:15:00+01:00
+time_end = 2019-09-27T13:35:00+01:00
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Modern medicine suffers from a conceptual crisis: diseases are defined and diagnosed based on symptoms (e.g., hypertension, depression) or affected organs (e.g., heart failure, nephropathy), complicating the use of therapies targeted at the causal disease mechanism. To mitigate this, the field of systems medicine aims to develop mechanistic disease definitions and to identify groups of patients that would benefit from targeted treatment with existing, new or repurposed drugs. The basis for systems medicine are big biomedical data obtained through modern omics technologies as well as rich public databases on molecular interactions, comorbidities, drug effects, etc. Integrative artificial intelligence (AI) methods have the potential to leverage these big data to change future clinical decision-making. We will highlight emerging examples of big data in systems medicine ranging from de novo endophenotyping, i.e. the stratification of patients based not only on simple molecular markers, but on composite, network-based markers to in silico methods for discovering drug repurposing candidates. The success of systems medicine hinges on the availability of large data sets. Thus, we will also consider federated AI as a framework to overcome technological and legislative barriers that currently prevent data sharing across medical institutions. "
 
 abstract_short = ""
 
 # Name of event and optional event URL.
 event = "EMBL Life Science Alliance AI in Healthcare symposium"
-event_url = "https://www.embl.de/LifeScienceAlliance/start/index.html"
+event_url = "https://med.stanford.edu/lifesciencealliance/symposium.html"
 
 # Location of event.
-location = "Heilbronn, Germany"
+location = "Virtual event"
 
 # Is this a selected talk? (true/false)
 selected = true
