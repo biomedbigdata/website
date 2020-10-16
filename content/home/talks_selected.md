@@ -1,8 +1,9 @@
 +++
 # Selected Talks widget.
-widget = "talks_selected"
+widget = "featured"
 active = false
 date = 2016-04-20T00:00:00
+headless = true
 
 title = "Selected Talks"
 subtitle = ""
