@@ -1,7 +1,7 @@
 +++
 title = "Efficient Management of High-Throughput Screening Libraries with SAVANAH"
 date = 2016-10-01
-authors = ["Markus List", "Marlene Pedersen Elnegaard", "Steffen Schmidt", "Helle Christiansen", "Qihua Tan", "Jan Mollenhauer", "Jan Baumbach"]
+authors = ["markus_list", "Marlene Pedersen Elnegaard", "Steffen Schmidt", "Helle Christiansen", "Qihua Tan", "Jan Mollenhauer", "Jan Baumbach"]
 publication_types = ["2"]
 abstract = ""
 selected = false

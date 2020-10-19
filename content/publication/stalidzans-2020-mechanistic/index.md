@@ -1,7 +1,7 @@
 +++
 title = "Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice"
 date = 2020-05-07
-authors = ["Egils Stalidzans", "Massimiliano Zanin", "Paolo Tieri", "Filippo Castiglione", "Annikka Polster", "Stefan Scheiner", "Jürgen Pahle", "Blaž Stres", "Markus List", "Jan Baumbach", " others"]
+authors = ["Egils Stalidzans", "Massimiliano Zanin", "Paolo Tieri", "Filippo Castiglione", "Annikka Polster", "Stefan Scheiner", "Jürgen Pahle", "Blaž Stres", "markus_list", "Jan Baumbach", " others"]
 publication_types = ["2"]
 publication = "*Network and Systems Medicine*"
 

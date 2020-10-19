@@ -1,7 +1,7 @@
 +++
 title = "De Novo Pathway-Based Classification of Breast Cancer Subtypes"
 date = 2020-01-01
-authors = ["Markus List", "Nicolas Alcaraz", "Richa Batra"]
+authors = ["markus_list", "Nicolas Alcaraz", "Richa Batra"]
 publication_types = ["6"]
 publication = "*Protein-Protein Interaction Networks*"
 publication_short = "*Springer Methods in Molecular Biology*"

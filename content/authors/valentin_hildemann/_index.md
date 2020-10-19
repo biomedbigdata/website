@@ -72,7 +72,7 @@ user_groups:
 - BSc and MSc Students
 
 
-weight: 16
+weight: 17
 ---
 
 Studying Bioinformatics since 2017 at the LMU and TUM in Munich I am now working towards my Bachelor's degree. Therefore I joined the Chair of Experimental Bioinformatics for my Bachelor's thesis on quantifying SNPs in mitochondrial DNA, as for me the mitochondrion is the most interesting cell organelle there is.

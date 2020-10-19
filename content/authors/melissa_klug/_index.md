@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 20
+weight: 22
 ---
 
 My PhD project is a connection between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. I received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and my M.Sc. of Biology from the LMU Munich in 2019. The results of my Master thesis at the Molecular Cardiology lab laid the foundation of this joined project. I am aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.

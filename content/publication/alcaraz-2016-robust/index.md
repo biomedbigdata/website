@@ -1,7 +1,7 @@
 +++
 title = "Robust de novo pathway enrichment with KeyPathwayMiner 5"
 date = 2016-01-01
-authors = ["Nicolas Alcaraz", "Markus List", "Martin Dissing-Hansen", "Marc Rehmsmeier", "Qihua Tan", "Jan Mollenhauer", "Henrik J Ditzel", "Jan Baumbach"]
+authors = ["Nicolas Alcaraz", "markus_list", "Martin Dissing-Hansen", "Marc Rehmsmeier", "Qihua Tan", "Jan Mollenhauer", "Henrik J Ditzel", "Jan Baumbach"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"

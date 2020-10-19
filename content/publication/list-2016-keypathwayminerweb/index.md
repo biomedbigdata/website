@@ -1,7 +1,7 @@
 +++
 title = "KeyPathwayMinerWeb: online multi-omics network enrichment"
 date = 2016-01-01
-authors = ["Markus List", "Nicolas Alcaraz", "Martin Dissing-Hansen", "Henrik J Ditzel", "Jan Mollenhauer", "Jan Baumbach"]
+authors = ["markus_list", "Nicolas Alcaraz", "Martin Dissing-Hansen", "Henrik J Ditzel", "Jan Mollenhauer", "Jan Baumbach"]
 publication_types = ["2"]
 abstract = ""
 selected = false

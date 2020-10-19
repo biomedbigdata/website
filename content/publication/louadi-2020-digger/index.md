@@ -1,7 +1,7 @@
 +++
 title = "DIGGER: exploring the functional role of alternative splicing in protein interactions"
 date = 2020-09-25
-authors = ["Z. Louadi", "K. Yuan", "A. Gress", "O. Tsoy", "O. V. Kalinina", "J. Baumbach", "T. Kacprowski","M. List"]
+authors = ["zakaria_louadi", "kevin_yuan", "Alexander Gress", "olga_tsoy", "Olga V. Kalinina", "Jan Baumbach", "Tim Kacprowski","markus_list"]
 #type:
 #    0 = Uncategorized
 #    1 = Conference paper

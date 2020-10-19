@@ -1,7 +1,7 @@
 +++
 title = "EpiGEN: an epistasis simulation pipeline"
 date = 2020-01-01
-authors = ["David B Blumenthal", "Lorenzo Viola", "Markus List", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski"]
+authors = ["david_blumenthal", "Lorenzo Viola", "markus_list", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski"]
 publication_types = ["2"]
 publication = "*Bioinformatics*"
 

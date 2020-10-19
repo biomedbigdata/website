@@ -1,7 +1,7 @@
 +++
 title = "Microarray R-based analysis of complex lysate experiments with MIRACLE"
 date = 2014-08-01
-authors = ["Markus List", "Ines Block", "Marlene Lemvig Pedersen", "Helle Christiansen", "Steffen Schmidt", "Mads Thomassen", "Qihua Tan", "Jan Baumbach", "Jan Mollenhauer"]
+authors = ["markus_list", "Ines Block", "Marlene Lemvig Pedersen", "Helle Christiansen", "Steffen Schmidt", "Mads Thomassen", "Qihua Tan", "Jan Baumbach", "Jan Mollenhauer"]
 publication_types = ["2"]
 abstract = ""
 selected = false

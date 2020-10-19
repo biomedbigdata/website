@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 18
+weight: 19
 ---
 
 I study Bioinformatics at Technical University Munich an Ludwig-Maximilians University in my Masters. I came to the ListLab as part of my master pratical course where I contributed to implementing a web application and API for SPONGE. Further, I am now working as a student programmer with Dr. Blumenthal. 

@@ -1,7 +1,7 @@
 +++
 title = "DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets"
 date = 2016-04-01
-authors = ["Felipe Albrecht", "Markus List", "Christoph Bock", "Thomas Lengauer"]
+authors = ["Felipe Albrecht", "markus_list", "Christoph Bock", "Thomas Lengauer"]
 publication_types = ["2"]
 abstract = ""
 selected = false

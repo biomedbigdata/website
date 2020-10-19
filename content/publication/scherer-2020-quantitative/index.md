@@ -1,7 +1,7 @@
 +++
 title = "Quantitative comparison of within-sample heterogeneity scores for DNA methylation data"
 date = 2020-01-01
-authors = ["Michael Scherer", "Almut Nebel", "Andre Franke", "Jörn Walter", "Thomas Lengauer", "Christoph Bock", "Fabian Müller", "Markus List"]
+authors = ["Michael Scherer", "Almut Nebel", "Andre Franke", "Jörn Walter", "Thomas Lengauer", "Christoph Bock", "Fabian Müller", "markus_list"]
 publication_types = ["2"]
 publication = "*Nucleic Acids Research*"
 

@@ -1,7 +1,7 @@
 +++
 title = "Efficient Sample Tracking With OpenLabFramework"
 date = 2014-03-01
-authors = ["Markus List", "Steffen Schmidt", "Jakub Trojnar", "Jochen Thomas", "Mads Thomassen", "Torben A Kruse", "Qihua Tan", "Jan Baumbach", "Jan Mollenhauer"]
+authors = ["markus_list", "Steffen Schmidt", "Jakub Trojnar", "Jochen Thomas", "Mads Thomassen", "Torben A Kruse", "Qihua Tan", "Jan Baumbach", "Jan Mollenhauer"]
 publication_types = ["2"]
 abstract = ""
 selected = false

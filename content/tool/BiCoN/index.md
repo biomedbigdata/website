@@ -3,6 +3,8 @@ title = "BiCoN"
 date = 2019-12-28T19:39:58+02:00
 draft = false
 
+authors = ["olga_lazareva"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["patient stratification", "network analysis", "biclustering", "mechanotyping", "systems medicine"]

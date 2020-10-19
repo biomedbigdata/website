@@ -1,19 +1,15 @@
-+++
-title = "Recent & Upcoming Talks"
-date = 2017-01-01T00:00:00
-math = false
-highlight = false
+---
+title: Recent & Upcoming Talks
 
-# List format.
-# 1 = List
-# 2 = Compact
-# 3 = Card
-# 4 = Citation
-# 5 = Showcase
-view = 2
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+

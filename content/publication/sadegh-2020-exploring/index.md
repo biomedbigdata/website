@@ -1,7 +1,7 @@
 +++
 title = "Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing"
 date = 2020-07-14
-authors = ["Sepideh Sadegh", "Julian Matschinske", "David B Blumenthal", "Gihanna Galindez", "Tim Kacprowski", "Markus List", "Reza Nasirigerdeh", "Mhaned Oubounyt", "Andreas Pichlmair", "Tim Daniel Rose", " others"]
+authors = ["Sepideh Sadegh", "Julian Matschinske", "david_blumenthal", "Gihanna Galindez", "Tim Kacprowski", "markus_list", "Reza Nasirigerdeh", "Mhaned Oubounyt", "Andreas Pichlmair", "Tim Daniel Rose", " others"]
 publication_types = ["2"]
 publication = "*Nature Communications*"
 

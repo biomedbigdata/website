@@ -1,7 +1,7 @@
 +++
 title = "Ten Simple Rules for Developing Usable Software in Computational Biology"
 date = 2017-01-01
-authors = ["Markus List", "Peter Ebert", "Felipe Albrecht"]
+authors = ["markus_list", "Peter Ebert", "Felipe Albrecht"]
 publication_types = ["2"]
 abstract = ""
 selected = false

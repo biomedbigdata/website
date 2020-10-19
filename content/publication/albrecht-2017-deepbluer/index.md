@@ -1,7 +1,7 @@
 +++
 title = "DeepBlueR: large-scale epigenomic analysis in R"
 date = 2017-01-01
-authors = ["Felipe Albrecht", "Markus List", "Christoph Bock", "Thomas Lengauer"]
+authors = ["Felipe Albrecht", "markus_list", "Christoph Bock", "Thomas Lengauer"]
 publication_types = ["2"]
 abstract = ""
 selected = false

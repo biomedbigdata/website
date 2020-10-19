@@ -16,6 +16,15 @@ weight = 80
 
 +++
 
+## WS 2020 / 2021
+
++ Systems BioMedicine
++ Introduction to Bioinformatics I
++ Journal Club Bioinformatics
++ Basics in Bioinformatics (GZW)
++ Basic Introduction to R for Bioinformatics (GZW)
++ Advanced lab cources (Master)
+
 ## SS 2020
 
 + Advanced Bioinformatics

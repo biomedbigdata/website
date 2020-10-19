@@ -1,7 +1,7 @@
 +++
 title = "Mass-spectrometry-based draft of the Arabidopsis proteome"
 date = 2020-03-11
-authors = ["Julia Mergner", "Martin Frejno", "Markus List", "Michael Papacek", "Xia Chen", "Ajeet Chaudhary", "Patroklos Samaras", "Sandra Richter", "Hiromasa Shikata", "Maxim Messerer", "others"]
+authors = ["Julia Mergner", "Martin Frejno", "markus_list", "Michael Papacek", "Xia Chen", "Ajeet Chaudhary", "Patroklos Samaras", "Sandra Richter", "Hiromasa Shikata", "Maxim Messerer", "others"]
 publication_types = ["2"]
 selected = false
 publication = "*Nature*"

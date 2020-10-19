@@ -1,7 +1,7 @@
 +++
 title = "Large-scale inference of competing endogenous RNA networks with sparse partial correlation"
 date = 2019-01-01
-authors = ["Markus List", "Azim Dehghani Amirabad", "Dennis Kostka", "Marcel H Schulz"]
+authors = ["markus_list", "Azim Dehghani Amirabad", "Dennis Kostka", "Marcel H Schulz"]
 publication_types = ["1"]
 
 # Publication type.

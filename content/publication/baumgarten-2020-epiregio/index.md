@@ -1,7 +1,7 @@
 +++
 title = "EpiRegio: analysis and retrieval of regulatory elements linked to genes"
 date = 2020-05-27
-authors = ["Nina Baumgarten", "Dennis Hecker", "Sivarajan Karunanithi", "Florian Schmidt", "Markus List", "Marcel H Schulz"]
+authors = ["Nina Baumgarten", "Dennis Hecker", "Sivarajan Karunanithi", "Florian Schmidt", "markus_list", "Marcel H Schulz"]
 publication_types = ["2"]
 publication = "*Nucleic Acids Research*"
 

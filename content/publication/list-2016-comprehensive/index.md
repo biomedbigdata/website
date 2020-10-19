@@ -1,7 +1,7 @@
 +++
 title = "Comprehensive analysis of high-throughput screens with HiTSeekR"
 date = 2016-06-01
-authors = ["Markus List", "Steffen Schmidt", "Helle Christiansen", "Marc Rehmsmeier", "Qihua Tan", "Jan Mollenhauer", "Jan Baumbach"]
+authors = ["markus_list", "Steffen Schmidt", "Helle Christiansen", "Marc Rehmsmeier", "Qihua Tan", "Jan Mollenhauer", "Jan Baumbach"]
 publication_types = ["2"]
 abstract = ""
 selected = false

@@ -3,7 +3,7 @@ title = "Comprehensive evaluation of transcriptome-based cell-type quantificatio
 date = 2019-01-01
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gregor Sturm", "Francesca Finotello", "Florent Petitprez", "Jitao David Zheng", "Jan Baumbach", "Wolf H Fridman", "Markus List", "Tasiana Aneichyk"]
+authors = ["gregor_sturm", "Francesca Finotello", "Florent Petitprez", "Jitao David Zheng", "Jan Baumbach", "Wolf H Fridman", "markus_list", "Tasiana Aneichyk"]
 
 # Publication type.
 # Legend:

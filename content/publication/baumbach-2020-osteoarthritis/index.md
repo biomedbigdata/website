@@ -1,7 +1,7 @@
 +++
 title = "Individualized predictions of changes in knee pain, quality of life and walking speed following patient education and exercise therapy in patients with knee osteoarthritis – a prognostic model study"
 date = 2020-09-01
-authors = ["L. Baumbach", "M. List", "D.T. Grønne", "S.T. Skou", "E.M. Roos" ]
+authors = ["L. Baumbach", "markus_list", "D.T. Grønne", "S.T. Skou", "E.M. Roos" ]
 #type:
 #    0 = Uncategorized
 #    1 = Conference paper

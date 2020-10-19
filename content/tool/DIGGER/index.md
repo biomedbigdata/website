@@ -3,6 +3,8 @@ title = "DIGGER"
 date = 2020-08-01
 draft = false
 
+authors=["zakaria_louadi"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["network analysis"]

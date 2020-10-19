@@ -1,7 +1,7 @@
 +++
 title = "De Novo Pathway Enrichment with KeyPathwayMiner"
 date = 2020-01-01
-authors = ["Nicolas Alcaraz", "Anne Hartebrodt", "Markus List"]
+authors = ["Nicolas Alcaraz", "anne_hartebrodt", "markus_list"]
 publication_types = ["6"]
 publication = "*Protein-Protein Interaction Networks*"
 

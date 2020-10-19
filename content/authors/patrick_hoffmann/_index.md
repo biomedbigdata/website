@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 19
+weight: 20
 ---
 
 In his bachelor thesis, Patrick used machine learning to predict epitope-specificity from T cell receptor repertoires.

@@ -70,7 +70,7 @@ user_groups:
 - Members
 - PhD Students
 
-weight: 24
+weight: 27
 ---
 
 I'm a PhD candidate at the Chair of Experimental Bioinformatics starting from April 2020. I will be focusing on using machine learning methods to study the alternative splicing events in cardiac and kidney diseases. I'm particularly interested in exploring omics data in a time series manner. I got my BSc in Life Sciences in Taiwan and my MSc in Biology at LMU Munich. In my master thesis, I have been performing time course network enrichment analysis on X-irradiated human fibroblast. 

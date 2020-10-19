@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 37
+weight: 40
 ---
 
 I'm a Master student in Bioinformatics at the Technical University of Munich and the Ludwig-Maximilian University. In October 2019, I joined the Chair of Experimental Bioinformatics in Weihenstephan to work on my bachelor thesis on the indentification of miRNA binding site enriched transcripts in The Cancer Genome Atlas. From October 2020, I work as a student assistant for the group.

@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 14
+weight: 15
 ---
 
 I am a Master's student in Bioinformatics at the TUM and LMU in Munich since autumn 2018. Right before, I received a Bachelor's degree in Bioinformatics from the Goethe University in Frankfurt, where I wrote my thesis in the machine learning area.

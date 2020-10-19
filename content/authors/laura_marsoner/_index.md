@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 28
+weight: 31
 ---
 
 From 2018-2019, Laura was working as a student programmer in the ListLab to improve the web version of KeyPathwayMiner. 

@@ -1,7 +1,7 @@
 +++
 title = "PTPN2 Deficiency Enhances Programmed T Cell Expansion and Survival Capacity of Activated T Cells"
 date = 2020-07-28
-authors = ["Markus Flosbach", "Susanne G. Oberle", "Stefanie Scherer", "Jana Zecha", "Madlaina von Hoesslin", "Florian Wiede", "Vijaykumar Chennupati", "Jolie G. Cullen", "Markus List", "Josch K. Pauling", "Jan Baumbach", "Bernhard Kuster", "Tony Tiganis", "Dietmar Zehn"]
+authors = ["Markus Flosbach", "Susanne G. Oberle", "Stefanie Scherer", "Jana Zecha", "Madlaina von Hoesslin", "Florian Wiede", "Vijaykumar Chennupati", "Jolie G. Cullen", "markus_list", "Josch K. Pauling", "Jan Baumbach", "Bernhard Kuster", "Tony Tiganis", "Dietmar Zehn"]
 publication_types = ["2"]
 publication = "*Cell Reports*"
 doi = "10.1016/j.chom.2020.06.004"

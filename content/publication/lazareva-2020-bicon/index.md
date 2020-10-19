@@ -1,7 +1,7 @@
 +++
 title = "BiCoN: Network-constrained biclustering of patients and omics data"
 date = 2020-01-01
-authors = ["Olga Lazareva", "Hoan Van Do", "Stefan Canzar", "Kevin Yuan", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski", "Markus List"]
+authors = ["olga_lazareva", "Hoan Van Do", "Stefan Canzar", "kevin_yuan", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski", "markus_list"]
 publication_types = ["3"]
 publication = "*bioRxiv*"
 

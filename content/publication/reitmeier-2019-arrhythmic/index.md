@@ -1,7 +1,7 @@
 +++
 title = "Arrhythmic Gut Microbiome Signatures Predict Risk of Type 2 Diabetes"
 date = 2020-08-12
-authors = ["Sandra Reitmeier", "Silke Kiessling", "Thomas Clavel", "Markus List", "Eduardo L Almeida", "Tarini G Ghosh", "Klaus Neuhaus", "Martina Troll", "Harald Grallert", "Wolfgang Rathmann", " others"]
+authors = ["Sandra Reitmeier", "Silke Kiessling", "Thomas Clavel", "markus_list", "Eduardo L Almeida", "Tarini G Ghosh", "Klaus Neuhaus", "Martina Troll", "Harald Grallert", "Wolfgang Rathmann", " others"]
 publication_types = ["2"]
 publication = "*Cell Host & Microbe*"
 doi = "10.1016/j.chom.2020.06.004"

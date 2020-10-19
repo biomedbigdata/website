@@ -71,7 +71,7 @@ user_groups:
 - Members
 - Post-Docs
 
-weight: 39
+weight: 42
 ---
 
 I'm a Postdoc at the Chair of Experimental Bioinformatics working on the BMBF funded Sys_CARE project about alternative splicing in cardiac and renal diseases. I graduated from Lomonosov Moscow State University and did PhD in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the evolution of transcriptional regulatory networks in bacteria. During my PhD I shortly stayed at Stowers Institute for Medical Research, Kansas-City, where I went on working on regulation of bacterial metabolic pathways. As a research scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on 3D chromatin structure analysis.

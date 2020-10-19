@@ -3,6 +3,8 @@ title = "EpiGEN"
 date = 2020-02-05
 draft = false
 
+authors=["david_blumenthal"]
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["EpiGEN","epistasis", "Python", "simulation", "Software"]

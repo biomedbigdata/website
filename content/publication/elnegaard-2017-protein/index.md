@@ -1,7 +1,7 @@
 +++
 title = "Protein-based nanotoxicology assessment strategy"
 date = 2017-01-01
-authors = ["Marlene Pedersen Elnegaard", "Markus List", "Helle Christiansen", "Steffen Schmidt", "Jan Mollenhauer", "Ines Block"]
+authors = ["Marlene Pedersen Elnegaard", "markus_list", "Helle Christiansen", "Steffen Schmidt", "Jan Mollenhauer", "Ines Block"]
 publication_types = ["2"]
 abstract = ""
 selected = false
