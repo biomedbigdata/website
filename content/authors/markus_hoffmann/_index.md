@@ -43,19 +43,25 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:mhoffmann@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MarkusHoffmann2
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Firestar93
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1920-288X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Markus_Hoffmann22
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -74,4 +80,4 @@ user_groups:
 weight: 19
 ---
 
-I study Bioinformatics at Technical University Munich an Ludwig-Maximilians University in my Masters. I came to the ListLab as part of my master pratical course where I contributed to implementing a web application and API for SPONGE. Further, I am now working as a student programmer with Dr. Blumenthal. 
+In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for [Dr. David Blumenthal](/authors/david_blumenthal/) on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis. I finished my Master’s Thesis - GenEpiSeeker: a tool for generic epistasis detection via local search – in September 2020. In October 2020, I decided to continue my work at the biomedical big data group as a Ph.D. student. As a Ph.D. student, I will focus on computational methods to unravel gene-regulatory combinatorics of putative super-enhancers in cooperation with Prof. Dr. Lothar Hennighausen and the National Institute of Health (NIH), Maryland, USA.
