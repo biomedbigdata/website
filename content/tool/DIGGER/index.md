@@ -7,7 +7,7 @@ authors=["zakaria_louadi"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["network analysis"]
+tags = ["network analysis","systems medicine"]
 
 # Project summary to display on homepage.
 summary = "Analyze protein-protein and domain-domain interactions in a joint graph."

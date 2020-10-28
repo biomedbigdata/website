@@ -1,5 +1,5 @@
 +++
-title = "NetBioMed 2020"
+title = "Beyond protein-protein interaction networks - implications of alternative splicing and non-coding RNA regulation"
 draft = false
 
 # Talk start and end times.
