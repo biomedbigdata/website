@@ -1,12 +1,11 @@
 +++
 title = "Network biology in the era of big data"
-date = 2019-08-06  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-09-16T16:00:00+02:00
-time_end = 2019-09-16T17:00:00+02:00
+date = 2019-09-16T16:00:00+02:00
+date_end = 2019-09-16T17:00:00+02:00
 
 # Abstract and optional shortened version.
 abstract = ""

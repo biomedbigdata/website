@@ -1,12 +1,11 @@
 +++
 title = "NetBioMed 2020"
-date = 2020-04-26  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-09-17T15:30:00+01:00
-time_end = 2019-09-17T16:00:00+01:00
+date = 2020-09-17T15:30:00+01:00
+date_end = 2019-09-17T16:00:00+01:00
 
 # Abstract and optional shortened version.
 abstract = ""

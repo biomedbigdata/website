@@ -1,12 +1,11 @@
 +++
 title = "Overcoming challenges in the integrative analysis of epigenomic data"
-date = 2019-01-15  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-02-11T11:30:00+02:00
-#time_end = 2019-02-11T12:00:00+02:00
+date = 2019-02-11T11:30:00+02:00
+#date_end = 2019-02-11T12:00:00+02:00
 
 # Abstract and optional shortened version.
 abstract = ""
