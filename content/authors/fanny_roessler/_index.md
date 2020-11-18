@@ -48,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:fanny.roessler@tum.de'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Fanny_Roessler
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
