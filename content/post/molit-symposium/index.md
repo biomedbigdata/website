@@ -5,6 +5,7 @@ subtitle = "Translational Oncology meets IT"
 date = 2019-03-18T00:00:00
 lastmod = 2019-03-18T00:00:00
 draft = false
+reading_time = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

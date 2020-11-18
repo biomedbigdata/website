@@ -1,7 +1,7 @@
 +++
 title = "On the performance of de novo pathway enrichment"
 date = 2017-01-01
-authors = ["Richa Batra", "Nicolas Alcaraz", "Kevin Gitzhofer", "Josch Pauling", "Henrik J Ditzel", "Marc Hellmuth", "Jan Baumbach", "markus_list"]
+authors = ["Richa Batra", "Nicolas Alcaraz", "Kevin Gitzhofer", "Josch K. Pauling", "Henrik J Ditzel", "Marc Hellmuth", "Jan Baumbach", "markus_list"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"

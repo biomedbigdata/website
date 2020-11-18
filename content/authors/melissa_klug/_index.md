@@ -56,6 +56,12 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-5193-2770
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Melissa_Klug
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

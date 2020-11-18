@@ -5,6 +5,7 @@ subtitle = "The CoVex systems medicine platform"
 date = 2020-04-24T00:00:00
 lastmod = 2020-04-24T00:00:00
 draft = false
+reading_time = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

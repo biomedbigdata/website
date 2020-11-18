@@ -1,7 +1,7 @@
 +++
 title = "BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification"
 date = 2020-10-02
-authors = ["Philipp Weber", "Josch Konstantin Pauling", "markus_list", "Jan Baumbach"]
+authors = ["Philipp Weber", "Josch K. Pauling", "markus_list", "Jan Baumbach"]
 publication_types = ["2"]
 publication = "*metabolites*"
 
