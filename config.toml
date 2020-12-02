@@ -66,7 +66,7 @@ enableGitInfo = false
   {name = "Technical University of Munich", url = "https://www.tum.de"}]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "markus.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "markus.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "markus.list@wzw.tum.de"
   address = "Maximus-von-Imhof-Forum 3, 85354 Freising"
   office_hours = "Email for appointment"
