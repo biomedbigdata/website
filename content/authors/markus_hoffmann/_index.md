@@ -50,9 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarkusHoffmann2
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=_qXUS28AAAAJ&hl=de
 - icon: github
   icon_pack: fab
   link: https://github.com/Firestar93
