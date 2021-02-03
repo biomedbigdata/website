@@ -16,6 +16,14 @@ weight = 80
 
 +++
 
+## SS 2021
++ Introduction to Bioinformatics II
++ Advanced Bioinformatics
++ Master practical course (click [here](https://docs.google.com/document/d/1p6UYTgzHkcrpinP_cMjIRq43Dsv9iOrtF5ry1Nz4BuI/edit?usp=sharing) for project details)
++ Journal Club Bioinformatics ([GZW](https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/))
++ Basic Introduction to R ([GZW](https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/))
++ Basic Introduction to Python ([GZW](https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/))
+
 ## WS 2020 / 2021
 
 + Systems BioMedicine
