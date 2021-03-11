@@ -1,7 +1,7 @@
 +++
 title = "SARS-CoV-2 infection is associated with a pro-thrombotic platelet phenotype"
 date = 2021-01-05
-authors = ["Dario Bongiovanni",  "melissa_klug", "olga_lazareva", "Simon Widlich","Marina Biasi", "Simona Ursu", "Sarah Warth", "Christian Buse", "Marina Lukas", "Christoph D. Spinner", "Moritz von Scheidt", "Gianluigi Condorelli", "Jan Baumbach", "Karl-Ludwig Laugwitz", "markus_list", "Isabell Bernocher"]
+authors = ["Dario Bongiovanni",  "melissa_klug", "olga_lazareva", "Simon Widlich","Marina Biasi", "Simona Ursu", "Sarah Warth", "Christian Buse", "Marina Lukas", "Christoph D. Spinner", "Moritz von Scheidt", "Gianluigi Condorelli", "Jan Baumbach", "Karl-Ludwig Laugwitz", "markus_list", "Isabell Bernlochner"]
 #type:
 #    0 = Uncategorized
 #    1 = Conference paper
