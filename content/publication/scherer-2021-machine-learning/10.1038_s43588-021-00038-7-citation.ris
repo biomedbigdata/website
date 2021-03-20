@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Scherer, Michael
+AU  - Schmidt, Florian
+AU  - Lazareva, Olga
+AU  - Walter, Jörn
+AU  - Baumbach, Jan
+AU  - Schulz, Marcel H.
+AU  - List, Markus
+PY  - 2021
+DA  - 2021/03/15
+TI  - Machine learning for deciphering cell heterogeneity and gene regulation
+JO  - Nature Computational Science
+AB  - Epigenetics studies inheritable and reversible modifications of DNA that allow cells to control gene expression throughout their development and in response to environmental conditions. In computational epigenomics, machine learning is applied to study various epigenetic mechanisms genome wide. Its aim is to expand our understanding of cell differentiation, that is their specialization, in health and disease. Thus far, most efforts focus on understanding the functional encoding of the genome and on unraveling cell-type heterogeneity. Here, we provide an overview of state-of-the-art computational methods and their underlying statistical concepts, which range from matrix factorization and regularized linear regression to deep learning methods. We further show how the rise of single-cell technology leads to new computational challenges and creates opportunities to further our understanding of epigenetic regulation.
+SN  - 2662-8457
+UR  - https://doi.org/10.1038/s43588-021-00038-7
+DO  - 10.1038/s43588-021-00038-7
+ID  - Scherer2021
+ER  - 

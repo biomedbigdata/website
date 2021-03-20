@@ -70,7 +70,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 36
+weight: 37
 ---
 
 

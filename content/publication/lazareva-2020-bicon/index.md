@@ -1,8 +1,8 @@
 +++
 title = "BiCoN: Network-constrained biclustering of patients and omics data"
-date = 2020-01-01
-authors = ["olga_lazareva", "Hoan Van Do", "Stefan Canzar", "kevin_yuan", "Jan Baumbach", "Paolo Tieri", "Tim Kacprowski", "markus_list"]
-publication_types = ["3"]
+date = 2020-12-26
+authors = ["olga_lazareva", "Stefan Canzar", "kevin_yuan",  "Jan Baumbach", "david_blumenthal", "Paolo Tieri", "Tim Kacprowski", "markus_list"]
+publication_types = ["2"]
 publication = "*bioRxiv*"
 
 # Abstract and optional shortened version.
@@ -27,7 +27,7 @@ projects = []
 tags = ["cell-type heterogeneity", "patient stratification", "systems medicine", "network enrichment"]
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2020.01.31.926345v3.full.pdf"
+url_pdf = "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaa1076/35151719/btaa1076.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2020.01.31.926345v3"
 url_code = "https://pypi.org/project/bicon"
 url_dataset = ""
@@ -36,7 +36,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1101/2020.01.31.926345"
+doi = "10.1093/bioinformatics/btaa1076"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

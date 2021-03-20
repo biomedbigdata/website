@@ -75,7 +75,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 39
+weight: 40
 ---
 
 I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor's degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.

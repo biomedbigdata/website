@@ -71,7 +71,7 @@ bio:
 user_groups:
 - Alumni
 
-weight: 43
+weight: 44
 ---
 
 I'm a Bioinformatics Bachelor student at the Ludwig Maximilian University of Munich and Technical University of Munich since October 2017. 
