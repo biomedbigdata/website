@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 25
+weight: 27
 ---
 
 I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration with the Institute of Pathology, both at TUM. I’ve originally joined Prof. Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to identify pathway-based subnetwork of genes most significantly associated to survival time of cancer patients. Other topics of my interest are machine learning (both supervised and unsupervised), manipulation and analysis of the data from a statistical point of view. My current work is mainly focused on the analysis of DNA methylation data.

@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 16
+weight: 18
 ---
 
 During his Master thesis, Quirin implemented a Django-based web interface for the network-constrained biclustering method BiGAnts.

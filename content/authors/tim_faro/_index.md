@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 11
+weight: 13
 ---
 
 I'm in my first year towards a master's degree in Bioinformatics at the LMU and Technical University of Munich. After finishing my bachelor's thesis on breast cancer radiomics, I continued to work at the Chair of Experimental Bioinformatics in Weihenstephan as a student research assistant to further develop my thesis project.

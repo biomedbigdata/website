@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 35
+weight: 37
 ---
 
 Michalea was working on analyzing total- and single-cell RNASeq data from platelets from November 2019 till February 2020 as part of an internship.

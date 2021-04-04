@@ -80,7 +80,7 @@ user_groups:
 - Head
 #- Members
 
-weight: 28
+weight: 30
 ---
 
 Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan. 

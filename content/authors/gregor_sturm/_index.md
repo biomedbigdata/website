@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 42
+weight: 46
 ---
 
 Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski's Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.

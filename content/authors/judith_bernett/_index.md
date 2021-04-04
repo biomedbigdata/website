@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 4
+weight: 5
 ---
 
 I'm a bioinformatics master's student at TUM and LMU and joined the Chair of Experimental Bioinformatics for my bachelor's thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair.

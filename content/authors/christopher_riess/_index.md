@@ -73,7 +73,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 39
+weight: 42
 ---
 
 I am a Bioinformatics bachelor student at the LMU and TUM since 2017 and I've come to the ListLab to write my bachelor thesis on the prediction of chromatin structure from ChIP-seq data. Since my personal focus has always gone towards machine learning technology, this thesis topic seemed like a perfect fit for me and I'm glad I was accepted for it.

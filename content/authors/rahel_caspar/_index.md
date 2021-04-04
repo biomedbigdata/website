@@ -73,7 +73,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 7
+weight: 9
 ---
 
 I am a Bachelor student in Bioinformatics at the TUM and LMU since October 2016. In December 2019, I joined the Chair of Experimental Bioinformatics to work on my bachelor thesis about the landscape of alternative splicing events in a healthy population.

@@ -71,7 +71,7 @@ user_groups:
 - Members
 - Post-Docs
 
-weight: 5
+weight: 6
 ---
 
 In October 2019, I will join the Chair of Experimental Bioinformatics at TU Munich as a postdoctoral researcher. My main focus will be to apply techniques from combinatorial optimization and graph theory to address problems in network biology and systems medicine. From 2007 to 2015, I studied Mathematics and Philosophy at FU Berlin and TU Berlin and received Master’s degrees in both disciplines. After that, I did a Ph.D. in Computer Science at the Free University of Bozen-Bolzano, Italy. During my Ph.D., I developed new techniques for exactly and heuristically computing the graph edit distance, a widely used distance measure for comparing attributed combinatorial graphs.
