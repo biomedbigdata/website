@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Lis Arendt
+name: Silvie Baier
 
 # Username (this should match the folder name)
 authors:
-- lis_arendt
+- silvie_baier
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: Student Intern
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -47,10 +47,7 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
-#- icon: researchgate
-#  icon_pack: ai
-#  link:
+#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -72,9 +69,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
-- Student Research Assistants
+- BSc and MSc Students
 
-weight: 3
+weight: 38
 ---
-I’m a masters student in Bioinformatics at the Technical University of Munich and Ludwig-Maximilians-Universität München since October 2020. I developed a federated Cox proportional hazard model app for the FeatureCloud platform for my bachelor thesis and I am currently working on an integrated CyTOF data analysis pipeline.
+
+I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. 
+Currently I am working for [Markus Hoffmann](/authors/markus_hoffmann) on the development of GenEpiSeeker, a tool for generic epistasis detection via local search. 
+
