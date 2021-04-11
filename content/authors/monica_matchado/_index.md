@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 34
+weight: 35
 ---
 
 I am a Ph.D. student at Chair of Experimental Bioinformatics at TU Munich. I will be working on the Microbiome Project. I received my Bachelor's degree in Bioinformatics from Tamil Nadu Agricultural University and my Masters from Karunya Institute of Technology and Sciences, India. My master thesis was about building a draft genome annotation of Carica cauliflora using NGS pipeline. For my part-semester project, I worked on the characterization of Alternative Splicing events in Arabidopsis thaliana using the RNA-Seq approach at MPI-MP, Germany. After my masters, I worked as Research Fellow at Ganga Hospital, India where I focused on 16S Metagenomics as well as Proteomics. I am interested in learning and applying Machine learning concepts in solving biological questions.

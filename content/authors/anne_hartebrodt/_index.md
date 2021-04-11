@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 16
+weight: 17
 ---
 
 During her Master thesis, Anne developed a probabilistic approach for KeyPathwayMiner. pKPM accepts p-values rather than discrete values as input and allows for growing subnetworks under tight FDR control, i.e. without the need for choosing parameters K and L as it is the case in the current version of KPM. Anne moved to Odense where she starts a PhD in the Röttger lab.

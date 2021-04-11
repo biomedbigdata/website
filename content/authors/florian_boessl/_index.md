@@ -72,8 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- BSc and MSc Students
 
-
-weight: 7
+weight: 8
 ---
-
+I am an undergraduate student in the bioinformatics program at the TUM and LMU. In May 2021 I joined the chair of experimental bioinformatics to work on my  bachelor’s thesis on personalized identification of synthetic lethal drug target genes / synthetic essentiality.

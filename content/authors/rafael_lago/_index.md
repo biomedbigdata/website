@@ -71,5 +71,5 @@ email: "fannyroessler@tum.de"
 user_groups:
 - Alumni
 
-weight: 25
+weight: 26
 ---

@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Members
 
-weight: 11
+weight: 12
 ---
 
 I am a Bioinformatics Master student at the TUM and LMU. I joined the group in 2019, when I did my bachelor thesis on the role of circular RNA in sponging and implemented a docker pipeline for analyzing matched small- and total-RNA sequencing data. 

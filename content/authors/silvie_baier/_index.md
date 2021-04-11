@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 38
+weight: 4
 ---
 
 I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. 

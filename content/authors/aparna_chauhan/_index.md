@@ -71,5 +71,5 @@ organizations:
 user_groups:
 - Alumni
 
-weight: 10
+weight: 11
 ---

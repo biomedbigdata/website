@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 12
+weight: 13
 ---
 
 I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.

@@ -77,7 +77,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 21
+weight: 22
 ---
 
 In March 2019, I joined the group, biomedical big data as part of my master’s degree internship. During this time, I contributed to implementing SPONGEdb: A pan-cancer resource for competing endogenous RNA interactions. After my internship, I extended my work at the group as a HIWI working for [Dr. David Blumenthal](/authors/david_blumenthal/) on C++ programming tasks, which helped to implement a framework for modeling epistatic interaction. As the framework results were promising, I chose to intensify my work in this field as part of my Master’s Thesis. I finished my Master’s Thesis - GenEpiSeeker: a tool for generic epistasis detection via local search – in September 2020. In October 2020, I decided to continue my work at the biomedical big data group as a Ph.D. student. As a Ph.D. student, I will focus on computational methods to unravel gene-regulatory combinatorics of putative super-enhancers in cooperation with Prof. Dr. Lothar Hennighausen and the National Institute of Health (NIH), Maryland, USA.

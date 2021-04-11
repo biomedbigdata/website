@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 4
+weight: 5
 ---
 
 During his bachelor thesis, Thibault analyzed time-series proteomics and phospho-proteomics data of Arabidopsis thaliana using network enrichment methods.

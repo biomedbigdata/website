@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 31
+weight: 32
 ---
 
 I'm a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor's degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.

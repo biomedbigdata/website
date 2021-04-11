@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lis Arendt
+name: Lis Arend
 
 # Username (this should match the folder name)
 authors:

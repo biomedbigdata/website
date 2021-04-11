@@ -71,7 +71,7 @@ user_groups:
 - PhD Students
 - Members
 
-weight: 26
+weight: 27
 ---
 
 In June 2019 I started my PhD at the Chair of Experimental Bioinformatics. I have received a bachelor's and master's degree in Biochemistry from TUM. During my masters, I also started to study computer science at LMU. For my master thesis, I joined the lab of Alex Marson at UC San Francisco and established a CRISPR screen to study transcriptional regulation in human regulatory T cells. After finishing my studies I continued to apply CRISPR in T cells at TUM for another year. However, I realized that bioinformatics and data analysis makes me the most excited. My main interest lies in genetic and epigenetic regulation.

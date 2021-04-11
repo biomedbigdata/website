@@ -70,7 +70,7 @@ user_groups:
 - Members
 - PhD Students
 
-weight: 8
+weight: 9
 ---
 
 I'm a PhD candidate at the Tum Center for Translational Cancer Research (TranslaTum) and at the Chair of Experimental Bioinformatics. I received both my B.Sc. (2016) and my M.Sc. (2018) in Biomedical engineering from Politecnico di Milano, Italy. During my studies, I had the chance to work as an intern at Industrie Biomediche Insubri S.A (Mezzovico-Vira, Switzerland) and to spend one year at ETH Zurich, where I worked on my Master’s Thesis project “Development of advanced modeling techniques for Raman based spectral data of bioprocesses” in the Morbidelli Group. My research interests lie at the intersection between cancer biology, systems medicine, and biostatistics. In particular, I'm interested in the development of computational tools to assess the relationship between effectors and oncogenic phenotypes through multi-omics data integration and latent variable modeling.

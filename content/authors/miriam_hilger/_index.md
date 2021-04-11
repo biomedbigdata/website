@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 20
+weight: 21
 ---
 
 During her bachelor thesis, Miriam worked on a systematic pancancer analysis for positive microRNA regulation.
