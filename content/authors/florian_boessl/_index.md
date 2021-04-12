@@ -74,6 +74,6 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 8
+weight: 7
 ---
 I am an undergraduate student in the bioinformatics program at the TUM and LMU. In May 2021 I joined the chair of experimental bioinformatics to work on my  bachelor’s thesis on personalized identification of synthetic lethal drug target genes / synthetic essentiality.

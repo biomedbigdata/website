@@ -4,7 +4,7 @@ name: Lis Arend
 
 # Username (this should match the folder name)
 authors:
-- lis_arendt
+- lis_arend
 
 # Is this the primary user of the site?
 superuser: false
