@@ -72,8 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-
+- BSc and MSc Students
 
 weight: 40
 ---
-
+I am studying bioinformatics (B.Sc.) and medicine (Stx) at TUM and LMU. In April 2021, I joined the chair of experimental bioinformatics to work on my bachelor thesis on treatment recommendation for epidrugs based on DNA methylation profiles.
