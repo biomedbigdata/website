@@ -1,23 +1,24 @@
 ---
 # Display name
-name: Olga Tsoy
+name: Julian Poschenrieder
 
 # Username (this should match the folder name)
 authors:
-- olga_tsoy
+- julian_poschenrieder
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Post-Doc 
+role: Student Intern
 
-# Organizations/Affiliations
 organizations:
 - name: Chair of Experimental Bioinformatics
   url: "http://www.exbio.de"
 - name: Technical University of Munich
   url: "https://www.tum.de"
+- name: Ludwig-Maximilians-Universität München
+  url: "https://www.uni-muenchen.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio:   
@@ -43,10 +44,10 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:olga.tsoy@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -68,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
-- Post-Docs
+- BSc and MSc Students
 
-weight: 49
+weight: 40
 ---
 
-I'm a Postdoc at the Chair of Experimental Bioinformatics working on the BMBF funded Sys_CARE project about alternative splicing in cardiac and renal diseases. I graduated from Lomonosov Moscow State University and did PhD in Kharkevich Institute in Moscow at professor Gelfand lab. There I studied the evolution of transcriptional regulatory networks in bacteria. During my PhD I shortly stayed at Stowers Institute for Medical Research, Kansas-City, where I went on working on regulation of bacterial metabolic pathways. As a research scientist, I worked in Skolkovo Institute of Science and Technology, Moscow on 3D chromatin structure analysis.
+While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics.
+As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.

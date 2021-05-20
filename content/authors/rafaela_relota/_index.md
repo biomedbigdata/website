@@ -73,7 +73,7 @@ email: ""
 user_groups:
 - Alumni
 
-weight: 42
+weight: 43
 ---
 
 I am a Bioinformatics bachelor student at the TUM and LMU since October 2017.

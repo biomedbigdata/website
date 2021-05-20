@@ -74,7 +74,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 46
+weight: 47
 ---
 I am a bachelor student in bioinformatics at the LMU and TUM. I joined the chair of experimental bioinformatics in April 2021. 
 Currently, I am working on my bachelor thesis on systems identification of rare splicing events in a disease context.
