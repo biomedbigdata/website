@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 40
+weight: 4
 ---
 
 While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics.
