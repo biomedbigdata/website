@@ -15,7 +15,7 @@ role: Post-Doc
 # Organizations/Affiliations
 organizations:
 - name: Chair of Experimental Bioinformatics
-  url: "http://www.exbio.de"
+  url: "https://www1.ls.tum.de/exbio/startseite/"
 - name: Technical University of Munich
   url: "https://www.tum.de"
 

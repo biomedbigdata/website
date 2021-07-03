@@ -14,11 +14,11 @@ role: MSc Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
-  url: "http://www.exbio.de"
+  url: "https://www1.ls.tum.de/exbio/startseite/"
 - name: Technical University of Munich
   url: "https://www.tum.de"
-- name: Ludwig-Maximilians-Universität München
-  url: "https://www.uni-muenchen.de"
+#- name: Ludwig-Maximilians-Universität München
+#  url: "https://www.uni-muenchen.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio:   

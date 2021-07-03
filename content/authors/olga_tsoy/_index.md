@@ -14,10 +14,10 @@ role: Post-Doc
 
 # Organizations/Affiliations
 organizations:
-- name: Chair of Experimental Bioinformatics
-  url: "http://www.exbio.de"
-- name: Technical University of Munich
-  url: "https://www.tum.de"
+- name: Computational Genomics and Transcriptomics
+  url: "https://cgat-group.de/"
+- name: Computational Systems Biology
+  url: "https://www.cosy.bio"
 
 # Short bio (displayed in user profile at end of posts)
 bio:   
