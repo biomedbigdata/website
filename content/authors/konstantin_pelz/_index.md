@@ -71,7 +71,7 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 39
+weight: 40
 ---
 
 I'm a masters student in bioinformatics at the Technical University of Munich and Ludwig Maximilian University. Im am very interested in machine learning and software development and am currently developing a successor to the immunedeconv R package with the Chair of Experimental Bioinformatics and the University of Innsbruck.

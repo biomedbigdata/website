@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 33
+weight: 34
 ---
 
 Since 2016 I am studying Bioinformatics at the LMU and TUM. For my bachelor thesis I joined to ListLab in 2019 to look into histone modifications' impact on alternative splicing. Since August 2019 I'm working as a hiwi.

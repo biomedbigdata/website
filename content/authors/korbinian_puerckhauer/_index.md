@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Gregor Sturm
+name: Korbinian Pürckhauer
 
 # Username (this should match the folder name)
 authors:
-- gregor_sturm
+- korbinian_puerckhauer
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc Student
+role: BSc Student
 
 organizations:
-- name: Chair of Experimental Bioinformatics
-  url: "http://www.exbio.de"
+#- name: Chair of Experimental Bioinformatics
+#  url: "http://www.exbio.de"
 - name: Technical University of Munich
   url: "https://www.tum.de"
 - name: Ludwig-Maximilians-Universität München
@@ -47,7 +47,10 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
+#- icon: researchgate
+#  icon_pack: ai
+#  link:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,9 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- BSc and MSc Students
 
-weight: 50
+weight: 42
 ---
-
-Gregor did his Master with us in immuno-oncology. In collaboration with Pieris Pharmaceuticals in Freising and Prof. Zlatko Trajanoski's Lab in Innsbruck he aimed to better understand the functional orientation of immune cells in the tumor micro-environment. He continued as a PhD student in the Trajanoski lab in Innsbruck.
+I am a bioinformatics bachelor student at the LMU and TUM. I joined the chair of experimental bioinformatics an June 2021. Currently I am working on a graph visualisation tool of gene modules enrichment as my bachelor thesis.
