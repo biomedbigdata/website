@@ -8,11 +8,10 @@ draft = false
 tags = ["ceRNA", "miRNA", "network analysis", "miRNA regulation"]
 
 # Project summary to display on homepage.
-summary = "A bioconductor package for inferring genome-wide networks of competing endogenous RNAs."
-
+summary = "Inferring genome-wide networks of competing endogenous RNAs."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/doi:10.18129/B9.bioc.SPONGE"
+external_link = "https://exbio.wzw.tum.de/sponge/"
 
 # Does the project detail page use math formatting?
 math = false

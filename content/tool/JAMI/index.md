@@ -8,7 +8,7 @@ draft = false
 tags = ["ceRNA", "miRNA regulation", "network analysis"]
 
 # Project summary to display on homepage.
-summary = "A fast Java tool for conditional mutual information in ceRNA inference and beyond."
+summary = "A fast Java tool for conditional mutual information in ceRNA inference."
 
 
 # Optional external URL for project (replaces project detail page).

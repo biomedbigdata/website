@@ -8,7 +8,7 @@ draft = false
 tags = ["network analysis", "systems medicine"]
 
 # Project summary to display on homepage.
-summary = "A web app for *de novo* network enrichment, i.e. to integrate multi-omics data with the interactome."
+summary = "*de novo* network enrichment to integrate multi-omics data with the interactome."
 
 
 # Optional external URL for project (replaces project detail page).

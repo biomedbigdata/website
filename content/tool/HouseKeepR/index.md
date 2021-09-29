@@ -8,7 +8,7 @@ draft = false
 tags = ["housekeeping genes", "cell type heterogeneity"]
 
 # Project summary to display on homepage.
-summary = "An R shiny app to mine GEO datasets for tissue- and condition-specific housekeeping genes."
+summary = "Mining GEO for tissue- and condition-specific normalization genes."
 
 
 # Optional external URL for project (replaces project detail page).

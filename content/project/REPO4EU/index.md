@@ -1,18 +1,17 @@
 +++
-title = "WSH"
-date = 2019-12-28T19:39:58+02:00
+title = "REPO4EU"
+date = 2021-09-28T19:39:58+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["cell type heterogeneity"]
+tags = ["drug repurposing", "systems medicine"]
 
 # Project summary to display on homepage.
-summary = "Computing within-sample heterogeneity scores from bisulfte sequencing data."
-
+summary = "REPO4EU is a euro-global platform for mechanism-based drug repurposing through real-world data and artificial intelligence covering every step from lab to phase II clinical."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/MPIIComputationalEpigenetics/WSHpackage"
+external_link = "https://repo4.eu/"
 
 # Does the project detail page use math formatting?
 math = false

@@ -2,7 +2,7 @@
 # Recent and Upcoming Talks widget.
 widget = "pages"
 active = true
-weight = 30
+weight = 13
 headless = true
 
 title = "Recent & Upcoming Talks"

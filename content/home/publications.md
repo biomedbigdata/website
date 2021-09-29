@@ -4,7 +4,7 @@
 widget = "pages"
 active = true
 # Order that this section will appear in.
-weight = 40
+weight = 12
 headless = true
 
 title = "Recent Publications"

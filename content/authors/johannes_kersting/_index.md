@@ -72,7 +72,7 @@ user_groups:
 - Student Research Assistants
 - Members
 
-weight: 24
+weight: 100
 ---
 
 I started studying bioinformatics at the TUM and LMU in October 2016. In 2020 I got my Bachelor's degree and I am currently studying for my Master's degree, again in Munich. In parallel, i joined the Chair of Experimental Bioinformatics as a HiWi to get some working experience and apply my knowledge to "real-world" problems.

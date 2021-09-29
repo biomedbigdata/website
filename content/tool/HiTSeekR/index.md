@@ -8,7 +8,7 @@ draft = false
 tags = ["high-throughput screening", "systems medicine", "systems biology", "network analysis", "miRNA regulation"]
 
 # Project summary to display on homepage.
-summary = "An R shiny web application for the analysis of various types of high-throughput screening data."
+summary = "Analyse various types of high-throughput screening data."
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://biomedical-big-data.de/HiTSeekR"

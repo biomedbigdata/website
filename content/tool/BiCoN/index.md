@@ -10,7 +10,7 @@ authors = ["olga_lazareva"]
 tags = ["patient stratification", "network analysis", "biclustering", "mechanotyping", "systems medicine"]
 
 # Project summary to display on homepage.
-summary = "A python package and web application for network-constrained biclustering for patient stratification."
+summary = "Network-constrained biclustering for patient stratification."
 
 
 # Optional external URL for project (replaces project detail page).

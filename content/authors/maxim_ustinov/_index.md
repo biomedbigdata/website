@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Alexander Dietrich
+name: Maxim Ustinov
 
 # Username (this should match the folder name)
 authors:
-- alexander_dietrich
+- maxim_ustinov
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: BSc Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -47,7 +47,10 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
+#- icon: researchgate
+#  icon_pack: ai
+#  link:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,10 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Student Research Assistants
-- Members
+- BSc and MSc Students
 
-weight: 100
+weight: 8
 ---
-
-I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.
+I am an undergraduate student in the bioinformatics program at the TUM and LMU. In September 2021 I joined the chair of experimental bioinformatics to work on my bachelor’s thesis on developing a k-mer based approach for in silico cell type deconvolution.

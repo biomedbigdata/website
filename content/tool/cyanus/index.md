@@ -11,7 +11,7 @@ projects = []
 tags = []
 
 # Project summary to display on homepage.
-summary = "An R shiny app for the analysis of cytometry data with a focus on differential analysis."
+summary = "R shiny app for the analysis of cytometry data with a focus on differential analysis."
 
 
 # Optional external URL for project (replaces project detail page).

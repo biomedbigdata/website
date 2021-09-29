@@ -8,7 +8,7 @@ draft = false
 tags = ["microbiome"]
 
 # Project summary to display on homepage.
-summary = "A web app to process amplicon data and to study microbial diversity across the globe."
+summary = "Process amplicon data and study microbial diversity across the globe."
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://bioatlas.compbio.sdu.dk"

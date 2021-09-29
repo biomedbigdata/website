@@ -1,5 +1,5 @@
 +++
-title = "OLF"
+title = "OpenLabFramework"
 date = 2012-09-28T19:39:58+02:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = ["LIMS", "high-throughput screening"]
 
 # Project summary to display on homepage.
-summary = "A laboratory information management system for recombinant cell lines in functional genomics."
+summary = "A laboratory information management system for functional genomics."
 
 
 # Optional external URL for project (replaces project detail page).

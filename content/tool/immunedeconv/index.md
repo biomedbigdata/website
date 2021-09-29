@@ -8,7 +8,7 @@ draft = false
 tags = ["cell type heterogeneity", "systems medicine"]
 
 # Project summary to display on homepage.
-summary = "An R package for running several tools for in silico cell type deconvolution for immuno-oncology."
+summary = "A unifying package for in silico cell type deconvolution in immuno-oncology."
 
 
 # Optional external URL for project (replaces project detail page).

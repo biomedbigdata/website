@@ -8,15 +8,20 @@
   url = "#about"
   weight = 1
 
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 2
+
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 2
+  name = "Twitter"
+  url = "#twitter"
+  weight = 3
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
+  weight = 5
 
 [[main]]
   name = "Publications"
@@ -26,17 +31,17 @@
 [[main]]
   name = "Group"
   url = "#people" 
-  weight = 5
+  weight = 2
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Tools"
   url = "#tools"
-  weight = 7
+  weight = 6
 
 [[main]]
   name = "Teaching"

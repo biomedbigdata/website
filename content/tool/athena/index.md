@@ -8,7 +8,7 @@ draft = false
 tags = ["proteomics", "systems biology", "network analysis", "cell type heterogeneity"]
 
 # Project summary to display on homepage.
-summary = "An R shiny app to mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues."
+summary = "Mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues."
 
 
 # Optional external URL for project (replaces project detail page).

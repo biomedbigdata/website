@@ -295,10 +295,10 @@ enableGitInfo = false
   url = "#talks"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 2
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 2
 
 [[menu.main]]
   name = "Projects"
@@ -309,6 +309,11 @@ enableGitInfo = false
   name = "Teaching"
   url = "#teaching"
   weight = 7
+
+[[menu.main]]
+  name = "Twitter"
+  url = "#twitter"
+  weight = 1
   
 [[menu.main]]
   name = "Group"

@@ -1,17 +1,17 @@
 +++
-title = "FeatureCloud"
-date = 2018-09-28T19:39:58+02:00
+title = "SPONGE"
+date = 2019-01-28T19:39:58+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["federated machine learning", "privacy-preserving machine learning"]
+tags = ["ceRNA", "miRNA", "network analysis", "miRNA regulation"]
 
 # Project summary to display on homepage.
-summary = "The EU H2020 project FeatureCloud aims at developing methods for privacy-preserving, federated machine learning."
+summary = "A pancancer database on competing endogenous RNA regulations."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://featurecloud.eu"
+external_link = "https://doi.org/doi:10.18129/B9.bioc.SPONGE"
 
 # Does the project detail page use math formatting?
 math = false

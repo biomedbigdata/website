@@ -8,8 +8,7 @@ draft = false
 tags = ["systems medicine", "drug repurposing", "network analysis"]
 
 # Project summary to display on homepage.
-summary = "A web app for mining the Sars-COV-1/2 virus-host-drug interactome for drug repurposing candidates."
-
+summary = "Drug repurposing on the Sars-CoV2 virus-host-drug interactome."
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://exbio.wzw.tum.de/covex"

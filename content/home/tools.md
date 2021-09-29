@@ -3,7 +3,7 @@
 widget = "portfolio"
 active = true
 # Order that this section will appear in.
-weight = 70
+weight = 14
 headless = true
 
 title = "Software Tools"

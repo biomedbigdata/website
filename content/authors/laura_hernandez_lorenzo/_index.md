@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Visiting PhD Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
