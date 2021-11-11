@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Carina Hui Schröder
+name: Leon Schwartz
 
 # Username (this should match the folder name)
 authors:
-- carina_schroeder
+- leon_schwartz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: Bachelor student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -47,10 +47,7 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
-#- icon: researchgate
-#  icon_pack: ai
-#  link:
+#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,6 +71,8 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 8
+weight: 4
 ---
-Carina is a undergraduate student in the bioinformatics program at the TUM and LMU. In September 2021, she joined the chair of experimental bioinformatics to work on a bachelor thesis on DNA methylation heterogeneity in plants.
+
+Leon is working on his bachelor thesis in the area of circular RNA detection. Building on previous work by [Octavia Ciora](/authors/octavia_ciora) and supervised by [Markus Hoffmann](/authors/markus_hoffmann) , he aims to extend our nf-core pipeline for circular RNA detection with new features and to investigate the role of circular RNAs in testicular germ cell tumors and SARS-CoV2 infection. 
+

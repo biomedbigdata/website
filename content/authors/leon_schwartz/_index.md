@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Carina Hui Schröder
+name: Franc Hysenaj
 
 # Username (this should match the folder name)
 authors:
-- carina_schroeder
+- franc_hysenaj
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Student
+role: Bachelor student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -47,10 +47,7 @@ bio:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
-#- icon: researchgate
-#  icon_pack: ai
-#  link:
+#  link: 'mailto:fenn@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -74,6 +71,8 @@ email: ""
 user_groups:
 - BSc and MSc Students
 
-weight: 8
+weight: 4
 ---
-Carina is a undergraduate student in the bioinformatics program at the TUM and LMU. In September 2021, she joined the chair of experimental bioinformatics to work on a bachelor thesis on DNA methylation heterogeneity in plants.
+
+Franc is working on a bachelor thesis aimed at elucidating the role of hormone secretion and hormone receptors with a focus on secretin in the human gut. He is jointly supervised by [Michael Lauber](/authors/michael_lauber) and Andrea Bast-Habersbrunner from the group of Prof. Martin Klingenspor. 
+

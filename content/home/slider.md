@@ -19,12 +19,12 @@ height = "400px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Big Data in BioMedicine Group"
+  title = ""
   content = ""
   align = "left"
   vertical-align = "bottom"
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "group2019.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "group2021.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 
