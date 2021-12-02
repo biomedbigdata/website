@@ -1,6 +1,6 @@
 +++
-title = "A Systematic Comparison of Differential Analysis Methods for CyTOF Data"
-date = 2021-08-09
+title = "A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data"
+date = 2021-11-30
 authors = ["lis_arend", "judith_bernett", "quirin_manz", "melissa_klug", "olga_lazareva","Jan Baumbach","Dario Bongiovanni", "markus_list"]
 
 #type:
@@ -13,11 +13,11 @@ authors = ["lis_arend", "judith_bernett", "quirin_manz", "melissa_klug", "olga_l
 #    6 = Book section
 #    7 = Thesis (v4.2+ required)
 #    8 = Patent (v4.2+ required)
-publication_types = ["3"]
-publication = "*BioRxiv*"
+publication_types = ["2"]
+publication = "*Briefings in Bioinformatics*"
 
 # Abstract and optional shortened version.
-abstract = "Cytometry techniques are widely used to discover cellular characteristics at single-cell resolution. Many data analysis methods for cytometry data focus solely on identifying subpopulations via clustering and testing for differential cell abundance. For differential expression analysis of markers between conditions, only few tools exist. These tools either reduce the data distribution to medians, discarding valuable information, or have underlying assumptions that may not hold for all expression patterns.</br>Here, we systematically evaluated existing and novel approaches for differential expression analysis on real and simulated CyTOF data. We found that methods using median marker expressions compute fast and reliable results when the data is not strongly zero-inflated. Methods using all data detect changes in strongly zero-inflated markers, but partially suffer from overprediction or cannot handle big datasets. We present a new method, CyEMD, based on calculating the Earth Mover’s Distance between expression distributions that can handle strong zero-inflation without being too sensitive.</br>Additionally, we developed CYANUS, a user-friendly R Shiny App allowing the user to analyze cytometry data with state-of-the-art tools, including well-performing methods from our comparison. A public web interface is available at https://exbio.wzw.tum.de/cyanus/."
+abstract = "Cytometry techniques are widely used to discover cellular characteristics at single-cell resolution. Many data analysis methods for cytometry data focus solely on identifying subpopulations via clustering and testing for differential cell abundance. For differential expression analysis of markers between conditions, only few tools exist. These tools either reduce the data distribution to medians, discarding valuable information, or have underlying assumptions that may not hold for all expression patterns. Here, we systematically evaluated existing and novel approaches for differential expression analysis on real and simulated CyTOF data. We found that methods using median marker expressions compute fast and reliable results when the data are not strongly zero-inflated. Methods using all data detect changes in strongly zero-inflated markers, but partially suffer from overprediction or cannot handle big datasets. We present a new method, CyEMD, based on calculating the earth mover’s distance between expression distributions that can handle strong zero-inflation without being too sensitive. Additionally, we developed CYANUS – CYtometry ANalysis Using Shiny – a user-friendly R Shiny App allowing the user to analyze cytometry data with state-of-the-art tools, including well-performing methods from our comparison. A public web interface is available at https://exbio.wzw.tum.de/cyanus/."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,16 +37,16 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2021.08.09.455609v1.full.pdf"
+url_pdf = "https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbab471/41382691/bbab471.pdf?guestAccessKey=6f2fe16b-b8a2-4174-b92b-6b1cd677c5ab"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2021.08.09.455609v1"
-url_code = ""
-url_dataset = ""
-url_project = ""
+url_code = "https://github.com/biomedbigdata/cyanus"
+url_dataset = "http://flowrepository.org/id/FR-FCM-Z4AE"
+url_project = "https://exbio.wzw.tum.de/cyanus"
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1101/2021.08.09.455609"
+doi = "10.1093/bib/bbab471"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
