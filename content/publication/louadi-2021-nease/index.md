@@ -1,6 +1,6 @@
 +++
 title = "Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases"
-date = 2021-07-14
+date = 2021-12-02
 authors = ["zakaria_louadi", "Maria L Elkjaer", "chit_lio", "amit_fenn", "Zsolt Illes","Dario Bongiovanni","Jan Baumbach", "Tim Kacprowski", "markus_list","olga_tsoy"]
 
 #type:
@@ -13,11 +13,11 @@ authors = ["zakaria_louadi", "Maria L Elkjaer", "chit_lio", "amit_fenn", "Zsolt 
 #    6 = Book section
 #    7 = Thesis (v4.2+ required)
 #    8 = Patent (v4.2+ required)
-publication_types = ["3"]
-publication = "*BioRxiv*"
+publication_types = ["2"]
+publication = "*Genome Biology*"
 
 # Abstract and optional shortened version.
-abstract = "Alternative splicing (AS) is an important aspect of gene regulation. Nevertheless, its role in molecular processes and pathobiology is far from understood. A roadblock is that tools for the functional analysis of AS-set events are lacking. To mitigate this, we developed NEASE, a tool integrating pathways with protein-protein and domain-domain interactions to functionally characterize AS events. We show in four application cases how NEASE can identify pathways contributing to tissue identity and cell type development, and how it highlights splicing-related biomarkers. With a unique view on AS, NEASE generates unique and meaningful biological insights complementary to classical pathways analysis."
+abstract = "Alternative splicing (AS) is an important aspect of gene regulation. Nevertheless, its role in molecular processes and pathobiology is far from understood. A roadblock is that tools for the functional analysis of AS-set events are lacking. To mitigate this, we developed NEASE, a tool integrating pathways with structural annotations of protein-protein interactions to functionally characterize AS events. We show in four application cases how NEASE can identify pathways contributing to tissue identity and cell type development, and how it highlights splicing-related biomarkers. With a unique view on AS, NEASE generates unique and meaningful biological insights complementary to classical pathways analysis."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,16 +37,16 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2021.07.14.452376v1.full.pdf"
+url_pdf = "https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02538-1.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2021.07.14.452376v1"
-url_code = ""
+url_code = "https://github.com/louadi/NEASE"
 url_dataset = ""
-url_project = ""
+url_project = "https://github.com/louadi/NEASE"
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1101/2021.07.14.452376"
+doi = "10.1186/s13059-021-02538-1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
