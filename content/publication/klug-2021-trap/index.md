@@ -1,7 +1,7 @@
 +++
-title = "Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination"
-date = 2021-08-03
-authors = ["melissa_klug", "olga_lazareva", "Kilian Kirmes", "Marc Rosenbaum", "Marina Lukas", "Simon Weidlich", "Christoph D Spinner", "Moritz von Scheidt", "Rosanna Gosetti", "Jan Baumbach", "J/&uumlrgen Ruland", "Gianluigi Condorelli", "Karl-Ludwig Laugwitz", "markus_list", "Isabell Bernlochner", "Dario Bongiovanni"]
+title = "Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity"
+date = 2021-12-27
+authors = ["melissa_klug", "Kilian Kirmes", "Jiaying Han", "olga_lazareva", "Marc Rosenbaum", "Giacomo Viggiani", "Moritz von Scheidt", "J/&uumlrgen Ruland", "Jan Baumbach", "Gianluigi Condorelli", "Karl-Ludwig Laugwitz", "markus_list", "Isabell Bernlochner", "Dario Bongiovanni"]
 
 #type:
 #    0 = Uncategorized
@@ -14,10 +14,10 @@ authors = ["melissa_klug", "olga_lazareva", "Kilian Kirmes", "Marc Rosenbaum", "
 #    7 = Thesis (v4.2+ required)
 #    8 = Patent (v4.2+ required)
 publication_types = ["2"]
-publication = "*Thrombosis and Haemostasis*"
+publication = "*Platelets*"
 
 # Abstract and optional shortened version.
-abstract = "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection induces a coagulopathy characterized by platelet activation and a hypercoagulable state with an increased incidence of cardiovascular events. The viral spike protein S has been reported to enhance thrombosis formation, stimulate platelets to release procoagulant factors, and promote the formation of platelet–leukocyte aggregates even in absence of the virus. Although SARS-CoV-2 vaccines induce spike protein overexpression to trigger SARS-CoV-2-specific immune protection, thrombocyte activity has not been investigated in this context. Here, we provide the first phenotypic platelet characterization of healthy human subjects undergoing BNT162b2 vaccination. Using mass cytometry, we analyzed the expression of constitutive transmembrane receptors, adhesion proteins, and platelet activation markers in 12 healthy donors before and at five different time points within 4 weeks after the first BNT162b2 administration. We measured platelet reactivity by stimulating thrombocyte activation with thrombin receptor-activating peptide. Activation marker expression (P-selectin, LAMP-3, LAMP-1, CD40L, and PAC-1) did not change after vaccination. All investigated constitutive transmembrane proteins showed similar expressions over time. Platelet reactivity was not altered after BNT162b2 administration. Activation marker expression was significantly lower compared with an independent cohort of mild symptomatic COVID-19 patients analyzed with the same platform. This study reveals that BNT162b2 administration does not alter platelet protein expression and reactivity."
+abstract = "Mass cytometry (CyTOF) is a new technology that allows the investigation of protein expression at single cell level with high resolution. While several protocols are available to investigate leukocyte expression, platelet staining and analysis with CyTOF have been described only from whole blood. Moreover, available protocols do not allow sample storage but require fresh samples to be obtained, processed, and measured immediately. We provide a structured and reproducible method to stain platelets from platelet-rich plasma to study thrombocyte protein expression and reactivity using mass cytometry. With our method, it is possible to acquire a large number of events allowing deep bioinformatic investigation of platelet expression heterogeneity. Integrated in our protocol is also a previously established freezing protocol that allows the storage of stained samples and to delay their measurement. Finally, we provide a structured workflow using different platelet stimulators and a freely available bioinformatic pipeline to analyze platelet expression. Our protocol unlocks the potential of CyTOF analysis for studying platelet biology in health and disease."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,7 +37,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0041-1733934.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -46,7 +46,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1055/s-0041-1733934"
+doi = "10.1080/09537104.2021.2009453"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

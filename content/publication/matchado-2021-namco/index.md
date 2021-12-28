@@ -1,5 +1,5 @@
 +++
-title = "Network analysis methods for studying microbial communities: A mini review"
+title = "Namco: A microbiome explorer"
 date = 2021-12-16
 authors = ["alexander_dietrich", "monica_matchado", "Maximilian Zwiebel", "Benjamin Ölke", "michael_lauber", "Ilias Lagkouvardos", "Jan Baumbach", "Dirk Haller", "Beate Brandl", "Thoams Skurk", "Hans Hauner", "Sandra Reitmeier", "markus_list"]
 #type:
