@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/fabio_boniolo/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/fabio_boniolo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/fabio_boniolo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/fabio_boniolo/</guid>
+      <description>I&amp;rsquo;m a PhD candidate at the Tum Center for Translational Cancer Research (TranslaTum) and at the Chair of Experimental Bioinformatics. I received both my B.Sc. (2016) and my M.Sc. (2018) in Biomedical engineering from Politecnico di Milano, Italy. During my studies, I had the chance to work as an intern at Industrie Biomediche Insubri S.A (Mezzovico-Vira, Switzerland) and to spend one year at ETH Zurich, where I worked on my Master’s Thesis project “Development of advanced modeling techniques for Raman based spectral data of bioprocesses” in the Morbidelli Group.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network analysis on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/network-analysis/</link>
+    <description>Recent content in network analysis on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER</title>
+      <link>https://biomedical-big-data.de/tool/digger/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/digger/</guid>
+      <description>Analyze protein-protein and domain-domain interactions in a joint graph.</description>
+    </item>
+    
+    <item>
+      <title>NEASE</title>
+      <link>https://biomedical-big-data.de/tool/nease/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/nease/</guid>
+      <description>Network-based functional enrichment of alternative splicing.</description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoVex</title>
+      <link>https://biomedical-big-data.de/tool/covex/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/covex/</guid>
+      <description>Drug repurposing on the Sars-CoV2 virus-host-drug interactome.</description>
+    </item>
+    
+    <item>
+      <title>BiCoN</title>
+      <link>https://biomedical-big-data.de/tool/bicon/</link>
+      <pubDate>Sat, 28 Dec 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/bicon/</guid>
+      <description>Network-constrained biclustering for patient stratification.</description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/sponge/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/sponge/</guid>
+      <description>Inferring genome-wide networks of competing endogenous RNAs.</description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/spongedb/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongedb/</guid>
+      <description>A pancancer database on competing endogenous RNA regulations.</description>
+    </item>
+    
+    <item>
+      <title>KPM</title>
+      <link>https://biomedical-big-data.de/tool/keypathwayminer/</link>
+      <pubDate>Fri, 28 Dec 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/keypathwayminer/</guid>
+      <description>&lt;em&gt;de novo&lt;/em&gt; network enrichment to integrate multi-omics data with the interactome.</description>
+    </item>
+    
+    <item>
+      <title>Athena</title>
+      <link>https://biomedical-big-data.de/tool/athena/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/athena/</guid>
+      <description>Mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</description>
+    </item>
+    
+    <item>
+      <title>HiTSeekR</title>
+      <link>https://biomedical-big-data.de/tool/hitseekr/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
+      <description>Analyse various types of high-throughput screening data.</description>
+    </item>
+    
+    <item>
+      <title>JAMI</title>
+      <link>https://biomedical-big-data.de/tool/jami/</link>
+      <pubDate>Sun, 28 Jan 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/jami/</guid>
+      <description>A fast Java tool for conditional mutual information in ceRNA inference.</description>
+    </item>
+    
+  </channel>
+</rss>

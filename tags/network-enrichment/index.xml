@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network enrichment on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/network-enrichment/</link>
+    <description>Recent content in network enrichment on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/network-enrichment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Novo Pathway-Based Classification of Breast Cancer Subtypes</title>
+      <link>https://biomedical-big-data.de/publication/list-2020-novo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2020-novo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

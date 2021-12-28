@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/laura_hernandez_lorenzo/</guid>
+      <description>I am a PhD student in Computer Engineering at the Complutense University of Madrid (UCM) in Spain since September 2019. In 2018 I obtained a BSc in Biotechnology, and in 2019 a MSc in Computational Biology by the Technical University of Madrid (UPM). The main goal of my Thesis is to develop different machine learning models that can help in the prediction of different forms of dementia, integrating for this purpose whole-exome data with other clinical data sources such as neuroimaging, other biomarkers, or neurocognitive tests.</description>
+    </item>
+    
+  </channel>
+</rss>

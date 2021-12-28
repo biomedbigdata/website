@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioconductor on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/bioconductor/</link>
+    <description>Recent content in bioconductor on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysing large-scale epigenomic data</title>
+      <link>https://biomedical-big-data.de/talk/qbic2019/</link>
+      <pubDate>Thu, 12 Dec 2019 16:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/qbic2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing large-scale epigenomic data with DeepBlue</title>
+      <link>https://biomedical-big-data.de/talk/bioc2018/</link>
+      <pubDate>Thu, 06 Dec 2018 14:30:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/bioc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR</title>
+      <link>https://biomedical-big-data.de/tool/deepbluer/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/deepbluer/</guid>
+      <description>A bioconductor package for accessing the DeepBlue epigenome analysis web server.</description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
+      <link>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

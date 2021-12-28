@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reza Nasirigerdeh on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/reza-nasirigerdeh/</link>
+    <description>Recent content in Reza Nasirigerdeh on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/reza-nasirigerdeh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Multi-Mini-Batch: An Efficient Training Approach to Federated Learning in Non-IID Environments</title>
+      <link>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

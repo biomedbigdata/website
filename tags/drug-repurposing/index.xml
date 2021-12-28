@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drug repurposing on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/drug-repurposing/</link>
+    <description>Recent content in drug repurposing on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 28 Sep 2021 19:39:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/drug-repurposing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REPO4EU</title>
+      <link>https://biomedical-big-data.de/project/repo4eu/</link>
+      <pubDate>Tue, 28 Sep 2021 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/project/repo4eu/</guid>
+      <description>REPO4EU is a euro-global platform for mechanism-based drug repurposing through real-world data and artificial intelligence covering every step from lab to phase II clinical.</description>
+    </item>
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fight against COVID-19</title>
+      <link>https://biomedical-big-data.de/post/covex/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/post/covex/</guid>
+      <description>The CoVex systems medicine platform allows identifying putative drug targets and drug repurposing candidates to treat COVID-19.</description>
+    </item>
+    
+    <item>
+      <title>CoVex</title>
+      <link>https://biomedical-big-data.de/tool/covex/</link>
+      <pubDate>Mon, 20 Apr 2020 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/covex/</guid>
+      <description>Drug repurposing on the Sars-CoV2 virus-host-drug interactome.</description>
+    </item>
+    
+  </channel>
+</rss>

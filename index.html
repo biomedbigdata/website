@@ -1,0 +1,5427 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Markus List">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Head of the Research Group Big Data in Biomedicine">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://biomedical-big-data.de/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(25, 90%, 68%)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.4de46ed43105fe88e1e3e9e6c2d7c87a.css">
+
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Big Data in Biomedicine">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://biomedical-big-data.de/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@itisalist">
+  <meta property="twitter:creator" content="@itisalist">
+  
+  <meta property="og:site_name" content="Big Data in Biomedicine">
+  <meta property="og:url" content="https://biomedical-big-data.de/">
+  <meta property="og:title" content="Big Data in Biomedicine">
+  <meta property="og:description" content="Head of the Research Group Big Data in Biomedicine"><meta property="og:image" content="https://biomedical-big-data.de/img/biomedbigdata_logo_square.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2021-12-27T00:00:00&#43;01:00">
+  
+
+  
+
+  
+
+  <title>Big Data in Biomedicine</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" class="dark">
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/biomedbigdata_logo.png" alt="Big Data in Biomedicine"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people" data-target="#people">
+            
+            <span>Group</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#twitter" data-target="#twitter">
+            
+            <span>Twitter</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications" data-target="#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks" data-target="#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#tools" data-target="#tools">
+            
+            <span>Tools</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching" data-target="#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+<span class="js-widget-page d-none"></span>
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+    
+    
+    
+  
+
+  <section id="slider" class="home-section wg-slider    carousel slide"  data-ride="carousel" data-interval="false">
+    
+      
+
+
+
+
+<ol class="carousel-indicators">
+  
+  <li data-target="#slider" data-slide-to="0" class="active"></li>
+  
+  <li data-target="#slider" data-slide-to="1" ></li>
+  
+  <li data-target="#slider" data-slide-to="2" ></li>
+  
+</ol>
+
+
+<div class="carousel-inner">
+  
+  <div class="wg-hero dark carousel-item active" style="height: 400px;
+    
+    background-color: #333;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
+    url('https://biomedical-big-data.de/img/group2021.jpg');
+    
+    ;">
+    <div class="container" style="text-align: left;">
+        <h1 class="hero-title" itemprop="headline">
+          
+        </h1>
+
+        
+
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 400px;
+    
+    background-color: #555;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+    url('https://biomedical-big-data.de/img/basel2019.jpg');
+    
+    ;">
+    <div class="container" style="text-align: center;">
+        <h1 class="hero-title" itemprop="headline">
+          ISMB 2019 in Basel
+        </h1>
+
+        
+        <p class="hero-lead" style="margin: 0 auto 0 auto;">
+          with proceedings talks in the RegSys and CAMDA COSIs
+        </p>
+        
+
+        
+        
+        <p>
+          <a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2019/proceedings.php" class="btn btn-light btn-lg"><i class="fa fa-graduation-cap" style="padding-right: 10px;"></i>Proceedings</a>
+        </p>
+        
+      </div>
+  </div>
+  
+  <div class="wg-hero dark carousel-item" style="height: 400px;
+    
+    background-color: #333;
+    
+    
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), 
+    url('https://biomedical-big-data.de/img/moscow2019.jpg');
+    
+    ;">
+    <div class="container" style="text-align: right;">
+        <h1 class="hero-title" itemprop="headline">
+          MCCMB 2019 in Moscow
+        </h1>
+
+        
+        <p class="hero-lead" style="margin-left: auto; margin-right: 0">
+          Big Data in Systems Medicine
+        </p>
+        
+
+        
+        
+        <p>
+          <a href="https://www.baumbachlab.net/workshop-big-data" class="btn btn-light btn-lg"><i class="fa fa-graduation-cap" style="padding-right: 10px;"></i>Workshop Program</a>
+        </p>
+        
+      </div>
+  </div>
+  
+</div>
+
+
+<a class="carousel-control-prev" href="#slider" data-slide="prev">
+  <span class="carousel-control-prev-icon"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#slider" data-slide="next">
+  <span class="carousel-control-next-icon"></span>
+  <span class="sr-only">Next</span>
+</a>
+
+    
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
+    <div class="container">
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-telephone person-address">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/authors/markus_list/avatar_hu840926683fc19279948face77bceb7c7_133276_250x250_fill_q75_box_center.jpg" itemprop="image" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Markus List</h2>
+        <h3 itemprop="jobTitle">Head of the Research Group Big Data in Biomedicine</h3>
+
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://www1.ls.tum.de/exbio/startseite/" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">Chair of Experimental Bioinformatics</span>
+          </a>
+        </h3>
+        
+        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://www.tum.de" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">Technical University of Munich</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <link itemprop="url" href="">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a itemprop="sameAs" href="mailto:markus.list@wzw.tum.de" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="//twitter.com/itisalist" >
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.de/citations?user=jUC0gLMAAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://github.com/biomedicalbigdata" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://orcid.org/0000-0002-0941-4168" target="_blank" rel="noopener">
+            <i class="ai ai-orcid big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Markus_List" target="_blank" rel="noopener">
+            <i class="ai ai-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8" itemprop="description">
+
+    
+    
+
+    <p>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.</p>
+
+<p>We develop machine learning models and user-friendly software tools that integrate big heterogeneous (OMICS) data on the network level. Our focus is on next-generation sequencing data where we seek to understand splicing and transcriptional control through histone modifications, DNA methylation, microRNAs, long non-coding and circular RNAs. We leverage the tools and context-specific (e.g. disease-specific) networks we create for applications in systems and network medicine ranging from disease module discovery and endophenotyping to drug repurposing.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Integration of BioMedical High-throughput Data</li>
+          
+          <li>Epigenetic mechanisms and cell type heterogeneity</li>
+          
+          <li>Cancer drug target discovery and immunotherapy</li>
+          
+          <li>(Federated) Machine Learning</li>
+          
+          <li>Systems and Network Medicine</li>
+          
+          <li>Computational Models for the Clinics</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Health Sciences, 2015</p>
+              <p class="institution">University of Southern Denmark</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MSc in Bioinformatics, 2011</p>
+              <p class="institution">Eberhard-Karls Universität Tübingen</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BSc in Bioinformatics, 2008</p>
+              <p class="institution">Eberhard-Karls Universität Tübingen</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="people" class="home-section wg-people   "  >
+    <div class="container">
+      
+
+
+<div class="row justify-content-center people-widget">
+  
+
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Members</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/fabio_boniolo/"><img class="portrait" src="/authors/fabio_boniolo/avatar_hu4eff1a4a3d0a76e93128d5aba91d3c55_18812_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/fabio_boniolo/">Fabio Boniolo</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/markus_hoffmann/"><img class="portrait" src="/authors/markus_hoffmann/avatar_hu02f27adf600d6cc7ab3265dd0640b47d_143095_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/markus_hoffmann/">Markus Hoffmann</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/melissa_klug/"><img class="portrait" src="/authors/melissa_klug/avatar_huda6e84cb31f6d330ffbab8248592f008_13774_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/melissa_klug/">Melissa Klug</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/michael_lauber/"><img class="portrait" src="/authors/michael_lauber/avatar_hua7e6e8e9eae025c4f0430af42b5ea603_24914_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/michael_lauber/">Michael Lauber</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/manuela_lautizi/"><img class="portrait" src="/authors/manuela_lautizi/avatar_huc2259486fc109e0123364fa6b4e14b55_365760_150x150_fill_box_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/manuela_lautizi/">Manuela Lautizi</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/olga_lazareva/"><img class="portrait" src="/authors/olga_lazareva/avatar_hu616834fa3f385a3c8356ad22599558e0_3744_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/olga_lazareva/">Olga Lazareva</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/monica_matchado/"><img class="portrait" src="/authors/monica_matchado/avatar_hu7287671b4da2f8950a074af04078bfa4_16402_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/monica_matchado/">Monica Matchado</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/laura_hernandez_lorenzo/"><img class="portrait" src="/authors/laura_hernandez_lorenzo/avatar_hu855bbe0a9c47ac557e5b09db74fa3b06_122991_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/laura_hernandez_lorenzo/">Laura Hernández Lorenzo</a></h2>
+      <h3>Visiting PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/evelyn_scheibling/"><img class="portrait" src="/authors/evelyn_scheibling/avatar_hu6f25e5726d398023b79202b0639f7ba8_9924_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/evelyn_scheibling/">Evelyn Scheibling</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/alexander_dietrich/"><img class="portrait" src="/authors/alexander_dietrich/avatar_hu667f1db0b2d9e82c9be77b040e9659e3_16996_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/alexander_dietrich/">Alexander Dietrich</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/johannes_kersting/"><img class="portrait" src="/authors/johannes_kersting/avatar_hu799962b61ea1328e237bd4987ee7e68b_58319_150x150_fill_box_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/johannes_kersting/">Johannes Kersting</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/norman_roggendorf/"><img class="portrait" src="/authors/norman_roggendorf/avatar_huc369ecc082a3974bb5b3f915b8dea5a2_62100_150x150_fill_box_center_2.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/norman_roggendorf/">Norman Roggendorf</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      <a href="/authors/tim_faro/"><img class="portrait" src="/authors/tim_faro/avatar_huf70eca51d3215400e251bbacb66d1307_125760_150x150_fill_q75_box_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/tim_faro/">Tim Faro</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">BSc and MSc Students</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/franc_hysenaj/">Leon Schwartz</a></h2>
+      <h3>Bachelor student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/jennifer_fischer/">Jennifer Fischer</a></h2>
+      <h3>Bachelor student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/kushagra_agarwal/">Kushagra Agarwal</a></h2>
+      <h3>Student Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/leon_hafner/">Leon Hafner</a></h2>
+      <h3>Bachelor student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/leon_schwartz/">Franc Hysenaj</a></h2>
+      <h3>Bachelor student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/nico_trummer/">Nico Trummer</a></h2>
+      <h3>Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/sylvie_baier/">Sylvie Baier</a></h2>
+      <h3>Student Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/vivienne_nahrstedt/">Vivienne Nahrstedt</a></h2>
+      <h3>Bachelor student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/carina_schroeder/">Carina Hui Schröder</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/florian_boessl/">Florian Bößl</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/maxim_ustinov/">Maxim Ustinov</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/konstantin_pelz/">Konstantin Pelz</a></h2>
+      <h3>Student Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/sara_luisa_reh/">Sara-Luisa Reh</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/julian_poschenrieder/">Julian Poschenrieder</a></h2>
+      <h3>Student Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/korbinian_puerckhauer/">Korbinian Pürckhauer</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Alumni</h2>
+  </div>
+
+  
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/akshit_achara/">Akshit Achara</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/klaudia_adamowicz/">Klaudia Adamowicz</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/lis_arend/">Lis Arend</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/thibault_bechtler/">Thibault Bechtler</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/judith_bernett/">Judith Bernett</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/david_blumenthal/">David Blumenthal</a></h2>
+      <h3>Post-Doc</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/rahel_caspar/">Rahel Caspar</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/aparna_chauhan/">Aparna Chauhan</a></h2>
+      <h3>Internship</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/octavia_ciora/">Octavia-Andreea Ciora</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/amit_fenn/">Amit Fenn</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/lena_hackl/">Lena Hackl</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/anne_hartebrodt/">Anne Hartebrodt</a></h2>
+      <h3>MScStudents</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/michael_hartung/">Michael Hartung</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/quirin_heiss/">Quirin Heiß</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/valentin_hildemann/">Valentin Hildemann</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/miriam_hilger/">Miriam Hilger</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/patrick_hoffmann/">Patrick Hoffmann</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/rafael_lago/">Rafael Lago</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/chit_lio/">Chit Tong Lio</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/zakaria_louadi/">Zakaria Louadi</a></h2>
+      <h3>PhD Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/quirin_manz/">Quirin Manz</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/laura_marsoner/">Laura Marsoner</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/thomas_mauermeier/">Thomas Mauermeier</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/konstantinos_mechteridis/">Konstantinos Mechteridis</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/michaela_mueller/">Michaela Müller</a></h2>
+      <h3>Student Intern</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/leonora_raka/">Leonora Raka</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/rafaela_relota/">Rafaela Relota</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/christopher_riess/">Christopher Rieß</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/fanny_roessler/">Fanny Rößler</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/anna_schuster/">Anna Schuster</a></h2>
+      <h3>BSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/gregor_sturm/">Gregor Sturm</a></h2>
+      <h3>MSc Student</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/olga_tsoy/">Olga Tsoy</a></h2>
+      <h3>Post-Doc</h3>
+      
+    </div>
+  </div>
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/kevin_yuan/">Kevin Yuan</a></h2>
+      <h3>Student Research Assistant</h3>
+      
+    </div>
+  </div>
+
+  
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="twitter" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Recently on Twitter</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p><a class="twitter-timeline" data-width="800" data-height="500" data-theme="light" href="https://twitter.com/itisalist?ref_src=twsrc%5Etfw">Tweets by itisalist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Publications</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    <p><p><a href="https://biomedical-big-data.de/publication/" target="_blank">Click here to filter publications</a></p>
+</p>
+
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/melissa_klug/">Melissa Klug</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kilian-kirmes/">Kilian Kirmes</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jiaying-han/">Jiaying Han</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/olga_lazareva/">Olga Lazareva</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/marc-rosenbaum/">Marc Rosenbaum</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/giacomo-viggiani/">Giacomo Viggiani</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/moritz-von-scheidt/">Moritz von Scheidt</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j/uumlrgen-ruland/">J/&amp;uumlrgen Ruland</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jan-baumbach/">Jan Baumbach</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/gianluigi-condorelli/">Gianluigi Condorelli</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/karl-ludwig-laugwitz/">Karl-Ludwig Laugwitz</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/isabell-bernlochner/">Isabell Bernlochner</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dario-bongiovanni/">Dario Bongiovanni</a></span>
+
+  </span>
+  (2021).
+  <a href="/publication/klug-2021-trap/" itemprop="name">Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity</a>.
+  <em>Platelets</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/klug-2021-trap/klug-21-trap.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/09537104.2021.2009453" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/alexander_dietrich/">Alexander Dietrich</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/monica_matchado/">Monica Matchado</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/maximilian-zwiebel/">Maximilian Zwiebel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Benjamin Ölke</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/michael_lauber/">Michael Lauber</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ilias-lagkouvardos/">Ilias Lagkouvardos</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jan-baumbach/">Jan Baumbach</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dirk-haller/">Dirk Haller</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/beate-brandl/">Beate Brandl</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/thoams-skurk/">Thoams Skurk</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/hans-hauner/">Hans Hauner</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sandra-reitmeier/">Sandra Reitmeier</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>
+
+  </span>
+  (2021).
+  <a href="/publication/matchado-2021-namco/" itemprop="name">Namco: A microbiome explorer</a>.
+  <em>bioRxiv</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2021.12.15.471754v1" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2021.12.15.471754v1.full.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/biomedbigdata/namco" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA774891" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://exbio.wzw.tum.de/namco/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=dMx2nmXqMfU" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1101/2021.12.15.471754" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/olga-zolotareva/">Olga Zolotareva</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/reza-nasirigerdeh/">Reza Nasirigerdeh</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/julian-matschinske/">Julian Matschinske</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/reihaneh-torkzadehmahani/">Reihaneh Torkzadehmahani</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/mohammad-bakhtiari/">Mohammad Bakhtiari</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tobias-frisch/">Tobias Frisch</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Julian Späth</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/david_blumenthal/">David Blumenthal</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/amir-abbasinejad/">Amir Abbasinejad</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/paolo-tieri/">Paolo Tieri</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/georgios-kaissis/">Georgios Kaissis</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Daniel Rückert</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/nina-k-wenke/">Nina K Wenke</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jan-baumbach/">Jan Baumbach</a></span>
+
+  </span>
+  (2021).
+  <a href="/publication/zolotareva-2020-flimma/" itemprop="name">Flimma: a federated and privacy-preserving tool for differential gene expression analysis</a>.
+  <em>Genome Biology</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2010.16403" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02553-2.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/zolotareva-2020-flimma/zolotareva-2020-flimma.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/ozolotareva/flimma" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.5711972" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://exbio.wzw.tum.de/flimma/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s13059-021-02553-2" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/cristian-nogales/">Cristian Nogales</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zeinab-m.-mamdouh/">Zeinab M. Mamdouh</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christina-kiel/">Christina Kiel</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/ana-i.-casas/">Ana I. Casas</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/harald-h.h.w.-schmidt/">Harald H.H.W. Schmidt</a></span>
+
+  </span>
+  (2021).
+  <a href="/publication/nogales-2021-network-pharmacology/" itemprop="name">Network pharmacology: curing causal mechanisms instead of treating symptoms</a>.
+  <em>Trends in Pharmacological Sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S0165614721002212/pdfft?md5=675b095b28824de2039e0c5ab85c9483&amp;pid=1-s2.0-S0165614721002212-main.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.tips.2021.11.004" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zakaria_louadi/">Zakaria Louadi</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/maria-l-elkjaer/">Maria L Elkjaer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/chit_lio/">Chit Tong Lio</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/amit_fenn/">Amit Fenn</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/zsolt-illes/">Zsolt Illes</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/dario-bongiovanni/">Dario Bongiovanni</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/jan-baumbach/">Jan Baumbach</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/tim-kacprowski/">Tim Kacprowski</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/olga_tsoy/">Olga Tsoy</a></span>
+
+  </span>
+  (2021).
+  <a href="/publication/louadi-2021-nease/" itemprop="name">Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases</a>.
+  <em>Genome Biology</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2021.07.14.452376v1" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-021-02538-1.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/louadi/NEASE" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/louadi/NEASE" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s13059-021-02538-1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="talks" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent &amp; Upcoming Talks</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/talk/symdroid/" itemprop="url">Network tools for de novo endophenotyping and detecting disease mechanisms</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      The field of systems medicine aims to develop mechanistic disease definitions and to identify groups of patients that would benefit …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span itemprop="startDate">
+          
+          Nov 2, 2021
+          
+            9:30 AM
+            
+          
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span itemprop="location"> TWINCORE in Hannover</span>
+        
+      </div>
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/talk/iem_augsburg/" itemprop="url">Looking at protein-protein interaction networks from the perspective of alternative splicing</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Protein-protein interaction networks have been used since the early days of systems biology to model functional relationships between …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span itemprop="startDate">
+          
+          Oct 19, 2021
+          
+            2:00 PM
+            
+          
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span itemprop="location"> virtual</span>
+        
+      </div>
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/talk/embl_life_science_2020/" itemprop="url">Big data for Systems Medicine</a>
+    </h3>
+
+    
+    <div class="article-style" itemprop="articleBody">
+      Modern medicine suffers from a conceptual crisis: diseases are defined and diagnosed based on symptoms (e.g., hypertension, depression) …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span itemprop="startDate">
+          
+          Oct 27, 2020
+          
+            1:15 PM
+            
+            &mdash; 1:35 PM
+            
+          
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span itemprop="location">Virtual event</span>
+        
+      </div>
+      
+
+      
+      <div itemprop="author">
+        
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/markus_list/">Markus List</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+
+    
+    <div class="see-all">
+      <a href="/talk/">
+        See all talks
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="tools" class="home-section wg-portfolio   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+<div class="margin-auto">
+
+  <div class="center-text">
+    <h1 class="mt-0">Software Tools</h1>
+    
+  </div>
+  <div>
+
+
+    
+
+    
+
+      
+
+      
+      
+      
+      
+        
+      
+
+      <span class="d-none default-project-filter">*</span>
+
+      
+      
+      <div class="project-toolbar">
+        <div class="project-filters">
+          <div class="btn-toolbar">
+            <div class="btn-group flex-wrap">
+              
+                
+                
+                
+                  
+                
+                <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-systems-medicine" class="btn btn-primary btn-lg">systems medicine</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-network-analysis" class="btn btn-primary btn-lg">networks</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-miRNA" class="btn btn-primary btn-lg">microRNAs</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-cell-type-heterogeneity" class="btn btn-primary btn-lg">cell types</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-microbiome" class="btn btn-primary btn-lg">microbiome</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-high-throughput-screening" class="btn btn-primary btn-lg">HTS</a>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+
+    <div class="isotope projects-container js-layout-masonry ">
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/cyanus/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/cyanus/featured_hu46e6ddfee622310c510995e08581db0f_55232_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/cyanus/" target="_blank" rel="noopener">CYANUS</a></h4>
+      <div class="card-desription">
+        <p>R shiny app for the analysis of cytometry data with a focus on differential analysis.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/namco/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/namco/featured_hubb4613cf26473abbca921147a1be08ee_81069_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/namco/" target="_blank" rel="noopener">namco</a></h4>
+      <div class="card-desription">
+        <p>An R shiny app for the end-to-end analysis of 16S rRNA microbiome data.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-network-analysis js-id-systems-medicine js-id-alternative-splicing">
+  <div class="card">
+    
+    
+    <a href="https://www.exbio.wzw.tum.de/digger/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/digger/featured_hu255bfbca8d13144db51deedc505930e5_32703_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://www.exbio.wzw.tum.de/digger/" target="_blank" rel="noopener">DIGGER</a></h4>
+      <div class="card-desription">
+        <p>Analyze protein-protein and domain-domain interactions in a joint graph.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-network-analysis js-id-systems-medicine js-id-alternative-splicing">
+  <div class="card">
+    
+    
+    <a href="https://github.com/louadi/NEASE" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/nease/featured_huf370d0bae24ab30cf75b170b781bb1a4_47764_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://github.com/louadi/NEASE" target="_blank" rel="noopener">NEASE</a></h4>
+      <div class="card-desription">
+        <p>Network-based functional enrichment of alternative splicing.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-systems-medicine js-id-drug-repurposing js-id-network-analysis">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/covex" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/covex/featured_huc998387709cb146431544afb1ad6de2d_26808_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/covex" target="_blank" rel="noopener">CoVex</a></h4>
+      <div class="card-desription">
+        <p>Drug repurposing on the Sars-CoV2 virus-host-drug interactome.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Sys_CARE">
+  <div class="card">
+    
+    
+    <a href="https://github.com/biomedbigdata/ASimulatoR" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/asimulator/featured_hue23448fa0232031b6907284bdc165509_9881_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://github.com/biomedbigdata/ASimulatoR" target="_blank" rel="noopener">ASimulatoR</a></h4>
+      <div class="card-desription">
+        <p>A simulator for RNA-seq data with alternative splicing events written in R.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-EpiGEN js-id-epistasis js-id-Python js-id-simulation js-id-Software">
+  <div class="card">
+    
+    
+    <a href="https://github.com/baumbachlab/epigen" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/epigen/featured_hu4f591a90c07a12e123a3afeb1631841f_16101_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://github.com/baumbachlab/epigen" target="_blank" rel="noopener">EpiGEN</a></h4>
+      <div class="card-desription">
+        <p>An easy-to-use Python pipeline for simulating epistasis data.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-patient-stratification js-id-network-analysis js-id-biclustering js-id-mechanotyping js-id-systems-medicine">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/bicon/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/bicon/featured_hu144d0ea1a930983c3d27a326119237d9_115052_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/bicon/" target="_blank" rel="noopener">BiCoN</a></h4>
+      <div class="card-desription">
+        <p>Network-constrained biclustering for patient stratification.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-cell-type-heterogeneity">
+  <div class="card">
+    
+    
+    <a href="https://github.com/MPIIComputationalEpigenetics/WSHpackage" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/wsh/featured_hu1a405f751c2ca1c2a1d425f95866217d_70704_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://github.com/MPIIComputationalEpigenetics/WSHpackage" target="_blank" rel="noopener">WSH</a></h4>
+      <div class="card-desription">
+        <p>Computing within-sample heterogeneity scores from bisulfte sequencing data.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-cell-type-heterogeneity js-id-systems-medicine">
+  <div class="card">
+    
+    
+    <a href="https://icbi-lab.github.io/immunedeconv/articles/immunedeconv.html" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/immunedeconv/featured_hu6acf0f178175144706407c2c6d7bb600_61154_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://icbi-lab.github.io/immunedeconv/articles/immunedeconv.html" target="_blank" rel="noopener">immunedeconv</a></h4>
+      <div class="card-desription">
+        <p>A unifying package for in silico cell type deconvolution in immuno-oncology.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-housekeeping-genes js-id-cell-type-heterogeneity">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/housekeepr" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/housekeepr/featured_hu81698c765beaba3a5b2d289d18a114b5_55575_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/housekeepr" target="_blank" rel="noopener">HouseKeepR</a></h4>
+      <div class="card-desription">
+        <p>Mining GEO for tissue- and condition-specific normalization genes.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-ceRNA js-id-miRNA js-id-network-analysis js-id-miRNA-regulation">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/sponge/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/sponge/featured_hu5cd1fb64fc1096f8014eee81ecffb376_140635_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/sponge/" target="_blank" rel="noopener">SPONGE</a></h4>
+      <div class="card-desription">
+        <p>Inferring genome-wide networks of competing endogenous RNAs.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-ceRNA js-id-miRNA js-id-network-analysis js-id-miRNA-regulation">
+  <div class="card">
+    
+    
+    <a href="https://doi.org/doi:10.18129/B9.bioc.SPONGE" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/spongedb/featured_hu72f441bf4c0306513444884d9a8ca001_151049_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://doi.org/doi:10.18129/B9.bioc.SPONGE" target="_blank" rel="noopener">SPONGE</a></h4>
+      <div class="card-desription">
+        <p>A pancancer database on competing endogenous RNA regulations.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-network-analysis js-id-systems-medicine">
+  <div class="card">
+    
+    
+    <a href="https://exbio.wzw.tum.de/keypathwayminer" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/keypathwayminer/featured_hu1f94cd3bf1bcd12951ad7d8e9e37cc9d_76347_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://exbio.wzw.tum.de/keypathwayminer" target="_blank" rel="noopener">KPM</a></h4>
+      <div class="card-desription">
+        <p><em>de novo</em> network enrichment to integrate multi-omics data with the interactome.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-proteomics js-id-systems-biology js-id-network-analysis js-id-cell-type-heterogeneity">
+  <div class="card">
+    
+    
+    <a href="http://athena.proteomics.wzw.tum.de" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/athena/featured_hu17a5b24b0e97e183089ca21df9fdf380_76405_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://athena.proteomics.wzw.tum.de" target="_blank" rel="noopener">Athena</a></h4>
+      <div class="card-desription">
+        <p>Mine the Arabidopsis THaliana ExpressioN Atlas across plant tissues.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-microbiome">
+  <div class="card">
+    
+    
+    <a href="https://bioatlas.compbio.sdu.dk" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/bioatlas/featured_hu1795c4752749c3c5691b626f7fba4113_61757_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://bioatlas.compbio.sdu.dk" target="_blank" rel="noopener">BioAtlas</a></h4>
+      <div class="card-desription">
+        <p>Process amplicon data and study microbial diversity across the globe.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-epigenomics js-id-R js-id-bioconductor js-id-cell-type-heterogeneity">
+  <div class="card">
+    
+    
+    <a href="https://doi.org/doi:10.18129/B9.bioc.DeepBlueR" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/deepbluer/featured_hu25a66e848381b4ada436b254570003f1_49995_550x0_resize_q90_box.jpeg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://doi.org/doi:10.18129/B9.bioc.DeepBlueR" target="_blank" rel="noopener">DeepBlueR</a></h4>
+      <div class="card-desription">
+        <p>A bioconductor package for accessing the DeepBlue epigenome analysis web server.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-high-throughput-screening js-id-systems-medicine js-id-systems-biology js-id-network-analysis js-id-miRNA-regulation">
+  <div class="card">
+    
+    
+    <a href="https://biomedical-big-data.de/HiTSeekR" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/hitseekr/featured_hu6f18d904a03a5fda7320bf68a19278e4_34094_550x0_resize_q90_box.jpeg" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://biomedical-big-data.de/HiTSeekR" target="_blank" rel="noopener">HiTSeekR</a></h4>
+      <div class="card-desription">
+        <p>Analyse various types of high-throughput screening data.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-ceRNA js-id-miRNA-regulation js-id-network-analysis">
+  <div class="card">
+    
+    
+    <a href="https://jami.readthedocs.io/en/latest/index.html" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/jami/featured_hud2778532aa3b8a5b79741764ac4003ac_39463_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="https://jami.readthedocs.io/en/latest/index.html" target="_blank" rel="noopener">JAMI</a></h4>
+      <div class="card-desription">
+        <p>A fast Java tool for conditional mutual information in ceRNA inference.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-LIMS js-id-RPPA js-id-high-throughput-screening">
+  <div class="card">
+    
+    
+    <a href="http://biomedical-big-data.de/MIRACLE/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/miracle/featured_huea8023da03772f93a4735af8fe36f132_107413_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://biomedical-big-data.de/MIRACLE/" target="_blank" rel="noopener">MIRACLE</a></h4>
+      <div class="card-desription">
+        <p>A web app for sample logistics and data analysis of reverse-phase protein arrays.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-LIMS js-id-high-throughput-screening">
+  <div class="card">
+    
+    
+    <a href="http://biomedical-big-data.de/SAVANAH/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/savanah/featured_huba6a8ceb1f9e78aaa8fc7f347b775fcd_140680_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://biomedical-big-data.de/SAVANAH/" target="_blank" rel="noopener">SAVANAH</a></h4>
+      <div class="card-desription">
+        <p>A web app for sample logistics and visual inspection of high-throughput experiments.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-LIMS js-id-high-throughput-screening">
+  <div class="card">
+    
+    
+    <a href="http://biomedical-big-data.de/OpenLabFramework/" target="_blank" rel="noopener" class="card-image hover-overlay">
+      <img src="/tool/openlabframework/featured_hu29fe1c136594be2d742a14248eb96f1b_59836_550x0_resize_q90_box_2.png" alt="" class="img-responsive">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="http://biomedical-big-data.de/OpenLabFramework/" target="_blank" rel="noopener">OpenLabFramework</a></h4>
+      <div class="card-desription">
+        <p>A laboratory information management system for functional genomics.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+      
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="projects" class="home-section wg-portfolio   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+
+    <h1>Projects</h1>
+    
+
+  </div>
+  <div class="col-xs-12 col-md-8">
+
+
+
+    
+
+    
+
+      
+
+      
+      
+      
+      
+        
+      
+
+      <span class="d-none default-project-filter">*</span>
+
+      
+      
+    
+
+    <div class="isotope projects-container row js-layout-row project-showcase mt-5">
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item js-id-drug-repurposing js-id-systems-medicine" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://repo4.eu/" target="_blank" rel="noopener" itemprop="url">REPO4EU</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        REPO4EU is a euro-global platform for mechanism-based drug repurposing through real-world data and artificial intelligence covering every step from lab to phase II clinical.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="https://repo4.eu/" target="_blank" rel="noopener">
+        <img src="/project/repo4eu/featured_hu878dfb437dedd070a544dac9aa38c042_504809_540x0_resize_box_2.png" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-lg-12 project-item isotope-item " itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.sfb1371.tum.de/" target="_blank" rel="noopener" itemprop="url">CRC1371</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        The DFG-funded Collaborative Research Center 1371 for Microbiome Signatures investigates the functional relevance of the microbiome in the digestive tract.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first order-md-2">
+      
+      
+      
+      <a href="https://www.sfb1371.tum.de/" target="_blank" rel="noopener">
+        <img src="/project/sfb1371/featured_hu0f7f54e7e92b8f86ee5cc431d89bc41f_104840_540x0_resize_box_2.png" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+        
+        
+        
+          
+          
+        
+        
+          
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-12 project-item isotope-item " itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="https://www.sys-med.de/en/alliances/sys-care/" target="_blank" rel="noopener" itemprop="url">Sys_CARE</a></h3>
+
+      
+      
+        
+      
+      
+      <div class="article-style" itemprop="articleBody">
+        Sys_CARE is a BMBF-funded collaborative research project to elucidate the role of alternative splicing in cardiac and renal diseases using systems medicine approaches and molecular big data.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+      
+      
+      <a href="https://www.sys-med.de/en/alliances/sys-care/" target="_blank" rel="noopener">
+        <img src="/project/sys_care/featured_hu55d69a8af1446a77d3edf87309ae4cf5_293434_540x0_resize_box_2.png" itemprop="image" alt="">
+      </a>
+      
+    </div>
+  </div>
+</div>
+
+        
+      
+    </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="teaching" class="home-section wg-blank   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Teaching</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      
+
+<h2 id="bachelor-master-thesis-projects">Bachelor / Master thesis projects</h2>
+
+<p>You can find a list of currently open topics in our group <a href="https://docs.google.com/spreadsheets/d/1t9zuE1cInX89TQc9_cbqI_YCxA-gvOY-E_A9EXq7VPM/edit?usp=sharing" target="_blank">here</a></p>
+
+<h2 id="ws-2021-2022">WS 2021 / 2022</h2>
+
+<ul>
+<li>Systems BioMedicine (registration via TUM online)</li>
+<li>Introduction to Bioinformatics I (registration via TUM online)</li>
+<li>Journal Club Bioinformatics (<a href="https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/" target="_blank">GZW</a>)</li>
+<li>Advanced lab courses (Master)</li>
+</ul>
+
+<h2 id="ss-2021">SS 2021</h2>
+
+<ul>
+<li>Introduction to Bioinformatics II</li>
+<li>Advanced Bioinformatics</li>
+<li>Master practical course (click <a href="https://docs.google.com/document/d/1p6UYTgzHkcrpinP_cMjIRq43Dsv9iOrtF5ry1Nz4BuI/edit?usp=sharing" target="_blank">here</a> for project details)</li>
+<li>Journal Club Bioinformatics (<a href="https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/" target="_blank">GZW</a>)</li>
+<li>Basic Introduction to R (<a href="https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/" target="_blank">GZW</a>)</li>
+<li>Basic Introduction to Python (<a href="https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/" target="_blank">GZW</a>)</li>
+</ul>
+
+<h2 id="ws-2020-2021">WS 2020 / 2021</h2>
+
+<ul>
+<li>Systems BioMedicine</li>
+<li>Introduction to Bioinformatics I</li>
+<li>Journal Club Bioinformatics</li>
+<li>Basics in Bioinformatics (GZW)</li>
+<li>Basic Introduction to R for Bioinformatics (GZW)</li>
+<li>Advanced lab courses (Master)</li>
+</ul>
+
+<h2 id="ss-2020">SS 2020</h2>
+
+<ul>
+<li>Advanced Bioinformatics</li>
+<li>Introduction to Bioinformatics II</li>
+<li>Master practical course</li>
+<li>Journal Club Bioinformatics</li>
+</ul>
+
+<h2 id="ws-2019-2020">WS 2019 / 2020</h2>
+
+<ul>
+<li>Systems BioMedicine</li>
+<li>Introduction to Bioinformatik I</li>
+<li>Journal Club Bioinformatics</li>
+<li>Basics in Bioinformatics (CRC1371)</li>
+<li>Computational Systems Medicine (CRC1371)</li>
+<li>Basic Introduction to R for Bioinformatics (CRC1321)</li>
+<li>Basic Introduction to R for Bioinformatics (CRC1371)</li>
+</ul>
+
+<h2 id="ss-2018">SS 2018</h2>
+
+<ul>
+<li>Advanced Bioinformatics</li>
+<li>Introduction to Bioinformatics II</li>
+<li>Master practical course</li>
+<li>Journal Club Bioinformatics</li>
+</ul>
+
+<h2 id="ws-2018-2019">WS <sup>2018</sup>&frasl;<sub>2019</sub></h2>
+
+<ul>
+<li>Introduction to Bioinformatik I</li>
+<li>Journal Club Bioinformatics</li>
+</ul>
+
+<h2 id="ss-2018-1">SS 2018</h2>
+
+<ul>
+<li>Introduction to Bioinformatics II</li>
+</ul>
+
+<h2 id="thesis-topics">Thesis topics</h2>
+
+<p>We have no shortage in exciting and topics for talented Bachelor and Master students that seek a challenge. Contact us and let us know about your interests.</p>
+
+<h2 id="further-information">Further information</h2>
+
+<p>A short description, dates, and rooms for these lectures and courses can be found at <a href="https://www.exbio.de/teaching" target="_blank">https://www.exbio.de/teaching</a>.
+More details are available at <a href="https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2017/" target="_blank">https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2017/</a> (Bachelor) and <a href="https://www.in.tum.de/fuer-studierende/master-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2016/" target="_blank">https://www.in.tum.de/fuer-studierende/master-studiengaenge/bioinformatik/pruefungsordnung-modulkatalog/fpso-2016/</a> (Master).</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
+    <div class="container">
+      
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email"><a href="mailto:markus.list@wzw.tum.de">markus.list@wzw.tum.de</a></span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
+        <span id="person-telephone" itemprop="telephone"><a href="tel:&#43;49%208161%2071%202761">&#43;49 8161 71 2761</a></span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">Maximus-von-Imhof-Forum 3, 85354 Freising</span>
+      </li>
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
+        <span>Email for appointment</span>
+      </li>
+      
+
+      
+
+      
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
+        <a href="https://twitter.com/itisalist" target="_blank" rel="noopener">DM Me</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
+        <a href="skype:markus14984?call" >Skype Me</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-telegram fa-2x" aria-hidden="true"></i>
+        <a href="https://telegram.me/@itisalist" target="_blank" rel="noopener">Telegram Me</a>
+      </li>
+      
+
+    </ul>
+
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="48.3984274">
+      <input id="map-lng" value="11.72294">
+      <input id="map-dir" value="Maximus-von-Imhof-Forum 3, 85354 Freising">
+      <input id="map-zoom" value="15">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="tags" class="home-section wg-tag-cloud   "  >
+    <div class="container">
+      
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Tags</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+      
+      
+
+      
+      
+      
+      
+      
+
+      <div class="tag-cloud">
+        
+          
+          
+          
+          <a href="/tags/16s-rrna-amplicon-sequencing/" style="font-size:0.8rem">16S rRNA amplicon sequencing</a>
+        
+          
+          
+          
+          <a href="/tags/alternative-splicing/" style="font-size:1.246504209563229rem">alternative splicing</a>
+        
+          
+          
+          
+          <a href="/tags/artificial-intelligence/" style="font-size:1.246504209563229rem">artificial intelligence</a>
+        
+          
+          
+          
+          <a href="/tags/asimulator/" style="font-size:0.8rem">ASimulatoR</a>
+        
+          
+          
+          
+          <a href="/tags/batch-effects/" style="font-size:0.8rem">batch effects</a>
+        
+          
+          
+          
+          <a href="/tags/biclustering/" style="font-size:0.8rem">biclustering</a>
+        
+          
+          
+          
+          <a href="/tags/bioconductor/" style="font-size:1.6930084191264578rem">bioconductor</a>
+        
+          
+          
+          
+          <a href="/tags/biomarker/" style="font-size:0.8rem">biomarker</a>
+        
+          
+          
+          
+          <a href="/tags/biomarker-discovery/" style="font-size:1.246504209563229rem">biomarker discovery</a>
+        
+          
+          
+          
+          <a href="/tags/cancer/" style="font-size:1.246504209563229rem">cancer</a>
+        
+          
+          
+          
+          <a href="/tags/cancer-immunology/" style="font-size:0.8rem">cancer immunology</a>
+        
+          
+          
+          
+          <a href="/tags/cancer-subtyping/" style="font-size:1.246504209563229rem">cancer subtyping</a>
+        
+          
+          
+          
+          <a href="/tags/cell-type-deconvolution/" style="font-size:1.5076924285718585rem">cell-type deconvolution</a>
+        
+          
+          
+          
+          <a href="/tags/cell-type-heterogeneity/" style="font-size:2.139512628689687rem">cell-type heterogeneity</a>
+        
+          
+          
+          
+          <a href="/tags/cell-type-onotlogy/" style="font-size:0.8rem">cell type onotlogy</a>
+        
+          
+          
+          
+          <a href="/tags/cerna/" style="font-size:1.5076924285718585rem">ceRNA</a>
+        
+          
+          
+          
+          <a href="/tags/circadian-rhythm/" style="font-size:0.8rem">circadian rhythm</a>
+        
+          
+          
+          
+          <a href="/tags/competing-endogeneous-rna/" style="font-size:0.8rem">competing endogeneous RNA</a>
+        
+          
+          
+          
+          <a href="/tags/competing-endogenous-rnas/" style="font-size:0.8rem">competing endogenous RNAs</a>
+        
+          
+          
+          
+          <a href="/tags/conditional-mutual-information/" style="font-size:0.8rem">conditional mutual information</a>
+        
+          
+          
+          
+          <a href="/tags/containerization/" style="font-size:0.8rem">containerization</a>
+        
+          
+          
+          
+          <a href="/tags/covid-19/" style="font-size:0.8rem">COVID-19</a>
+        
+          
+          
+          
+          <a href="/tags/de-novo-network-enrichment/" style="font-size:1.8367506686703359rem">de novo network enrichment</a>
+        
+          
+          
+          
+          <a href="/tags/de-novo-pathway-enrichment/" style="font-size:0.8rem">de novo pathway enrichment</a>
+        
+          
+          
+          
+          <a href="/tags/diabetes/" style="font-size:0.8rem">diabetes</a>
+        
+          
+          
+          
+          <a href="/tags/disease-subtyping/" style="font-size:0.8rem">disease subtyping</a>
+        
+          
+          
+          
+          <a href="/tags/dna-methylation/" style="font-size:1.246504209563229rem">DNA methylation</a>
+        
+          
+          
+          
+          <a href="/tags/docker/" style="font-size:0.8rem">docker</a>
+        
+          
+          
+          
+          <a href="/tags/drug-repurposing/" style="font-size:1.8367506686703359rem">drug repurposing</a>
+        
+          
+          
+          
+          <a href="/tags/electronic-laboratory-notebook/" style="font-size:0.8rem">electronic laboratory notebook</a>
+        
+          
+          
+          
+          <a href="/tags/epigen/" style="font-size:0.8rem">EpiGEN</a>
+        
+          
+          
+          
+          <a href="/tags/epigenomics/" style="font-size:2.053495790436771rem">epigenomics</a>
+        
+          
+          
+          
+          <a href="/tags/epistasis/" style="font-size:1.5076924285718585rem">epistasis</a>
+        
+          
+          
+          
+          <a href="/tags/evaluation/" style="font-size:0.8rem">evaluation</a>
+        
+          
+          
+          
+          <a href="/tags/evalution/" style="font-size:0.8rem">evalution</a>
+        
+          
+          
+          
+          <a href="/tags/federated/" style="font-size:1.246504209563229rem">federated</a>
+        
+          
+          
+          
+          <a href="/tags/functional-genomics/" style="font-size:2.053495790436771rem">functional genomics</a>
+        
+          
+          
+          
+          <a href="/tags/gene-regulation/" style="font-size:0.8rem">gene regulation</a>
+        
+          
+          
+          
+          <a href="/tags/gwas/" style="font-size:1.246504209563229rem">GWAS</a>
+        
+          
+          
+          
+          <a href="/tags/hackathon/" style="font-size:0.8rem">hackathon</a>
+        
+          
+          
+          
+          <a href="/tags/high-throughput-screening/" style="font-size:2.139512628689687rem">high-throughput screening</a>
+        
+          
+          
+          
+          <a href="/tags/housekeeping-genes/" style="font-size:0.8rem">housekeeping genes</a>
+        
+          
+          
+          
+          <a href="/tags/ihec/" style="font-size:1.5076924285718585rem">IHEC</a>
+        
+          
+          
+          
+          <a href="/tags/java/" style="font-size:0.8rem">Java</a>
+        
+          
+          
+          
+          <a href="/tags/lims/" style="font-size:2.139512628689687rem">LIMS</a>
+        
+          
+          
+          
+          <a href="/tags/machine-learning/" style="font-size:1.6930084191264578rem">machine learning</a>
+        
+          
+          
+          
+          <a href="/tags/mechanotyping/" style="font-size:0.8rem">mechanotyping</a>
+        
+          
+          
+          
+          <a href="/tags/microbiome/" style="font-size:1.6930084191264578rem">microbiome</a>
+        
+          
+          
+          
+          <a href="/tags/microrna/" style="font-size:0.8rem">microRNA</a>
+        
+          
+          
+          
+          <a href="/tags/mirna/" style="font-size:1.246504209563229rem">miRNA</a>
+        
+          
+          
+          
+          <a href="/tags/mirna-regulation/" style="font-size:1.6930084191264578rem">miRNA regulation</a>
+        
+          
+          
+          
+          <a href="/tags/mirna-regulatoin/" style="font-size:0.8rem">miRNA regulatoin</a>
+        
+          
+          
+          
+          <a href="/tags/multi-omics-integration/" style="font-size:1.5076924285718585rem">multi-omics integration</a>
+        
+          
+          
+          
+          <a href="/tags/multi-omics-network-analysis/" style="font-size:0.8rem">multi-omics network analysis</a>
+        
+          
+          
+          
+          <a href="/tags/nanodrugs/" style="font-size:0.8rem">nanodrugs</a>
+        
+          
+          
+          
+          <a href="/tags/nanotoxicology/" style="font-size:0.8rem">nanotoxicology</a>
+        
+          
+          
+          
+          <a href="/tags/network-analysis/" style="font-size:2.452261911384966rem">network analysis</a>
+        
+          
+          
+          
+          <a href="/tags/network-enrichment/" style="font-size:1.246504209563229rem">network enrichment</a>
+        
+          
+          
+          
+          <a href="/tags/network-medicine/" style="font-size:0.8rem">network medicine</a>
+        
+          
+          
+          
+          <a href="/tags/patient-stratification/" style="font-size:1.246504209563229rem">patient stratification</a>
+        
+          
+          
+          
+          <a href="/tags/protein-array/" style="font-size:1.246504209563229rem">protein array</a>
+        
+          
+          
+          
+          <a href="/tags/proteomics/" style="font-size:0.8rem">proteomics</a>
+        
+          
+          
+          
+          <a href="/tags/python/" style="font-size:0.8rem">Python</a>
+        
+          
+          
+          
+          <a href="/tags/r/" style="font-size:1.246504209563229rem">R</a>
+        
+          
+          
+          
+          <a href="/tags/rppa/" style="font-size:0.8rem">RPPA</a>
+        
+          
+          
+          
+          <a href="/tags/sars-cov-2/" style="font-size:1.246504209563229rem">Sars-CoV-2</a>
+        
+          
+          
+          
+          <a href="/tags/scalability/" style="font-size:0.8rem">scalability</a>
+        
+          
+          
+          
+          <a href="/tags/simulation/" style="font-size:0.8rem">simulation</a>
+        
+          
+          
+          
+          <a href="/tags/simulator/" style="font-size:0.8rem">simulator</a>
+        
+          
+          
+          
+          <a href="/tags/single-cell/" style="font-size:0.8rem">single-cell</a>
+        
+          
+          
+          
+          <a href="/tags/software/" style="font-size:0.8rem">Software</a>
+        
+          
+          
+          
+          <a href="/tags/software-usability/" style="font-size:0.8rem">software usability</a>
+        
+          
+          
+          
+          <a href="/tags/sponging/" style="font-size:0.8rem">sponging</a>
+        
+          
+          
+          
+          <a href="/tags/standards/" style="font-size:1.246504209563229rem">standards</a>
+        
+          
+          
+          
+          <a href="/tags/symposium/" style="font-size:0.8rem">Symposium</a>
+        
+          
+          
+          
+          <a href="/tags/synthetic-lethality/" style="font-size:0.8rem">synthetic lethality</a>
+        
+          
+          
+          
+          <a href="/tags/sys_care/" style="font-size:1.246504209563229rem">Sys_CARE</a>
+        
+          
+          
+          
+          <a href="/tags/systems-biology/" style="font-size:1.8367506686703359rem">systems biology</a>
+        
+          
+          
+          
+          <a href="/tags/systems-biomedicine/" style="font-size:1.246504209563229rem">systems biomedicine</a>
+        
+          
+          
+          
+          <a href="/tags/systems-medicine/" style="font-size:2.452261911384966rem">systems medicine</a>
+        
+          
+          
+          
+          <a href="/tags/transcriptomics/" style="font-size:0.8rem">transcriptomics</a>
+        
+          
+          
+          
+          <a href="/tags/tumor-microenvironment/" style="font-size:1.5076924285718585rem">tumor microenvironment</a>
+        
+          
+          
+          
+          <a href="/tags/web-application/" style="font-size:2.139512628689687rem">web application</a>
+        
+          
+          
+          
+          <a href="/tags/workshop/" style="font-size:0.8rem">Workshop</a>
+        
+      </div>
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.8f3d53582b3c04a038fca31bcc86151b.js"></script>
+
+  </body>
+</html>
+
+

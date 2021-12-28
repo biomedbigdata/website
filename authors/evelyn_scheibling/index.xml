@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/evelyn_scheibling/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/evelyn_scheibling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/evelyn_scheibling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/evelyn_scheibling/</guid>
+      <description>I&amp;rsquo;m a Master student in Bioinformatics at the Technical University of Munich and the Ludwig-Maximilian University. In October 2019, I joined the Chair of Experimental Bioinformatics in Weihenstephan to work on my bachelor thesis on the indentification of miRNA binding site enriched transcripts in The Cancer Genome Atlas. From October 2020, I work as a student assistant for the group.</description>
+    </item>
+    
+  </channel>
+</rss>

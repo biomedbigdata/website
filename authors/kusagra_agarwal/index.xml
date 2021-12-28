@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kusagra_agarwal on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/kusagra_agarwal/</link>
+    <description>Recent content in kusagra_agarwal on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/kusagra_agarwal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/kushagra_agarwal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/kushagra_agarwal/</guid>
+      <description>I am an undergraduate student at IIIT Hyderabad, India where I am a researcher at the Centre for Computational Natural Science and Bioinformatics. My research interests include the application of Machine Learning in the domain of Computational Biology specifically with an impact on Healthcare. From January 2022, I will work as a student intern in the Big Data in BioMedicine group on within-sample heterogeneity scores.</description>
+    </item>
+    
+  </channel>
+</rss>

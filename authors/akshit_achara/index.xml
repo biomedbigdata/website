@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/akshit_achara/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/akshit_achara/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/akshit_achara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/akshit_achara/</guid>
+      <description>Akshit is a Masters student in Mathematics at BITS Pilani, India. He joined the ListLab from Aug&amp;rsquo;19 to Dec&amp;rsquo;19 towork on a machine learning based strategy for benchmarking miRNA target prediction methods.</description>
+    </item>
+    
+  </channel>
+</rss>

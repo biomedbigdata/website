@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Tieri on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/paolo-tieri/</link>
+    <description>Recent content in Paolo Tieri on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/paolo-tieri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

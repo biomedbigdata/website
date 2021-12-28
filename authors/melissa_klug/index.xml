@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/melissa_klug/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/melissa_klug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/melissa_klug/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/melissa_klug/</guid>
+      <description>My PhD project is a connection between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. I received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and my M.Sc. of Biology from the LMU Munich in 2019. The results of my Master thesis at the Molecular Cardiology lab laid the foundation of this joined project. I am aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.</description>
+    </item>
+    
+    <item>
+      <title>Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-trap/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-protocol/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection is associated with a pro-thrombotic platelet phenotype</title>
+      <link>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

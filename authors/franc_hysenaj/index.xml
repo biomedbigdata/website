@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/franc_hysenaj/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/franc_hysenaj/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/leon_schwartz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/leon_schwartz/</guid>
+      <description>Franc is working on a bachelor thesis aimed at elucidating the role of hormone secretion and hormone receptors with a focus on secretin in the human gut. He is jointly supervised by Michael Lauber and Andrea Bast-Habersbrunner from the group of Prof. Martin Klingenspor.</description>
+    </item>
+    
+  </channel>
+</rss>

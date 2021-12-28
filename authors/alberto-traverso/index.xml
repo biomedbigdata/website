@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Traverso on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/alberto-traverso/</link>
+    <description>Recent content in Alberto Traverso on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/alberto-traverso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

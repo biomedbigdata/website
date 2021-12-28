@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/zakaria_louadi/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/zakaria_louadi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/zakaria_louadi/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/zakaria_louadi/</guid>
+      <description>I&amp;rsquo;m a Ph.D student in the Chair of Experimental Bioinformatics involved in Sys_CARE project. I received a Bachelor&amp;rsquo;s degree in Electrical Engineering from Cadi Ayyad University in Marrakesh and a MSc with a focus on AI and deep learning from Jeonbuk National University in South Korea. In my master thesis, I worked on developing Deep Splicing Code a sequence-based tool for the classification of alternative splicing events. My research interests include machine learning and its applications in computational biology.</description>
+    </item>
+    
+    <item>
+      <title>Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2021-nease/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2021-nease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2020-digger/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER</title>
+      <link>https://biomedical-big-data.de/tool/digger/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/digger/</guid>
+      <description>Analyze protein-protein and domain-domain interactions in a joint graph.</description>
+    </item>
+    
+    <item>
+      <title>NEASE</title>
+      <link>https://biomedical-big-data.de/tool/nease/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/nease/</guid>
+      <description>Network-based functional enrichment of alternative splicing.</description>
+    </item>
+    
+  </channel>
+</rss>

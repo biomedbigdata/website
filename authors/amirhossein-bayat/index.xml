@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amirhossein Bayat on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/amirhossein-bayat/</link>
+    <description>Recent content in Amirhossein Bayat on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/amirhossein-bayat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Federated Multi-Mini-Batch: An Efficient Training Approach to Federated Learning in Non-IID Environments</title>
+      <link>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

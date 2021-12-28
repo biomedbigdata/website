@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPPA on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/rppa/</link>
+    <description>Recent content in RPPA on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 28 Sep 2015 19:39:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/rppa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MIRACLE</title>
+      <link>https://biomedical-big-data.de/tool/miracle/</link>
+      <pubDate>Mon, 28 Sep 2015 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/miracle/</guid>
+      <description>A web app for sample logistics and data analysis of reverse-phase protein arrays.</description>
+    </item>
+    
+  </channel>
+</rss>

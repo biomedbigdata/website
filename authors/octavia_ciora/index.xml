@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/octavia_ciora/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/octavia_ciora/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/octavia_ciora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/octavia_ciora/</guid>
+      <description>I am a Bioinformatics Master student at the TUM and LMU. I joined the group in 2019, when I did my bachelor thesis on the role of circular RNA in sponging and implemented a docker pipeline for analyzing matched small- and total-RNA sequencing data. Since September 2020, I am working on extending the circRNA analysis and implementing an nextflow pipeline as part of my advanced practical course. In October 2020, I started working as a student assistant.</description>
+    </item>
+    
+  </channel>
+</rss>

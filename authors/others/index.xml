@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/others/</link>
+    <description>Recent content in  others on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Computational Strategies to Combat COVID-19: Useful Tools to Accelerate SARS-CoV-2 and Coronavirus Research</title>
+      <link>https://biomedical-big-data.de/publication/hufsky-2020-computational/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hufsky-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrhythmic Gut Microbiome Signatures Predict Risk of Type 2 Diabetes</title>
+      <link>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass-spectrometry-based draft of the Arabidopsis proteome</title>
+      <link>https://biomedical-big-data.de/publication/mergner-2020-mass/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/mergner-2020-mass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFP suppresses breast cancer cell growth by TES-mediated upregulation of the transcription factor DDIT3</title>
+      <link>https://biomedical-big-data.de/publication/block-2014-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/block-2014-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THU-470-The mRNA-binding protein tristetraprolin promotes hepatocarcinogenesis but inhibits tumour progression in liver cancer</title>
+      <link>https://biomedical-big-data.de/publication/kessler-2019-thu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kessler-2019-thu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
+      <link>https://biomedical-big-data.de/publication/schultheiss-2017-long/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/schultheiss-2017-long/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

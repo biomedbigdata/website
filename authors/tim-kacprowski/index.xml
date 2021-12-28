@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Kacprowski on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/tim-kacprowski/</link>
+    <description>Recent content in Tim Kacprowski on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/tim-kacprowski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2021-nease/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2021-nease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASimulatoR: splice-aware RNA-Seq data simulation</title>
+      <link>https://biomedical-big-data.de/publication/manz-2021-asimulator/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/manz-2021-asimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for modeling epistatic interaction</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2020-digger/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

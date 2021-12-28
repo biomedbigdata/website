@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rosanna Gosetti on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/rosanna-gosetti/</link>
+    <description>Recent content in Rosanna Gosetti on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/rosanna-gosetti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-protocol/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

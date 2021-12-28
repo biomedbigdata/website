@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miRNA regulation on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/tags/mirna-regulation/</link>
+    <description>Recent content in miRNA regulation on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 28 Jan 2019 19:39:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/tags/mirna-regulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/sponge/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/sponge/</guid>
+      <description>Inferring genome-wide networks of competing endogenous RNAs.</description>
+    </item>
+    
+    <item>
+      <title>SPONGE</title>
+      <link>https://biomedical-big-data.de/tool/spongedb/</link>
+      <pubDate>Mon, 28 Jan 2019 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/spongedb/</guid>
+      <description>A pancancer database on competing endogenous RNA regulations.</description>
+    </item>
+    
+    <item>
+      <title>HiTSeekR</title>
+      <link>https://biomedical-big-data.de/tool/hitseekr/</link>
+      <pubDate>Fri, 28 Sep 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/hitseekr/</guid>
+      <description>Analyse various types of high-throughput screening data.</description>
+    </item>
+    
+    <item>
+      <title>JAMI</title>
+      <link>https://biomedical-big-data.de/tool/jami/</link>
+      <pubDate>Sun, 28 Jan 2018 19:39:58 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/tool/jami/</guid>
+      <description>A fast Java tool for conditional mutual information in ceRNA inference.</description>
+    </item>
+    
+  </channel>
+</rss>

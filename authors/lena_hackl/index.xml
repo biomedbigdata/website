@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/lena_hackl/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/lena_hackl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/lena_hackl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/lena_hackl/</guid>
+      <description>I am doing my M.Sc. Computer science at the Technical University of Munich right now. I gained some experience with ligand binding site prediction in a project at Rostlab at TUM. So, in May 2020, I joined the Chair of Experimental Bioinformatics to work on exon-specific annotation of miRNA binding sites for my Master’s thesis.</description>
+    </item>
+    
+  </channel>
+</rss>

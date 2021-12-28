@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/markus_list/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/markus_list/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/markus_list/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/markus_list/</guid>
+      <description>Markus List heads the group of Big Data in Biomedicine which is part of the Chair of Experimental Bioinformatics at the Technical University of Munich. We are located in the TUM School of Life Sciences in Freising-Weihenstephan.
+We develop machine learning models and user-friendly software tools that integrate big heterogeneous (OMICS) data on the network level. Our focus is on next-generation sequencing data where we seek to understand splicing and transcriptional control through histone modifications, DNA methylation, microRNAs, long non-coding and circular RNAs.</description>
+    </item>
+    
+    <item>
+      <title>Mass cytometry of platelet-rich plasma: a new approach to analyze platelet surface expression and reactivity</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-trap/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namco: A microbiome explorer</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flimma: a federated and privacy-preserving tool for differential gene expression analysis</title>
+      <link>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/zolotareva-2020-flimma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network pharmacology: curing causal mechanisms instead of treating symptoms</title>
+      <link>https://biomedical-big-data.de/publication/nogales-2021-network-pharmacology/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nogales-2021-network-pharmacology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional enrichment of alternative splicing events with NEASE reveals insights into tissue identity and diseases</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2021-nease/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2021-nease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Comparison of Novel and Existing Differential Analysis Methods for CyTOF Data</title>
+      <link>https://biomedical-big-data.de/publication/arend-2021-cyanus/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/arend-2021-cyanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network tools for de novo endophenotyping and detecting disease mechanisms</title>
+      <link>https://biomedical-big-data.de/talk/symdroid/</link>
+      <pubDate>Tue, 02 Nov 2021 09:30:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/symdroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking at protein-protein interaction networks from the perspective of alternative splicing</title>
+      <link>https://biomedical-big-data.de/talk/iem_augsburg/</link>
+      <pubDate>Tue, 19 Oct 2021 14:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/iem_augsburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue heterogeneity is prevalent in gene expression studies</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-heterogeneity/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platelet Surface Protein Expression and Reactivity upon TRAP Stimulation after BNT162b2 Vaccination</title>
+      <link>https://biomedical-big-data.de/publication/klug-2021-protocol/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/klug-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-featurecloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical epigenetics settings for cancer and cardiovascular diseases: real-life applications of network medicine at the bedside</title>
+      <link>https://biomedical-big-data.de/publication/sarno-2021-epigenetics/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sarno-2021-epigenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the limits of active module identification</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2021-module-identification/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2021-module-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning for deciphering cell heterogeneity and gene regulation</title>
+      <link>https://biomedical-big-data.de/publication/scherer-2021-machine-learning/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/scherer-2021-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Consistency between Gene Expression and the Gene Regulatory Network of Corynebacterium glutamicum</title>
+      <link>https://biomedical-big-data.de/publication/parise-2021-corynebacterium/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/parise-2021-corynebacterium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASimulatoR: splice-aware RNA-Seq data simulation</title>
+      <link>https://biomedical-big-data.de/publication/manz-2021-asimulator/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/manz-2021-asimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primer, Pipelines, Parameters: Issues in 16S rRNA Gene Sequencing</title>
+      <link>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPONGEdb: a pan-cancer resource for competing endogenous RNA interactions</title>
+      <link>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</link>
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hoffmann-2021-spongedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 infection is associated with a pro-thrombotic platelet phenotype</title>
+      <link>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bongiovanni-2021-sars-cov-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiCoN: Network-constrained biclustering of patients and omics data</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-bicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for modeling epistatic interaction</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-genepiseeker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Multi-Mini-Batch: An Efficient Training Approach to Federated Learning in Non-IID Environments</title>
+      <link>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/bakhtiari-2020-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data for Systems Medicine</title>
+      <link>https://biomedical-big-data.de/talk/embl_life_science_2020/</link>
+      <pubDate>Tue, 27 Oct 2020 13:15:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/talk/embl_life_science_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>
+      <link>https://biomedical-big-data.de/publication/weber-2020-balsam/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/weber-2020-balsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIGGER: exploring the functional role of alternative splicing in protein interactions</title>
+      <link>https://biomedical-big-data.de/publication/louadi-2020-digger/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/louadi-2020-digger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualized predictions of changes in knee pain, quality of life and walking speed following patient education and exercise therapy in patients with knee osteoarthritis – a prognostic model study</title>
+      <link>https://biomedical-big-data.de/publication/baumbach-2020-osteoarthritis/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/baumbach-2020-osteoarthritis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrhythmic Gut Microbiome Signatures Predict Risk of Type 2 Diabetes</title>
+      <link>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/reitmeier-2019-arrhythmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTPN2 Deficiency Enhances Programmed T Cell Expansion and Survival Capacity of Activated T Cells</title>
+      <link>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the SARS-CoV-2 virus-host-drug interactome for drug repurposing</title>
+      <link>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sadegh-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sPLINK: A Federated, Privacy-Preserving Tool as a Robust Alternative to Meta-Analysis in Genome-Wide Association Studies</title>
+      <link>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nasirigerdeh-2020-splink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Analysis in a Network Context (in &#34;Reference Module in Biomedical Sciences&#34;)</title>
+      <link>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lazareva-2020-multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiRegio: analysis and retrieval of regulatory elements linked to genes</title>
+      <link>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/baumgarten-2020-epiregio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanistic Modeling and Multiscale Applications for Precision Medicine: Theory and Practice</title>
+      <link>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/stalidzans-2020-mechanistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass-spectrometry-based draft of the Arabidopsis proteome</title>
+      <link>https://biomedical-big-data.de/publication/mergner-2020-mass/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/mergner-2020-mass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Novo Pathway Enrichment with KeyPathwayMiner</title>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2020-novo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2020-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Novo Pathway-Based Classification of Breast Cancer Subtypes</title>
+      <link>https://biomedical-big-data.de/publication/list-2020-novo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2020-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EpiGEN: an epistasis simulation pipeline</title>
+      <link>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/blumenthal-2020-epigen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunedeconv: An R Package for Unified Access to Computational Methods for Estimating Immune Cell Fractions from Bulk RNA-Sequencing Data</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-immunedeconv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-immunedeconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Silico Cell-Type Deconvolution Methods in Cancer Immunotherapy</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2020-silico/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2020-silico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative comparison of within-sample heterogeneity scores for DNA methylation data</title>
+      <link>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/scherer-2020-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mRNA-binding Protein TTP/ZFP36 in Hepatocarcinogenesis and Hepatocellular Carcinoma</title>
+      <link>https://biomedical-big-data.de/publication/krohler-2019-mrna/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/krohler-2019-mrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioAtlas verbindet Mikrobiomsequenzdaten und GEO-Informationen</title>
+      <link>https://biomedical-big-data.de/publication/lund-2019-bioatlas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/lund-2019-bioatlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFP suppresses breast cancer cell growth by TES-mediated upregulation of the transcription factor DDIT3</title>
+      <link>https://biomedical-big-data.de/publication/block-2014-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/block-2014-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology</title>
+      <link>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sturm-2019-celltypequant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hepatocellular Carcinoma and Nuclear Paraspeckles: Induction in Chemoresistance and Prediction for Poor Survival</title>
+      <link>https://biomedical-big-data.de/publication/kessler-2019-hepatocellular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kessler-2019-hepatocellular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale inference of competing endogenous RNA networks with sparse partial correlation</title>
+      <link>https://biomedical-big-data.de/publication/list-2019-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2019-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA-181d expression significantly affects treatment responses to carmustine wafer implantation</title>
+      <link>https://biomedical-big-data.de/publication/sippl-2019-mirna/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sippl-2019-mirna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THU-470-The mRNA-binding protein tristetraprolin promotes hepatocarcinogenesis but inhibits tumour progression in liver cancer</title>
+      <link>https://biomedical-big-data.de/publication/kessler-2019-thu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kessler-2019-thu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ontology-based method for assessing batch effect adjustmentapproaches in heterogeneous datasets</title>
+      <link>https://biomedical-big-data.de/publication/schmidt-2018-ontology/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/schmidt-2018-ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA-181d Expression Significantly Affects Treatment Responsesto Carmustine Wafer Implantation</title>
+      <link>https://biomedical-big-data.de/publication/sippl-2018-rr/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/sippl-2018-rr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAMI - Fast computation of Conditional Mutual Information for ceRNA network analysis</title>
+      <link>https://biomedical-big-data.de/publication/hornakova-2018-jami/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/hornakova-2018-jami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear Paraspeckles in Chemoresistance and Poor Survival in HCC</title>
+      <link>https://biomedical-big-data.de/publication/kessler-2018-nuclear/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kessler-2018-nuclear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo pathway-based biomarker identification</title>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2017-novo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Docker Compose for the Simple Deployment of an Integrated Drug Target Screening Platform</title>
+      <link>https://biomedical-big-data.de/publication/list-2017-using/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2017-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
+      <link>https://biomedical-big-data.de/publication/wittig-2017-systematic/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/wittig-2017-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlueR: large-scale epigenomic analysis in R</title>
+      <link>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/albrecht-2017-deepbluer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of de novo pathway enrichment</title>
+      <link>https://biomedical-big-data.de/publication/batra-2017-performance/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/batra-2017-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein-based nanotoxicology assessment strategy</title>
+      <link>https://biomedical-big-data.de/publication/elnegaard-2017-protein/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/elnegaard-2017-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten Simple Rules for Developing Usable Software in Computational Biology</title>
+      <link>https://biomedical-big-data.de/publication/list-2017-ten/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2017-ten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long non-coding RNA H19 suppresses carcinogenesis and chemoresistance in hepatocellular carcinoma</title>
+      <link>https://biomedical-big-data.de/publication/schultheiss-2017-long/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/schultheiss-2017-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Management of High-Throughput Screening Libraries with SAVANAH</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-efficient/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-comprehensive/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlue epigenomic data server: programmatic data retrieval and analysis of epigenome region sets</title>
+      <link>https://biomedical-big-data.de/publication/albrecht-2016-deepblue/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/albrecht-2016-deepblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KeyPathwayMinerWeb: online multi-omics network enrichment</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-keypathwayminerweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust de novo pathway enrichment with KeyPathwayMiner 5</title>
+      <link>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/alcaraz-2016-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Bioinformatics Tools for Biomedical High-Throughput Analyses</title>
+      <link>https://biomedical-big-data.de/publication/list-2015-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2015-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenLabNotes - An Electronic Laboratory Notebook Extension for OpenLabFramework</title>
+      <link>https://biomedical-big-data.de/publication/list-2015-openlabnotes/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2015-openlabnotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Phase Protein Arrays for High-throughput Toxicity Screening</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2015-reverse/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2015-reverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microarray R-based analysis of complex lysate experiments with MIRACLE</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-microarray/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-microarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Sample Tracking With OpenLabFramework</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-efficient/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Breast Cancer Subtypes by combining GeneExpression and DNA Methylation Data</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-classification/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Automation of High-Throughput Screening and Reverse Phase Protein Array Sample Preparation</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2014-integrated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2014-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Phase Protein Arrays for High-Throughput Protein Measurements in Mammospheres</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2014-reverse/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2014-reverse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

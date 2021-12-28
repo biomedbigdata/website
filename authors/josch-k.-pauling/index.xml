@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josch K. Pauling on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/josch-k.-pauling/</link>
+    <description>Recent content in Josch K. Pauling on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/josch-k.-pauling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The AIMe registry for artificial intelligence in biomedical research</title>
+      <link>https://biomedical-big-data.de/publication/matschinske-2021-aime/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matschinske-2021-aime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BALSAM—An Interactive Online Platform for Breath Analysis, Visualization and Classification</title>
+      <link>https://biomedical-big-data.de/publication/weber-2020-balsam/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/weber-2020-balsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PTPN2 Deficiency Enhances Programmed T Cell Expansion and Survival Capacity of Activated T Cells</title>
+      <link>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/flosbach-2020-tcell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the performance of de novo pathway enrichment</title>
+      <link>https://biomedical-big-data.de/publication/batra-2017-performance/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/batra-2017-performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

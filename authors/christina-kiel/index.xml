@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christina Kiel on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/christina-kiel/</link>
+    <description>Recent content in Christina Kiel on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/christina-kiel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network pharmacology: curing causal mechanisms instead of treating symptoms</title>
+      <link>https://biomedical-big-data.de/publication/nogales-2021-network-pharmacology/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/nogales-2021-network-pharmacology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyu Yun Jangb on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/kyu-yun-jangb/</link>
+    <description>Recent content in Kyu Yun Jangb on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/kyu-yun-jangb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hepatocellular Carcinoma and Nuclear Paraspeckles: Induction in Chemoresistance and Prediction for Poor Survival</title>
+      <link>https://biomedical-big-data.de/publication/kessler-2019-hepatocellular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/kessler-2019-hepatocellular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

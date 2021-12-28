@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helle Christiansen on Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/helle-christiansen/</link>
+    <description>Recent content in Helle Christiansen on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/helle-christiansen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFP suppresses breast cancer cell growth by TES-mediated upregulation of the transcription factor DDIT3</title>
+      <link>https://biomedical-big-data.de/publication/block-2014-large/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/block-2014-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic screening of isogenic cancer cells identifies DUSP6 as context-specific synthetic lethal target in melanoma</title>
+      <link>https://biomedical-big-data.de/publication/wittig-2017-systematic/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/wittig-2017-systematic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein-based nanotoxicology assessment strategy</title>
+      <link>https://biomedical-big-data.de/publication/elnegaard-2017-protein/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/elnegaard-2017-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Management of High-Throughput Screening Libraries with SAVANAH</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-efficient/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive analysis of high-throughput screens with HiTSeekR</title>
+      <link>https://biomedical-big-data.de/publication/list-2016-comprehensive/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2016-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Phase Protein Arrays for High-throughput Toxicity Screening</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2015-reverse/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2015-reverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microarray R-based analysis of complex lysate experiments with MIRACLE</title>
+      <link>https://biomedical-big-data.de/publication/list-2014-microarray/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/list-2014-microarray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Automation of High-Throughput Screening and Reverse Phase Protein Array Sample Preparation</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2014-integrated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2014-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Phase Protein Arrays for High-Throughput Protein Measurements in Mammospheres</title>
+      <link>https://biomedical-big-data.de/publication/pedersen-2014-reverse/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/pedersen-2014-reverse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

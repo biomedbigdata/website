@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data in Biomedicine</title>
+    <link>https://biomedical-big-data.de/authors/monica_matchado/</link>
+    <description>Recent content on Big Data in Biomedicine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020</copyright>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://biomedical-big-data.de/authors/monica_matchado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://biomedical-big-data.de/authors/monica_matchado/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/authors/monica_matchado/</guid>
+      <description>I am a Ph.D. student at Chair of Experimental Bioinformatics at TU Munich. I will be working on the Microbiome Project. I received my Bachelor&amp;rsquo;s degree in Bioinformatics from Tamil Nadu Agricultural University and my Masters from Karunya Institute of Technology and Sciences, India. My master thesis was about building a draft genome annotation of Carica cauliflora using NGS pipeline. For my part-semester project, I worked on the characterization of Alternative Splicing events in Arabidopsis thaliana using the RNA-Seq approach at MPI-MP, Germany.</description>
+    </item>
+    
+    <item>
+      <title>Namco: A microbiome explorer</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-namco/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-namco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis methods for studying microbial communities: A mini review</title>
+      <link>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/matchado-2021-mini-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primer, Pipelines, Parameters: Issues in 16S rRNA Gene Sequencing</title>
+      <link>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://biomedical-big-data.de/publication/abellan-schneyder-2021-rrna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
