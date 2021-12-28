@@ -3,5 +3,5 @@
 	url = git@github.com:gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = git@github.com:biomedbigdata/website
+	url = git@github.com:biomedbigdata/website.git
 	branch = master
