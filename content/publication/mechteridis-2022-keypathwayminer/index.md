@@ -1,6 +1,6 @@
 +++
 title = "KeyPathwayMineR: de novo pathway enrichment in the R ecosystem"
-date = 2021-12-24
+date = 2022-01-31
 authors = ["Konstantinos Mechteridis", "michael_lauber", "Jan Baumbach", "markus_list"]
 #type:
 #    0 = Uncategorized
@@ -36,7 +36,7 @@ projects = []
 tags = ["microbiome"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.frontiersin.org/articles/10.3389/fgene.2021.812853/pdf"
 url_preprint = ""
 url_code = "https://github.com/baumbachlab/keypathwayminer-R/"
 url_dataset = ""
@@ -45,7 +45,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = ""
+doi = "10.3389/fgene.2021.812853"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
