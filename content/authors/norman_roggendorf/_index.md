@@ -69,8 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Student Research Assistants
-- Members
+- Msc and Bsc students
 
 weight: 100
 ---

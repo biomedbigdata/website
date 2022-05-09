@@ -24,9 +24,26 @@ height = "400px"
   align = "left"
   vertical-align = "bottom"
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "group2021.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_img = "group2022.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = ""
+  content = ""
+  align = "left"
+  vertical-align = "bottom"
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "group2021.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "left"
+  vertical-align = "bottom"
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "group2019.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "ISMB 2019 in Basel"
