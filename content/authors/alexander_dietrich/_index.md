@@ -64,7 +64,7 @@ bio:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "alex.dietrich@tum.de"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -75,4 +75,4 @@ user_groups:
 weight: 100
 ---
 
-I am studying Bioinformatics at the TUM and LMU as my master since 2019. I am joining the ListLab as a HIWI to continue the project of my group from the SystemsBiomedicine practical course, where we introduced a new shiny-application to explore the microbiome, including co-occurrence analysis and clustering by functional topics.
+I am a PhD student in the Big Data in Biomedicine group at TUM. I joined this group first in 2020 as a student research assistant, where I developed the R shiny app Namco, which offers multiple analysis workflows for micobiome data. I then finished my Masters thesis in 2021, where I implemented an R package called SimBu, which can be used to simulate bulk RNA sequencing datasets with variable cell type composition. My current work is focused mainly on the analysis of transcriptomic and DNA methylation data in patients with viral diseases such as Hepatitis C, where we study the long-term effects of virus infections in a joint project called NetfLID together with TU Braunschweig and Medizinische Hochschule Hannover. 
