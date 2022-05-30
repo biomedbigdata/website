@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Intern
+role: Student Research Assistant
 
 organizations:
 - name: Chair of Experimental Bioinformatics

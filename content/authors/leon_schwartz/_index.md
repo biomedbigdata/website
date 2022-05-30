@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Franc Hysenaj
+name: Leon Schwartz
 
 # Username (this should match the folder name)
 authors:
-- franc_hysenaj
+- leon_schwartz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Bachelor student
+role: Student Research Assistant
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc Students
+- Members
 
 weight: 4
 ---
 
-Franc is working on a bachelor thesis aimed at elucidating the role of hormone secretion and hormone receptors with a focus on secretin in the human gut. He is jointly supervised by [Michael Lauber](/authors/michael_lauber) and Andrea Bast-Habersbrunner from the group of Prof. Martin Klingenspor. 
+Leon is working on the implementation of a circRNA detection pipeline in his Bachelor's Thesis. He is supervised by [Markus Hoffmann](/authors/markus_hoffmann). He is also working on namco and is jointly supervised by [Alexander Dietrich](/authors/alexander_dietrich) and [Monica Matchado](/authors/monica_matchado)
 

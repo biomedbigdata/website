@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Intern
+role: Student Research Assistant
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc Students
+- Members
 
 weight: 41
 ---
 
 While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics.
-As I work for Markus Hoffmann, I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.
+As I work for [Markus Hoffmann](/authors/markus_hoffmann) , I assist with c++ programming tasks for the development of an epistasis detection tool called GenEpiSeeker.

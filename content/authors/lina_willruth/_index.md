@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Nico Trummer
+name: Lina Willruth
 
 # Username (this should match the folder name)
 authors:
-- nico_trummer
+- lina_willruth
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: Bachelor student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,9 +69,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- BSc and MSc Students
 
 weight: 4
 ---
 
-I joined the group as a HiWi in November 2021 during my first semester of studying bioinformatics. My first tasks included building a web application based on AngularJS and performance optimization for a TF-Prioritizer pipeline in collaboration with [Markus Hoffmann](/authors/markus_hoffmann). Currently I am also assisting with server administration tasks and the frontend development for the epistasis disease atlas project with [Markus Hoffmann](/authors/markus_hoffmann). 
+Lina is working on Covid-19 immune deconvolution and BCR/TCR analysis of RNA-seq data in her Bachelor's Thesis. She is supervised by [Markus Hoffmann](/authors/markus_hoffmann).
