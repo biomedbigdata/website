@@ -23,12 +23,12 @@ organizations:
 bio:   
 
 interests:
-- Integration of BioMedical High-throughput Data
+- Integration of multi-omics data
+- Transcriptomics and gene regulation
 - Epigenetic mechanisms and cell type heterogeneity
-- Cancer drug target discovery and immunotherapy
-- (Federated) Machine Learning
-- Systems and Network Medicine
-- Computational Models for the Clinics
+- Drug target discovery and repurposing
+- (Federated) Machine Learning and Artificial Intelligence
+- Systems and Network BioMedicine
 
 education:
   courses:

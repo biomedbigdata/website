@@ -2,8 +2,8 @@
 title = "spongEffects: ceRNA modules offer patient-specific insights into the miRNA regulatory landscape"
 date = 2022-04-15
 authors = ["fabio_boniolo","markus_hoffmann","norman_roggendorf", "Bahar Tercan", "Jan Baumbach", "Mauro Castro", "A. Gordon Robertson", "Dieter Saur", "markus_list"]
-publication_types = ["2"]
-publication = "*bioarxiv*"
+publication_types = ["3"]
+publication = "*bioRxiv*"
 
 # Abstract and optional shortened version.
 abstract="Cancer is one of the leading causes of death worldwide. Despite significant improvements in prevention and treatment, mortality remains high for many cancer types. Hence, innovative methods that use molecular data to stratify patients and identify biomarkers are needed. Promising biomarkers can also be inferred from competing endogenous RNA (ceRNA) networks that capture the gene-miRNA-gene regulatory landscape. Thus far, the role of these biomarkers could only be studied globally but not in a sample-specific manner. To mitigate this, we introduce spongEffects, a novel method that infers subnetworks (or modules) from ceRNA networks and calculates patient- or sample-specific scores related to their regulatory activity. Notably, these module scores can be inferred from gene expression data alone and can thus be applied to cohorts where miRNA expression information is lacking. We show how spongEffects can be used for downstream machine learning tasks such as tumor classification and for identifying subtype-specific regulatory interactions. In a concrete example of breast cancer subtype classification, we prioritize modules impacting the biology of the different subtypes. In summary, spongEffects can perform classification tasks and prioritize ceRNA modules as biomarkers, hence offering insights into the miRNA regulatory landscape from gene expression data alone."
