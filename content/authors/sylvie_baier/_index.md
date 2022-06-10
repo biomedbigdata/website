@@ -69,9 +69,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc Students
+- Members
 
-weight: 4
+weight: 41
 ---
 
 I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. 
