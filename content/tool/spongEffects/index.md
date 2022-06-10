@@ -8,7 +8,7 @@ draft = false
 tags = ["ceRNA", "miRNA", "network analysis", "miRNA regulation","machine-learning"]
 
 # Project summary to display on homepage.
-summary = "ceRNA modules offer patient-specific insights into the miRNA regulatory landscape."
+summary = "ceRNA modules offer patient-specific insights into miRNA regulation."
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://doi.org/10.1101/2022.03.29.486212"

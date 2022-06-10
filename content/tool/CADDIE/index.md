@@ -8,7 +8,7 @@ draft = false
 tags = ["systems medicine", "drug repurposing", "network analysis"]
 
 # Project summary to display on homepage.
-summary = "Cancer driver drug interaction explorer ."
+summary = "Cancer driver drug interaction explorer for drug repurposing in oncology."
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://exbio.wzw.tum.de/caddie"

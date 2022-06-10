@@ -19,6 +19,13 @@ weight = 80
 ## Bachelor / Master thesis projects
 You can find a list of currently open topics in our group [here](https://docs.google.com/spreadsheets/d/1t9zuE1cInX89TQc9_cbqI_YCxA-gvOY-E_A9EXq7VPM/edit?usp=sharing)
 
+## SS 2022
++ Introduction to Bioinformatics II
++ Advanced Bioinformatics
++ Master practical course 
++ Journal Club Bioinformatics ([GZW](https://www.gzw.wzw.tum.de/en/during-your-doctorate/events-at-gzw-and-the-campus/))
++ Advanced lab courses (Master) 
+
 ## WS 2021 / 2022
 + Systems BioMedicine (registration via TUM online)
 + Introduction to Bioinformatics I (registration via TUM online)
