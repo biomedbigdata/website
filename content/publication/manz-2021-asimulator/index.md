@@ -36,7 +36,7 @@ projects = []
 tags = ["ASimulatoR", "Sys_CARE"]
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab142/36411348/btab142.pdf"
+url_pdf = "https://academic.oup.com/bioinformatics/article-pdf/37/18/3008/40471459/btab142.pdf?guestAccessKey=54ce2405-9744-41c7-932f-2aefe1b49308"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
