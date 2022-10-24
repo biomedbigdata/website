@@ -1,7 +1,7 @@
 +++
 title = "On the limits of graph neural networks for the early diagnosis of Alzheimer’s disease"
 date = 2022-10-21
-authors = ["laura_hernandez_lorenzo","markus_hoffmann","evelyn_scheibling","markus_list""Jordi A. Matías-Guiu","Jose L. Ayala"]
+authors = ["laura_hernandez_lorenzo","markus_hoffmann","evelyn_scheibling","markus_list","Jordi A. Matías-Guiu","Jose L. Ayala"]
 publication_types = ["2"]
 publication = "*Scientific*Reports*"
 

@@ -1,7 +1,7 @@
 +++
 title = "TF-Prioritizer: a java pipeline to prioritize condition-specific transcription factors"
 date = 2022-10-21
-authors = ["markus_hoffmann","nico_trummer","Jakub Jankowski","Hye Kyung Lee","lina_willruth","kevin_yuan","olga_lazareva","Nina Baumgarten","Florian Schmidt","Jan Baumbach","Marcel H. Schulz","david_blumenthal","Lothar Hennighausen",markus_list"]
+authors = ["markus_hoffmann","nico_trummer","Jakub Jankowski","Hye Kyung Lee","lina_willruth","kevin_yuan","olga_lazareva","Nina Baumgarten","Florian Schmidt","Jan Baumbach","Marcel H. Schulz","david_blumenthal","Lothar Hennighausen","markus_list"]
 publication_types = ["3"]
 publication = "*bioRxiv*"
 
