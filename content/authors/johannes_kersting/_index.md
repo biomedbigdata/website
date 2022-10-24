@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: PhD student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,7 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Student Research Assistants
 - Members
 
 weight: 100

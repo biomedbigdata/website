@@ -1,16 +1,15 @@
 ---
 # Display name
-name: Norman Roggendorf
+name: Maximilian V. Harl
 
 # Username (this should match the folder name)
 authors:
-- norman_roggendorf
-
+- maximilian_harl
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student Intern
+role: Student Research Assistant
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,9 +68,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc Students
+- Members
 
 weight: 4
 ---
-
-Norman joined our group as a student research assistant in 2021. Norman was working in our research of competing endogenous RNAs where he was supervised by [Markus Hoffmann](/authors/markus_hoffmann). Norman is now working as part of the NeEDL working group managed by [Markus Hoffmann](/authors/markus_hoffmann). He is investigating how we can build more meaningful SNP-SNP interaction networks.
+While finishing my second undergraduate degree in bioinformatics at TUM and LMU, I joined the Chair of Experimental Bioinformatics in October 2022 to expand my knowledge of statistical modelling and data analytics for biology research. Here, I support Prof. Schumann in the analysis of data for the development of Immune Cell Therapies and work with [Markus Hoffmann](/authors/markus_hoffmann) on an epistasis detection tool called NeEDL.

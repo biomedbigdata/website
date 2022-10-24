@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Norman Roggendorf
+name: Mira Kreuzer
 
 # Username (this should match the folder name)
 authors:
-- norman_roggendorf
+- mira_kreuzer
 
 # Is this the primary user of the site?
 superuser: false
@@ -74,4 +74,4 @@ user_groups:
 weight: 4
 ---
 
-Norman joined our group as a student research assistant in 2021. Norman was working in our research of competing endogenous RNAs where he was supervised by [Markus Hoffmann](/authors/markus_hoffmann). Norman is now working as part of the NeEDL working group managed by [Markus Hoffmann](/authors/markus_hoffmann). He is investigating how we can build more meaningful SNP-SNP interaction networks.
+Mira is working as part of the NeEDL working group [Markus Hoffmann](/authors/markus_hoffmann). She is investigating how we can build more meaningful SNP-SNP interaction networks.
