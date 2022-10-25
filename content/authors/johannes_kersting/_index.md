@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -74,4 +74,4 @@ user_groups:
 weight: 100
 ---
 
-I started studying bioinformatics at the TUM and LMU in October 2016. In 2020 I got my Bachelor's degree and I am currently studying for my Master's degree, again in Munich. In parallel, i joined the Chair of Experimental Bioinformatics as a HiWi to get some working experience and apply my knowledge to "real-world" problems.
+I have been working as a student research assistant at the Chair of Experimental Bioinformatics since 2020. During this time, I mainly worked with and further developed the methylation analysis tool Dimmer.   After completing my Master's degree in Bioinformatics in July 2022, I decided to stay in the group as a PhD student. During my PhD, I will explore the field of drug repurposing as part of the REPO4EU project and in collaboration with the company GeneSurge GmbH. 
