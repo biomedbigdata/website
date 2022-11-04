@@ -13,10 +13,10 @@
 #  url = "#posts"
 #  weight = 2
 
-[[main]]
-  name = "Twitter"
-  url = "#twitter"
-  weight = 3
+#[[main]]
+#  name = "Twitter"
+#  url = "#twitter"
+#  weight = 3
 
 [[main]]
   name = "Talks"
