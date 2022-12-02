@@ -12,7 +12,7 @@ summary = "A unifying package for in silico cell type deconvolution in immuno-on
 
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://icbi-lab.github.io/immunedeconv/articles/immunedeconv.html"
+external_link = "https://omnideconv.org/immunedeconv/"
 
 # Does the project detail page use math formatting?
 math = false
