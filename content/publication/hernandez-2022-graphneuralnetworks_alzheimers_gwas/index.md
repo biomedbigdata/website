@@ -35,7 +35,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-doi = "10.1101/2022.03.29.486212"
+doi = "https://doi.org/10.1038/s41598-022-21491-y"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
