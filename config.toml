@@ -67,7 +67,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "markus.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "markus.list@wzw.tum.de"
+  email = "markus.list@tum.de"
   address = "Maximus-von-Imhof-Forum 3, 85354 Freising"
   office_hours = "Email for appointment"
   phone = "+49 8161 71 2761"
@@ -238,7 +238,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:markus.list@wzw.tum.de"
+    link = "mailto:markus.list@tum.de"
 
   [[params.social]]
     icon = "twitter"
@@ -326,7 +326,7 @@ enableGitInfo = false
   weight = 6  
 
 [[menu.main]]
-  name = "Contact"
+  name = "Impressum / Contact"
   url = "#contact"
   weight = 8
 
