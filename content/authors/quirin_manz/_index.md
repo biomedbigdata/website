@@ -10,15 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: PhD Student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
   url: "https://www1.ls.tum.de/exbio/startseite/"
 - name: Technical University of Munich
   url: "https://www.tum.de"
-- name: Ludwig-Maximilians-Universität München
-  url: "https://www.uni-muenchen.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio:   
@@ -48,15 +46,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:quirin.manz@tum.de'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/quirinmanz
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=HWawCpMAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/quirinmanz
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5706-2718
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Quirin-Manz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,10 +73,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- PhD Students
 - Members
-- BSc and MSc students
 
 weight: 34
 ---
 
-Since 2016 I am studying Bioinformatics at the LMU and TUM. For my bachelor thesis I joined to ListLab in 2019 to look into histone modifications' impact on alternative splicing. Since August 2019 I'm working as a hiwi.
+From 2016 to 2022, I studied Bioinformatics as B.Sc. and M.Sc. in a joint program at the LMU and TUM. For my Bachelor's Thesis, I joined the ListLab in 2019 to look into histone modifications' impact on alternative splicing. From August 2019 until the end of 2022, I worked as a student research assistant in the group. My Master's Thesis in the scope of the [IHEC Integrative Analysis](https://ihec-epigenomes.org/research/integrative-analysis/) project expanded the idea of the Bachelor's Thesis and added DNA methylation to the epigenetic marks that were associated with alternative splicing. Since 2023 I have continued as a doctoral student/Ph.D. candidate for the [REPO4EU](https://repo4.eu/) project to build a knowledge base for drug repurposing. 
