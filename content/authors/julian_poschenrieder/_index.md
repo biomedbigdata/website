@@ -74,5 +74,5 @@ user_groups:
 weight: 41
 ---
 
-While studying bioinformatics in the bachelor programme at TUM and LMU I joined the group biomedical big data within the scope of an internship to gain more practical experience in the fields of Bioinformatics.
-As I work for [Markus Hoffmann](/authors/markus_hoffmann) , I assist with c++ programming tasks for the development of an epistasis detection tool called NeEDL.
+While studying Bioinformatics in the bachelor program at TUM and LMU, I joined the group Biomedical Big Data within the scope of an internship to gain more practical experience in the field of Bioinformatics.
+Working for [Markus Hoffmann](/authors/markus_hoffmann), I assist with C++ programming tasks for the development of an epistasis detection tool called NeEDL.

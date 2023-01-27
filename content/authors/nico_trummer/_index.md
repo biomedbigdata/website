@@ -74,4 +74,4 @@ user_groups:
 weight: 4
 ---
 
-I joined the group as a HiWi in November 2021 during my first semester of studying bioinformatics. My first tasks included building a web application based on AngularJS and performance optimization for a TF-Prioritizer pipeline in collaboration with [Markus Hoffmann](/authors/markus_hoffmann). Currently I am also assisting with server administration tasks and the frontend development for the epistasis disease atlas project with [Markus Hoffmann](/authors/markus_hoffmann). 
+I joined the group as a HiWi in November 2021 during my first semester of studying Bioinformatics. My first tasks included building a web application based on AngularJS and performance optimization for a TF-Prioritizer pipeline in collaboration with [Markus Hoffmann](/authors/markus_hoffmann). Currently I am also assisting with server administration tasks and the frontend development for the epistasis disease atlas project with [Markus Hoffmann](/authors/markus_hoffmann). 

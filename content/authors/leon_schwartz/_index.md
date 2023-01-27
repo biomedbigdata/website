@@ -74,5 +74,5 @@ user_groups:
 weight: 4
 ---
 
-Leon is working on the implementation of a circRNA detection pipeline in his Bachelor's Thesis. He is supervised by [Markus Hoffmann](/authors/markus_hoffmann). He is also working on namco and is jointly supervised by [Alexander Dietrich](/authors/alexander_dietrich) and [Monica Matchado](/authors/monica_matchado)
+I am working on the implementation of a circRNA detection pipeline within the scope of my bachelor's thesis, supervised by [Markus Hoffmann](/authors/markus_hoffmann). I am also working on Namco, where I am jointly supervised by [Alexander Dietrich](/authors/alexander_dietrich) and [Monica Matchado](/authors/monica_matchado).
 

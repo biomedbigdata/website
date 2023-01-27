@@ -74,4 +74,4 @@ user_groups:
 weight: 2
 ---
 
-I have been working as a student research assistant at the Chair of Experimental Bioinformatics since 2020. During this time, I mainly worked with and further developed the methylation analysis tool Dimmer. After completing my Master's degree in Bioinformatics in July 2022, I decided to stay in the group as a PhD student. During my PhD, I will explore the field of drug repurposing as part of the REPO4EU project and in collaboration with the company GeneSurge GmbH. 
+I have been working as a student research assistant at the Chair of Experimental Bioinformatics since 2020. During this time, I mainly worked with and further developed the methylation analysis tool Dimmer. After completing my master's degree in Bioinformatics in July 2022, I decided to stay in the group as a Ph.D. student. During my Ph.D., I will explore the field of drug repurposing as part of the REPO4EU project and in collaboration with the company GeneSurge GmbH. 

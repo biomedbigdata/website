@@ -74,6 +74,6 @@ user_groups:
 weight: 41
 ---
 
-I am a bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in bioinformatics. 
-Currently I am working for [Markus Hoffmann](/authors/markus_hoffmann) on the development of GenEpiSeeker, a tool for generic epistasis detection via local search. 
+I am a Bioinformatics bachelor student at the Technical University of Munich and the Ludwig-Maximilians-University. Since October 2020, I am an intern at the Chair of Experimental Bioinformatics to gain more practical experience in Bioinformatics. 
+Currently, I am working for [Markus Hoffmann](/authors/markus_hoffmann) on the development of GenEpiSeeker, a tool for generic epistasis detection via local search. 
 
