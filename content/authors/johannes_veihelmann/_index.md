@@ -74,4 +74,4 @@ user_groups:
 weight: 4
 ---
 
-Johannes is working on the extension of SPONGEdb with subtype network of TCGA cancers and implementation of community detection in spongEffects. He is supervised by [Markus Hoffmann](/authors/markus_hoffmann).
+Johannes is working since 2022 on the extension of SPONGEdb with subtype network of TCGA cancers and implementation of community detection in spongEffects. He is supervised by [Markus Hoffmann](/authors/markus_hoffmann).

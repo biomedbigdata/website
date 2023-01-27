@@ -79,4 +79,4 @@ user_groups:
 weight: 25
 ---
 
-My PhD project is a connection between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. I received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and my M.Sc. of Biology from the LMU Munich in 2019. The results of my Master thesis at the Molecular Cardiology lab laid the foundation of this joined project. I am aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.
+Melissa did her PhD project from 2018-2022 in a collaboration between the Molecular Cardiology lab at the Klinikum rechts der Isar Munich and the Chair of Experimental Bioinformatics. She received my B.Sc. of Biology from the University of Hohenheim, Stuttgart, in 2015 and a M.Sc. of Biology from the LMU Munich in 2019. Her work was aiming to deeply characterize the proteome and transcriptome of human blood platelets using (sc)RNA-sequencing, mass spectrometry and single-cell mass cytometry.

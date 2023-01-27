@@ -74,5 +74,4 @@ user_groups:
 weight: 52
 ---
 
-I'm a Bioinformatics Bachelor student at the Ludwig Maximilian University of Munich and Technical University of Munich since October 2017. 
-Currently I am working as a HiWi at the Experimental Bioinformatics chair at the Technical University to gather more practical experience.
+Kevin Yuan was a Bioinformatics Bachelor student at the Ludwig Maximilian University of Munich and Technical University of Munich and joined the group as a student assistant from 2017 - 2019 to work on BiCoN and DIGGER.

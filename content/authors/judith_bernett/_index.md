@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Research Assistant
+role: PhD student
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc students
+- PhD students
 - Members
 
-weight: 6
+weight: 1
 ---
 
-I'm a bioinformatics master's student at TUM and LMU and joined the Chair of Experimental Bioinformatics for my bachelor's thesis. Here, I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Currently, I am working as a HiWi at the chair.
+I joined the Chair of Experimental Bioinformatics in 2020 for my bachelor's thesis, in which I developed a risk score for mortality prediction in patients undergoing transcatheter aortic valve implantation. Afterward, I stayed on as a HiWi, contributing to computational systems biology and network medicine projects. This work included disease module mining (ROBUST method), in silico drug repurposing (NeDRex platform), and CYANUS, a platform for CyTOF data and differential expression analysis. My master's thesis investigated deep sequence-based PPI prediction methods, which claimed to achieve almost perfect accuracies, and revealed that these performances were exclusively due to data leakage of sequence similarities and node degrees. In March 2023, I will start my Ph.D. in this group, contributing to the project DROP2AI, which focuses on drug response predictions using Proteomics and AI. 

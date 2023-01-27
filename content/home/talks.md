@@ -5,7 +5,7 @@ active = true
 weight = 13
 headless = true
 
-title = "Recent & Upcoming Talks"
+title = "Events and Talks"
 subtitle = ""
 
 

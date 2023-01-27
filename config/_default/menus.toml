@@ -19,7 +19,7 @@
 #  weight = 3
 
 [[main]]
-  name = "Talks"
+  name = "Events"
   url = "#talks"
   weight = 5
 
@@ -37,11 +37,6 @@
   name = "Projects"
   url = "#projects"
   weight = 7
-
-[[main]]
-  name = "Tools"
-  url = "#tools"
-  weight = 6
 
 [[main]]
   name = "Teaching"

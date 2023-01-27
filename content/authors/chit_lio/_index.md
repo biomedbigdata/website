@@ -72,4 +72,4 @@ user_groups:
 weight: 30
 ---
 
-I'm a PhD candidate at the Chair of Experimental Bioinformatics starting from April 2020. I will be focusing on using machine learning methods to study the alternative splicing events in cardiac and kidney diseases. I'm particularly interested in exploring omics data in a time series manner. I got my BSc in Life Sciences in Taiwan and my MSc in Biology at LMU Munich. In my master thesis, I have been performing time course network enrichment analysis on X-irradiated human fibroblast. 
+Chit Tong Lio was a PhD candidate at the Chair of Experimental Bioinformatics from April 2020 and later joined the University of Hamburg. She was focusing on using machine learning methods to study the alternative splicing events in cardiac and kidney diseases and developed tools for exploring omics data in a time series. She received a BSc in Life Sciences in Taiwan and my MSc in Biology at LMU Munich. In her master thesis, she performed time course network enrichment analysis on X-irradiated human fibroblast. 

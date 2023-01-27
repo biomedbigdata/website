@@ -74,5 +74,5 @@ user_groups:
 weight: 12
 ---
 
-I am a Bioinformatics Master student at the TUM and LMU. I joined the group in 2019, when I did my bachelor thesis on the role of circular RNA in sponging and implemented a docker pipeline for analyzing matched small- and total-RNA sequencing data. 
-Since September 2020, I am working on extending the circRNA analysis and implementing an nextflow pipeline as part of my advanced practical course. In October 2020, I started working as a student assistant.
+Octavia Ciora joined the group as a Bioinformatics Master student of  TUM and LMU in 2019. She did her bachelor thesis on the role of circular RNA in sponging and implemented a docker pipeline for analyzing matched small- and total-RNA sequencing data. 
+From 2020 - 2021 she was working on extending the circRNA analysis and implementing an nextflow pipeline as a student assistant.

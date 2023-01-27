@@ -1,7 +1,7 @@
 +++
 title = "Robust disease module mining via enumeration of diverse prize-collecting Steiner trees"
 date = 2022-01-04
-authors = ["Judith Bernett", "Dominik Krupke", "Sepideh Sadegh", "Jan Baumbach", "Sándor P Fekete", "Tim Kacprowski", "Markus List", "David B Blumenthal"]
+authors = ["judith_bernett", "Dominik Krupke", "Sepideh Sadegh", "Jan Baumbach", "Sándor P Fekete", "Tim Kacprowski", "markus_list", "david_blumenthal"]
 #type:
 #    0 = Uncategorized
 #    1 = Conference paper

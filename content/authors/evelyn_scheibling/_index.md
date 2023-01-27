@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc student
+role: Student Research Assistant
 
 organizations:
 - name: Chair of Experimental Bioinformatics
@@ -69,9 +69,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- BSc and MSc Students
+- Alumni
 
 weight: 48
 ---
 
-I'm a Master student in Bioinformatics at the Technical University of Munich and the Ludwig-Maximilian University. In October 2019, I joined the Chair of Experimental Bioinformatics in Weihenstephan to work on my bachelor thesis on the indentification of miRNA binding site enriched transcripts in The Cancer Genome Atlas. From October 2020, I work as a student assistant for the group.
+Evelyn Scheibling joined the group in 2019 to work on her bachelor thesis on the indentification of miRNA binding site enriched transcripts in The Cancer Genome Atlas. From October 2020-2021, she worked as a student assistant for the group.

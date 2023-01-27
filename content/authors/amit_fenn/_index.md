@@ -73,9 +73,9 @@ user_groups:
 weight: 15
 ---
 
-I'm a PhD candidate at the chair of Experimental Bioinformatics at TUM. My
+Amit Fenn was a PhD candidate at the chair of Experimental Bioinformatics at TUM. My
 project is the study of alternative splicing in heart and kidney using machine
-learning to analyze multi-omics data. I studied cellular biology, specializing
-in the mitochondria, during my Master's at LMU. For my Master's thesis, I
+learning to analyze multi-omics data. He studied cellular biology, specializing
+in the mitochondria, during his Master's at LMU. For his Master's thesis, I
 explored splicing within ribosomal protein genes, in the context of the
-biogenesis of mitochondria.
+biogenesis of mitochondria. Amit Fenn is now working as a research associate in the group of Lara Urban at Helmholtz / TUM.

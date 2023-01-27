@@ -79,4 +79,4 @@ user_groups:
 weight: 47
 ---
 
-I’m a bioinformatics Master student at the Technical University of Munich and the LMU. I joined the Chair of Experimental Bioinformatics as a HiWi to gain more practical experience in bioinformatics during my Bachelor's degree in October 2018, and am continuing this for my master. In March 2020 I finished my bachelor thesis on a thyrotoxicosis gene expression time series at the Chair. I will continue this and similar projects as a student research assistant.
+Fanny Roessler joined the group as a bioinformatics Master student and as student assistant from 2018 to 2019 to gain more practical experience in bioinformatics. 

@@ -68,10 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
-- Members
+- Alumni
 
 weight: 36
 ---
 
-I am a Ph.D. student at Chair of Experimental Bioinformatics at TU Munich. I will be working on the Microbiome Project. I received my Bachelor's degree in Bioinformatics from Tamil Nadu Agricultural University and my Masters from Karunya Institute of Technology and Sciences, India. My master thesis was about building a draft genome annotation of Carica cauliflora using NGS pipeline. For my part-semester project, I worked on the characterization of Alternative Splicing events in Arabidopsis thaliana using the RNA-Seq approach at MPI-MP, Germany. After my masters, I worked as Research Fellow at Ganga Hospital, India where I focused on 16S Metagenomics as well as Proteomics. I am interested in learning and applying Machine learning concepts in solving biological questions.
+Monica Matchado was a Ph.D. student at Chair of Experimental Bioinformatics at TU Munich. She was working in the INF01 project of SFB1371 studying microbial signatures. She received my Bachelor's degree in Bioinformatics from Tamil Nadu Agricultural University and a Masters from Karunya Institute of Technology and Sciences, India. Her master thesis was about building a draft genome annotation of Carica cauliflora using NGS pipeline. In a part-semester project, she worked on the characterization of Alternative Splicing events in Arabidopsis thaliana using the RNA-Seq approach at MPI-MP, Germany. After finishing her master, she worked as Research Fellow at Ganga Hospital, India where she focused on 16S Metagenomics as well as Proteomics. In her PhD project Monica worked on Namco, a tool to allow 16S rRNA profiling data and on benchmarking the functional characterization of 16S rRNA profiles. Monica is currently finishing her PhD thesis and joined the lab of Barbara Stecher at LMU.

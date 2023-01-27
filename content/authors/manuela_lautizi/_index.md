@@ -68,10 +68,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
-- Members
+- Alumni
 
-weight: 28
+weight: 2
 ---
 
-I’m a PhD student in the Chair of Experimental Bioinformatics in collaboration with the Institute of Pathology, both at TUM. I’ve originally joined Prof. Baumbach’s lab to work on my master’s thesis in bioinformatics, focused to identify pathway-based subnetwork of genes most significantly associated to survival time of cancer patients. Other topics of my interest are machine learning (both supervised and unsupervised), manipulation and analysis of the data from a statistical point of view. My current work is mainly focused on the analysis of DNA methylation data.
+Manuela Lautizi was a PhD student in the Chair of Experimental Bioinformatics in collaboration with the Institute of Pathology, both at TUM. She originally joined Prof. Baumbach’s lab to work on her master’s thesis in bioinformatics, focused to identify pathway-based subnetwork of genes most significantly associated to survival time of cancer patients. During her PhD she studied signatures and DNA methylation biomarkers in PDAC that can be used for subtyping and metastasis detection. She also studied biomarkers of tumor budding. 
