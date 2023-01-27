@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:markus.list@wzw.tum.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:markus.list@tum.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: //twitter.com/itisalist
