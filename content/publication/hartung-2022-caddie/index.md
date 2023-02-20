@@ -1,7 +1,7 @@
 +++
 title = "Cancer driver drug interaction explorer"
 date = 2022-05-17
-authors = ["michael_hartung", "Elisa Anastasi", "Zeinab M. Mamdouh", "Cristian Nogales", "Harald H.H.W. Schmidt", "Jan Baumbach", "Olga Zolotareva", "markus_list"]
+authors = ["Michael Hartung", "Elisa Anastasi", "Zeinab M. Mamdouh", "Cristian Nogales", "Harald H.H.W. Schmidt", "Jan Baumbach", "Olga Zolotareva", "markus_list"]
 #type:
 #    0 = Uncategorized
 #    1 = Conference paper
