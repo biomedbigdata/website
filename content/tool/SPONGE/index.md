@@ -11,7 +11,7 @@ tags = ["ceRNA", "miRNA", "network analysis", "miRNA regulation"]
 summary = "Inferring genome-wide networks of competing endogenous RNAs."
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://exbio.wzw.tum.de/sponge/"
+external_link = "https://doi.org/doi:10.18129/B9.bioc.SPONGE"
 
 # Does the project detail page use math formatting?
 math = false
